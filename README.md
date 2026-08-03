@@ -1,4 +1,4 @@
-## Hi there 👋
+## Davada Zaita - Military Commander 👋
 
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a1cb589a-cde2-4bf5-963b-683d3fc80593" />
