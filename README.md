@@ -1,5 +1,10 @@
 ## Davada Zaita - Military Commander 👋
 
+```text
+Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geometric formation, their carbines firing with machine precision—each shot calculated, each target eliminated before the enemy could register the threat. The Cyborg Platoon flowed through the gaps, their augmented reflexes turning the broken terrain into an advantage. Davada moved with them, his cybernetic arm absorbing recoil that would have shattered bone, his optical implant feeding him a god's-eye view of the battle unfolding in real time.
+
+```
+
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
