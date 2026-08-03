@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a1cb589a-cde2-4bf5-963b-683d3fc80593" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7f4adab5-d0c2-4737-a238-b6f755c580fe" />
+
 ```
 Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geometric formation, their carbines firing with machine precision—each shot calculated, each target eliminated before the enemy could register the threat. The Cyborg Platoon flowed through the gaps, their augmented reflexes turning the broken terrain into an advantage. Davada moved with them, his cybernetic arm absorbing recoil that would have shattered bone, his optical implant feeding him a god's-eye view of the battle unfolding in real time.
 
