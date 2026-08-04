@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Alaia Beni Tisiba - Military Commander - Special Cyborgs Dogs Z.
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bb1515ed-434a-49bb-8825-a87dd9ef1f25" />
+
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/64b14c8e-3dcc-4ee5-86b5-6a2ae7587be2" />
