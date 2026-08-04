@@ -89,6 +89,18 @@ Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geomet
 ```
 ---
 
+Qual é a Music ??? 
+
+---
+
+*NSYNC* - Bye Bye Bye (Official Video)
+
+https://www.youtube.com/watch?v=Eo-KmOd3i7s
+
+---
+
+---
+
 ## VIXE, DJ QUAL IS THE MUSIC, NO DINNER E BOI RALADO???
 
 https://youtu.be/BM9EIbHRSh0?list=RDBM9EIbHRSh0
@@ -98,6 +110,9 @@ https://youtu.be/BM9EIbHRSh0?list=RDBM9EIbHRSh0
 ## VIXE, BOY, ROOKIE AZULAY NOS OTARIOS DA MACONHA DO DIABO ????
 
 <img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/072f0c6e-7014-4516-9978-c523a4ad829a" />
+
+
+## VIXE, BOY, THE ALL PEOPLE USING ARDIDAS, KAKAKKA ????
 
 <img width="1200" height="570" alt="Image" src="https://github.com/user-attachments/assets/29b1d969-5f23-4963-9ca5-ff226e523302" />
 
@@ -121,8 +136,6 @@ https://youtu.be/BM9EIbHRSh0?list=RDBM9EIbHRSh0
 
 ---
 
-## VIXE, BOY, THE ALL PEOPLE USING ARDIDAS, KAKAKKA ????
-
 <img width="576" height="869" alt="Image" src="https://github.com/user-attachments/assets/2b708dfc-be74-4d40-9f8e-04c737d6e3fd" />
 
 ---
@@ -130,15 +143,3 @@ https://youtu.be/BM9EIbHRSh0?list=RDBM9EIbHRSh0
 <img width="686" height="386" alt="Image" src="https://github.com/user-attachments/assets/e8a48495-4f35-4594-bee6-0939ee1e126b" />
 
 ---
-
-Qual é a Music ??? 
-
----
-
-*NSYNC* - Bye Bye Bye (Official Video)
-
-https://www.youtube.com/watch?v=Eo-KmOd3i7s
-
----
-
-
