@@ -87,6 +87,11 @@ Here are some ideas to get you started:
 Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geometric formation, their carbines firing with machine precision—each shot calculated, each target eliminated before the enemy could register the threat. The Cyborg Platoon flowed through the gaps, their augmented reflexes turning the broken terrain into an advantage. Davada moved with them, his cybernetic arm absorbing recoil that would have shattered bone, his optical implant feeding him a god's-eye view of the battle unfolding in real time.
 
 ```
+---
+
+## VIXE, IS LAMPIÃO AMERICAN-KEY ???
+
+<img width="1268" height="1434" alt="Image" src="https://github.com/user-attachments/assets/87276c0d-e4cd-4ac1-82ce-c9eea315682e" />
 
 ---
 
