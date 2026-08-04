@@ -6,6 +6,14 @@
 
 ---
 
+## Alaia Beni Tisiba - Special Cyborgs Dogs Z - Prototype
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/93f361a5-b299-40be-b418-fc74f1333014" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/82fa4254-116a-4366-8f8e-e6cb6d3f9d0d" />
 
 <!--
