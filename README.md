@@ -90,7 +90,15 @@ Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geomet
 
 ---
 
-## VIXE, HINDU É AMERICAKEY, É TÃO BLACK QUE PARECE AZUL ???
+## VIXE, HINDU É AMERICAKEY, É TÃO BLACK QUE PARECE BLUE ???
+
+---
+
+## VIXE, HOW MANY NAJAS ????
+
+---
+
+<img width="600" height="900" alt="Image" src="https://github.com/user-attachments/assets/ba53c1b3-5182-42c6-beda-79d2f826f18d" />
 
 ---
 
