@@ -1,5 +1,3 @@
-## A nova policie da poeira do caos da besteira. KAKAKAKKA
-
 ---
 
 ## Alaia Beni Tisiba - Military Commander - Special Cyborgs Dogs Z.
