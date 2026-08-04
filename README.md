@@ -89,6 +89,12 @@ Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geomet
 ```
 ---
 
+## VIXE, DJ QUAL IS THE MUSIC, NO DINNER E BOI RALADO???
+
+https://youtu.be/BM9EIbHRSh0?list=RDBM9EIbHRSh0
+
+---
+
 ## VIXE, BOY, ROOKIE AZULAY NOS OTARIOS DA MACONHA DO DIABO ????
 
 <img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/072f0c6e-7014-4516-9978-c523a4ad829a" />
