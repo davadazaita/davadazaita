@@ -1,5 +1,9 @@
 ## Davada Beni Zaita - Military Commander - Special Forces Z.
 
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bb1515ed-434a-49bb-8825-a87dd9ef1f25" />
+
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +20,6 @@ Here are some ideas to get you started:
 -->
 
 ## Alaia Beni Tisiba - Military Commander - Special Cyborgs Dogs Z.
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bb1515ed-434a-49bb-8825-a87dd9ef1f25" />
 
 ---
 
