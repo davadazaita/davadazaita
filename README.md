@@ -4,7 +4,7 @@ Qual é a music ???
 
 ---
 
-*NSYNC - Bye Bye Bye (Official Video)
+*NSYNC* - Bye Bye Bye (Official Video)
 
 https://www.youtube.com/watch?v=Eo-KmOd3i7s
 
