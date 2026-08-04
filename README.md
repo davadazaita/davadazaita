@@ -99,6 +99,8 @@ https://youtu.be/BM9EIbHRSh0?list=RDBM9EIbHRSh0
 
 <img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/072f0c6e-7014-4516-9978-c523a4ad829a" />
 
+<img width="1200" height="570" alt="Image" src="https://github.com/user-attachments/assets/29b1d969-5f23-4963-9ca5-ff226e523302" />
+
 ---
 
 ## VIXE, MENINO, IS LAMPIÃO AMERICAN-KEY ???
@@ -118,6 +120,8 @@ https://youtu.be/BM9EIbHRSh0?list=RDBM9EIbHRSh0
 <img width="600" height="900" alt="Image" src="https://github.com/user-attachments/assets/ba53c1b3-5182-42c6-beda-79d2f826f18d" />
 
 ---
+
+## VIXE, BOY, THE ALL PEOPLE USING ARDIDAS, KAKAKKA ????
 
 <img width="576" height="869" alt="Image" src="https://github.com/user-attachments/assets/2b708dfc-be74-4d40-9f8e-04c737d6e3fd" />
 
