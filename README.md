@@ -1,4 +1,4 @@
-## Davada Zaita - Military Commander - Force Z engaged as one organism. 👋
+## Davada Zaita - Military Commander - Special Force Z - engaged as one organism. 👋
 
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
