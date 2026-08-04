@@ -4,6 +4,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bb1515ed-434a-49bb-8825-a87dd9ef1f25" />
 
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/82fa4254-116a-4366-8f8e-e6cb6d3f9d0d" />
+
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
