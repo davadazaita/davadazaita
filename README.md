@@ -89,7 +89,7 @@ Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geomet
 ```
 ---
 
-## VIXE, IS LAMPIÃO AMERICAN-KEY ???
+## VIXE, MENINO, IS LAMPIÃO AMERICAN-KEY ???
 
 <img width="1268" height="1434" alt="Image" src="https://github.com/user-attachments/assets/87276c0d-e4cd-4ac1-82ce-c9eea315682e" />
 
