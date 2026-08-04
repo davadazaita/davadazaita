@@ -89,6 +89,12 @@ Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geomet
 ```
 ---
 
+## VIXE, BOY, ROOKIE AZULAY NOS OTARIOS DA MACONHA DO DIABO ????
+
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/072f0c6e-7014-4516-9978-c523a4ad829a" />
+
+---
+
 ## VIXE, MENINO, IS LAMPIÃO AMERICAN-KEY ???
 
 <img width="1268" height="1434" alt="Image" src="https://github.com/user-attachments/assets/87276c0d-e4cd-4ac1-82ce-c9eea315682e" />
