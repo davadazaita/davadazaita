@@ -1,4 +1,4 @@
-## Davada Beni Zaita - Military Commander - Special Forces Z.
+## Alaia Beni Tisiba - Military Commander - Special Cyborgs Dogs Z.
 
 ---
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Alaia Beni Tisiba - Military Commander - Special Cyborgs Dogs Z.
+## Davada Beni Zaita - Military Commander - Special Forces Z.
 
 ---
 
