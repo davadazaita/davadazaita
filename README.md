@@ -1,15 +1,5 @@
 ---
 
-Qual é a music ??? 
-
----
-
-*NSYNC* - Bye Bye Bye (Official Video)
-
-https://www.youtube.com/watch?v=Eo-KmOd3i7s
-
----
-
 ## Alaia Beni Tisiba - Military Commander - Special Cyborgs Dogs Z.
 
 ---
@@ -103,6 +93,16 @@ Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geomet
 VIXE, HINDU É AMERICAKEY ???
 
 <img width="576" height="869" alt="Image" src="https://github.com/user-attachments/assets/2b708dfc-be74-4d40-9f8e-04c737d6e3fd" />
+
+---
+
+Qual é a Music ??? 
+
+---
+
+*NSYNC* - Bye Bye Bye (Official Video)
+
+https://www.youtube.com/watch?v=Eo-KmOd3i7s
 
 ---
 
