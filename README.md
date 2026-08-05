@@ -1,5 +1,13 @@
 ---
 
+<h2>Think It. Play It. Robotics in the classroom </h2>
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/424fcd77-3d18-4d3f-9fe0-50389f99503a" />
+
+---
+
 <h2>Think It. Play It. Zeta-Station™ Mind-Control Console </h2>
 
 ---
