@@ -4,16 +4,15 @@
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6f8d7429-0fe8-4588-bf93-2291c8562346" />
-
----
-
 <h2>Think It. Play It. Zeta-Station™ Mind-Control Console </h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1877ea5a-abd4-485f-9d2f-2639be1dd262" />
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6f8d7429-0fe8-4588-bf93-2291c8562346" />
+
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d85db8f4-39b2-4a51-81d9-0ac4da3f4178" />
 
