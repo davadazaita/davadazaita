@@ -2,6 +2,8 @@
 
 <h2>Think It. Humanoids Assistance During Autonomous Working</h2>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d2d71e3c-f360-4498-b8ff-5e577227a5f5" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7c127d8b-c97c-4426-b901-371e59b770c1" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f2be3863-072e-479f-8049-498db5bbedc6" />
