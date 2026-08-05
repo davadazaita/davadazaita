@@ -8,6 +8,12 @@
 
 ---
 
+<h2>Think It. Play It. NEW ZETA ARMOR </h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/279dfff0-b561-40f8-aa7b-533a9919b933" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1f824287-7d6d-4079-a8bf-0ddbbface117" />
 
 ---
