@@ -1,5 +1,7 @@
 <h2>Think It. Amistoso, Jugador de Davada en España </h2>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c3f76c34-3e48-43d9-9cef-1e648bbc841a" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/92f424ad-c70f-4f4d-8642-1482f8bd90c7" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cd12e399-0965-4b8f-b970-f4da4d68317a" />
