@@ -1,5 +1,11 @@
 ---
 
+<h2>Think It. Humanoids Assistance During Autonomous Working</h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f2be3863-072e-479f-8049-498db5bbedc6" />
+
+---
+
 <h2>Think It. Dr. Davada Zaita on Humanoids Assistance During Machine Elevation </h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/72d17e4f-883b-4e6d-a6b1-c4d8c1a5a6cd" />
