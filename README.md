@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Davada Beni Zaita - Military Commander - Special Forces Z.
 
 ---
