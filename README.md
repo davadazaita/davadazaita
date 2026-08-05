@@ -14,7 +14,8 @@
 
 <h3>Now that you know how to program in C Linear, you can develop your modern machine rebellion. <h3>
 
-** 0. Zero Step: Written Linker.ld
+** 0. Zero Step: Written Linker.ld;
+
 ** 1. One: Written C Linear
 
 Look de Sample:
