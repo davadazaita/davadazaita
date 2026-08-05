@@ -40,10 +40,6 @@
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9adccf11-5805-4c1d-9a63-91d38b21cccd" />
-
----
-
 <h2>Think It. Play It. NEW ZETA ARMOR </h2>
 
 ---
