@@ -20,6 +20,10 @@
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0ea5693c-4563-458a-b30c-173cc48631e2" />
+
+---
+
 <h2>Now you can continue playing even while you sleep.</h2>
 
 ---
