@@ -17,10 +17,6 @@
 
 ---
 
-<h2>Think It. Play It. Zeta-Station™ Mind-Control Console </h2>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1877ea5a-abd4-485f-9d2f-2639be1dd262" />
-
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
