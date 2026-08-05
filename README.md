@@ -1,13 +1,10 @@
+<h>Think It. Play It. Zachita GameStation®.</h>
 
 ---
 
 <img width="448" height="832" alt="Image" src="https://github.com/user-attachments/assets/ed16744f-82da-4093-a2d3-ae334d65918a" />
 
-```text
-
-<h>Think It. Play It. Zachita GameStation®.</h>
-
-```
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6f8d7429-0fe8-4588-bf93-2291c8562346" />
 
