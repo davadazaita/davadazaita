@@ -22,9 +22,13 @@
 
 ---
 
-**OBS: BLACK CODE SAUSAGE**
+**OBS0: BLACK CODE SAUSAGE**
 
 It is very common to make the code sausage, that is, a mixture of GNU GCC ANSI C89/90 within the GNU Assembly
+
+**OBS1: PLASTIC EQUIVALENCE (Tupperware®) USED ON EVOLUTION TECH:**
+
+<img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/cc764d95-9f57-4419-b743-f75a310aabd6" />
 
 ---
 
