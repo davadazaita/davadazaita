@@ -1,5 +1,15 @@
 ```text
 
+It's funny how Ramon only favors people if they're thieves just like him...
+
+ENGRAÇADO QUE O RAMON SO FAVORECE SE FOR LADRÃO IGUALZINHO A ELE...
+
+```
+
+---
+
+```text
+
 If you yell "Catch the thief!", not one of my brothers will be left...
 
 SE GRITAR PEGA LADRÃO, NÃO FICA UM MEU IRMÃO....
