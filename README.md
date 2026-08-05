@@ -1,6 +1,6 @@
 ---
 
-<h2>Think It. Humanoids Assistance During Autonomous Working</h2>
+<h2>Think It. Seven Fingers Humanoids Assistance During Autonomous Working</h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d2d71e3c-f360-4498-b8ff-5e577227a5f5" />
 
