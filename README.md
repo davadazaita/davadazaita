@@ -141,6 +141,10 @@ Here are some ideas to get you started:
 
 ---
 
+<h2>Think It. Play It. BUILDING MODERN MACHINE REBELLION </h2>
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/79177c99-21bc-4437-9173-adf51ef2ec6b" />
 
 ---
@@ -150,10 +154,6 @@ Here are some ideas to get you started:
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dce61c89-82ff-4622-9c8f-0ee9924630c2" />
-
----
-
-<h2>Think It. Play It. BUILDING MODERN MACHINE REBELLION </h2>
 
 ---
 
