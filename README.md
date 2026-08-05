@@ -1,3 +1,5 @@
+<img width="448" height="832" alt="Image" src="https://github.com/user-attachments/assets/ed16744f-82da-4093-a2d3-ae334d65918a" />
+
 ```text
 
 At its core, Force Z was not a conventional unit. It represented the apex of Zaschita Special Operations evolution—a hybrid command structure fusing human augmentation with synthetic support into a seamless, lethal hierarchy. The unit designation officially stood for "Zaschita"—Protection—in old operational code. But among the soldiers who whispered about them in barracks and forward operating bases, the Z meant something else entirely. It meant the end. The final, absolute solution. Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geometric formation, their carbines firing with machine precision—each shot calculated, each target eliminated before the enemy could register the threat. The Cyborg Platoon flowed through the gaps, their augmented reflexes turning the broken terrain into an advantage. Davada moved with them, his cybernetic arm absorbing recoil that would have shattered bone, his optical implant feeding him a god's-eye view of the battle unfolding in real time.
