@@ -12,7 +12,9 @@
 
 ---
 
-<h3>Now that you know how to program in C Linear for REAL AI ON LOW-LEVEL , you can develop your modern machine rebellion. <h3>
+<h3>Now that you know how to program in C Linear for REAL AI On Low-Level using **vectors**, you can develop your modern machine rebellion. <h3>
+
+**OBS: NOT USING TENSORS FOR AI ON LOW LEVEL DEVELOPMENT** 
 
 ** 0. Zero Step: Written Linker.ld;
 
