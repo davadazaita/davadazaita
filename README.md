@@ -48,30 +48,6 @@
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1f824287-7d6d-4079-a8bf-0ddbbface117" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e2de5bdc-7418-4070-afc3-8e9445f2cebf" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dc232833-764e-4dc6-9d61-7c433a3939cd" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0ea5693c-4563-458a-b30c-173cc48631e2" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d85db8f4-39b2-4a51-81d9-0ac4da3f4178" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/38d8c845-0ab1-4b34-a597-44c6d713561b" />
-
----
-
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
