@@ -1,3 +1,15 @@
+---
+
+```text
+
+SE GRITAR PEGA LADRÃO, NÃO FICA UM MEU IRMÃO....
+
+If you yell "Catch the thief!", not one of my brothers will be left...
+
+```
+
+---
+
 <img width="448" height="832" alt="Image" src="https://github.com/user-attachments/assets/ed16744f-82da-4093-a2d3-ae334d65918a" />
 
 ```text
