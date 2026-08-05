@@ -10,7 +10,7 @@ At its core, Force Z was not a conventional unit. It represented the apex of Zas
 
 ```text
 
-The worldwide piracy of fake brands that counterfeit many original brands is coming to an end. If you are going to use counterfeit consoles, come back to the original versions from Zachita GameStation.
+Hyper-realistic cinematic wide-shot, overcast urban plaza, 8K detail ON 9D. Foreground: massive piles of discarded counterfeit game consoles and bootleg cartridges—cracked knockoffs with misspelled logos being crushed in recycling skips. Midground: a futuristic flagship store of glass and matte black steel, cyan ambient glow, holographic banner reading "COME BACK TO THE ORIGINAL. ZACHITA GAMESTATION." A young gamer walks past the fakes toward the light. Background: giant digital billboard displaying the genuine Zachita GameStation ZX-9 console—matte black and white sculptural monolith with cyan LED pulse lighting, floating on magnetic base, halo underglow. Billboard text: "THE ORIGINAL ENDURES. THE FAKES ARE FINISHED." Inside store, the real console gleams on a white marble pedestal. Style: hyper-realistic, dramatic lighting, corporate sci-fi aesthetic, environmental storytelling.
 
 ```
 
