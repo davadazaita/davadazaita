@@ -20,6 +20,8 @@
 
 ** 1. One: Written C Linear.
 
+**USING LINUX FEDORA 44 AND ECLIPSE IDE CDT AND GCC 14+ ANSI C89/90:**  
+
 Look de Sample:
 
 ---
