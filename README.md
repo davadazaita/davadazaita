@@ -1,31 +1,3 @@
-```text
-
-And just as God Voice of Elohim, I, Zaita, said peace, and Ra-Man and they said war against Zaita and Alaia of Elohim, for the war continues in the air, on land, and at sea....
-
-E ASSIM COMO DAVAR DE ELOHIM, EU ZAITA DISSE PAZZZZZ, E O RA-MAN E ELES DISSERAM GUERRA CONTRA O ZAITA E O ALAIA DE ELOHIM, POIS A GUERRA CONTINUA NO AR, NA TERRA E NO MAR....
-
-
-```
-
----
-
-```text
-
-It's funny how Ra-man only favors people if they're thieves just like him...
-
-ENGRAÇADO QUE O RA-MAN, E SUA TURMA SÓ FAVORECE SE FOR LADRÃO IGUALZINHO A ELE...
-
-```
-
----
-
-```text
-
-If you yell "Catch the thief!", not one of my brothers will be left...
-
-SE GRITAR PEGA LADRÃO, NÃO FICA UM MEU IRMÃO....
-
-```
 
 ---
 
@@ -33,8 +5,7 @@ SE GRITAR PEGA LADRÃO, NÃO FICA UM MEU IRMÃO....
 
 ```text
 
-
-The worldwide piracy of fake brands that counterfeit many original brands is coming to an end. If you are going to use counterfeit consoles, come back to the original versions from Zachita GameStation.
+<h>Think It. Play It. Zachita GameStation®.</h>
 
 ```
 
