@@ -1,6 +1,8 @@
 ---
 
-<h2>Think It. High School Engineering Workshop - Robot Assistance During Machine Elevation </h2>
+<h2>Think It. Dr. Davada Zaita on Robot Assistance During Machine Elevation </h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/27f9d182-fcab-47a0-8a92-e024ac9ff3e4" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f2797077-8866-4915-b4dd-421057abb3a7" />
 
