@@ -44,18 +44,6 @@
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/79177c99-21bc-4437-9173-adf51ef2ec6b" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5c9c23ff-a7be-40bc-a423-25724b83c2b6" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dce61c89-82ff-4622-9c8f-0ee9924630c2" />
-
----
-
 <h2>Think It. Play It. NEW ZETA ARMOR </h2>
 
 ---
@@ -150,6 +138,18 @@ Here are some ideas to get you started:
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/93f361a5-b299-40be-b418-fc74f1333014" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/79177c99-21bc-4437-9173-adf51ef2ec6b" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5c9c23ff-a7be-40bc-a423-25724b83c2b6" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dce61c89-82ff-4622-9c8f-0ee9924630c2" />
 
 ---
 
