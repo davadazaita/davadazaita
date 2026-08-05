@@ -8,6 +8,12 @@ At its core, Force Z was not a conventional unit. It represented the apex of Zas
 
 ---
 
+```text
+
+The worldwide piracy of fake brands that counterfeit many original brands is coming to an end. If you are going to use counterfeit consoles, come back to the original versions from Zachita GameStation.
+
+```
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6f8d7429-0fe8-4588-bf93-2291c8562346" />
 
 ---
