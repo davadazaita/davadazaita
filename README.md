@@ -20,7 +20,9 @@
 
 ** 1. One: Written C Linear.
 
-**OBS: It is very common to make the code sausage, that is, a mixture of GNU GCC ANSI C89/90 within the GNU Assembly**
+**OBS: BLACK CODE SAUSAGE**
+
+It is very common to make the code sausage, that is, a mixture of GNU GCC ANSI C89/90 within the GNU Assembly**
 
 ---
 
