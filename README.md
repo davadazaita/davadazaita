@@ -16,7 +16,7 @@
 
 ** 0. Zero Step: Written Linker.ld;
 
-** 1. One: Written C Linear
+** 1. One: Written C Linear.
 
 Look de Sample:
 
