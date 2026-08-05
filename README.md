@@ -2,6 +2,8 @@
 
 <h2>Think It. High School Engineering Workshop - Robot Assistance During Machine Elevation </h2>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f2797077-8866-4915-b4dd-421057abb3a7" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/edbbcfb8-6568-4cb7-ae3b-55120b093d7d" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2a2e4e28-703a-4205-a7c4-cbf483fe8bcf" />
