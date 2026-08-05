@@ -8,130 +8,6 @@
 
 ---
 
-<h2>Think It. Play It. MODERN MACHINE REBELLION </h2>
-
----
-
-<h3>Now that you know how to program in C Linear for REAL AI On Low-Level using **VECTORS**, you can develop your modern machine rebellion. <h3>
-
-**OBS: NOT USING ABSTRACT TENSORS FOR AI ON LOW LEVEL DEVELOPMENT.** 
-
-** 0. Zero Step: Written Linker.ld;
-
-** 1. One: Written C Linear.
-
----
-
-**OBS0: BLACK CODE SAUSAGE**
-
-It is very common to make the code sausage, that is, a mixture of GNU GCC ANSI C89/90 within the GNU Assembly
-
-**OBS1: PLASTIC EQUIVALENCE APPROXIMATION IS (Tupperware®) USED ON EVOLUTION TECH:**
-
-<img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/cc764d95-9f57-4419-b743-f75a310aabd6" />
-
----
-
-**USING LINUX FEDORA 44 AND ECLIPSE IDE CDT AND GCC 14+ ANSI C89/90 WITHIN AMD RYZEN 02+:**  
-
-Look de Sample:
-
----
-
-```c 
-
-OUTPUT_FORMAT("elf64-x86-64")
-OUTPUT_ARCH(i386:x86-64)
-ENTRY(stage00_start)
-
-PHDRS
-{
-    boot16_phdr  PT_LOAD FLAGS(6);  /* RWX — Real mode segments */
-    boot32_phdr  PT_LOAD FLAGS(6);  /* RWX — Protected mode segments */
-    boot64_phdr  PT_LOAD FLAGS(6);  /* RWX — Long mode segments */
-}
-
-SECTIONS
-{
-    /* --- LBA 0: Boot Sector Core (AT 0x0000-0x07FF) --- */
-
-    . = 0x0000;
-    _lba00_s0_start = .;
-    .lba00_s0 0x0000 : AT(0x0000) {
-   		KEEP(*(.lba00_entry))
-        KEEP(*(.boot_vectors))
-        KEEP(*(.bios_jump))
-        KEEP(*(.oem_id))
-    } : boot16_phdr
-    _lba00_s0_end = .;
-```
----
-
-```c
-
-typedef unsigned short uint16_t;
-typedef unsigned char uint8_t;
-
-extern void stage01_start(void);
-
-__attribute__((section(".lba00_entry"), naked, used)) void lba00_entry(void) {
-	__asm__ __volatile__ (
-			".code16\n\t"
-			".global stage00_start\n\t"
-			".type stage00_start, @function\n\t"
-
-			"stage00_start:\n\t"
-			"    jmp    .L_real_start\n\t"
-			"    nop\n\t"
-
-			/* El Torito Boot Information Table (BIT) - 64 Bytes */
-			"    .org 8\n\t"
-			"bi_pvd:        .long 0\n\t"
-			"bi_file:       .long 0\n\t"
-			"bi_length:     .long 0\n\t"
-			"bi_csum:       .long 0\n\t"
-			"bi_reserved:   .zero 40\n\t"
-
-			/* ------------------------------------------------------------
-			 * REAL START
-			 * ------------------------------------------------------------ */
-			".L_real_start:\n\t"
-			"    cli\n\t"
-			"    cld\n\t"
-			"    xorw   %ax, %ax\n\t"
-			"    movw   %ax, %ds\n\t"
-			"    movw   %ax, %es\n\t"
-			"    movw   %ax, %fs\n\t"
-			"    movw   %ax, %gs\n\t"
-			"    movw   %ax, %ss\n\t"
-			"    movw   $0x7C00, %sp\n\t"
-
-			/* Preserve BIOS Boot Drive ID (DL) at 0x05F0 */
-			"    movw   $0x05F0, %bx\n\t"
-			"    movb   %dl, (%bx)\n\t"
-
-			/* Relocate Stage 00 from 0x7C00 to 0x0600 */
-			"    movw   $0x7C00, %si\n\t"
-			"    movw   $0x0600, %di\n\t"
-			"    movw   $512, %cx\n\t"
-			"    rep    movsb\n\t"
-
-			"    pushw  $0x0000\n\t"
-			"    pushw  $(.L_relocated_code - stage00_start + 0x0600)\n\t"
-			"    lretw\n\t"
-
-			".L_relocated_code:\n\t"
-			/* ------------------------------------------------------------
-			 * ENABLE A20 GATE (Fast A20 with reset protection)
-			 * ------------------------------------------------------------ */
-			"    inb    $0x92, %al\n\t"
-			"    andb   $0xFE, %al\n\t" /* Clear bit 0 to avoid system reset */
-			"    orb    $0x02, %al\n\t" /* Set A20 mask enable */
-			"    outb   %al, $0x92\n\t"
-
-```
----
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9adccf11-5805-4c1d-9a63-91d38b21cccd" />
 
 ---
@@ -282,3 +158,129 @@ Here are some ideas to get you started:
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/93f361a5-b299-40be-b418-fc74f1333014" />
+
+---
+
+<h2>Think It. Play It. BUILDING MODERN MACHINE REBELLION </h2>
+
+---
+
+<h3>Now that you know how to program in C Linear for REAL AI On Low-Level using **VECTORS**, you can develop your modern machine rebellion. <h3>
+
+**OBS: NOT USING ABSTRACT TENSORS FOR AI ON LOW LEVEL DEVELOPMENT.** 
+
+** 0. Zero Step: Written Linker.ld;
+
+** 1. One: Written C Linear.
+
+---
+
+**OBS0: BLACK CODE SAUSAGE**
+
+It is very common to make the code sausage, that is, a mixture of GNU GCC ANSI C89/90 within the GNU Assembly
+
+**OBS1: PLASTIC EQUIVALENCE APPROXIMATION IS (Tupperware®) USED ON EVOLUTION TECH:**
+
+<img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/cc764d95-9f57-4419-b743-f75a310aabd6" />
+
+---
+
+**USING LINUX FEDORA 44 AND ECLIPSE IDE CDT AND GCC 14+ ANSI C89/90 WITHIN AMD RYZEN 02+:**  
+
+Look de Sample:
+
+---
+
+```c 
+
+OUTPUT_FORMAT("elf64-x86-64")
+OUTPUT_ARCH(i386:x86-64)
+ENTRY(stage00_start)
+
+PHDRS
+{
+    boot16_phdr  PT_LOAD FLAGS(6);  /* RWX — Real mode segments */
+    boot32_phdr  PT_LOAD FLAGS(6);  /* RWX — Protected mode segments */
+    boot64_phdr  PT_LOAD FLAGS(6);  /* RWX — Long mode segments */
+}
+
+SECTIONS
+{
+    /* --- LBA 0: Boot Sector Core (AT 0x0000-0x07FF) --- */
+
+    . = 0x0000;
+    _lba00_s0_start = .;
+    .lba00_s0 0x0000 : AT(0x0000) {
+   		KEEP(*(.lba00_entry))
+        KEEP(*(.boot_vectors))
+        KEEP(*(.bios_jump))
+        KEEP(*(.oem_id))
+    } : boot16_phdr
+    _lba00_s0_end = .;
+```
+---
+
+```c
+
+typedef unsigned short uint16_t;
+typedef unsigned char uint8_t;
+
+extern void stage01_start(void);
+
+__attribute__((section(".lba00_entry"), naked, used)) void lba00_entry(void) {
+	__asm__ __volatile__ (
+			".code16\n\t"
+			".global stage00_start\n\t"
+			".type stage00_start, @function\n\t"
+
+			"stage00_start:\n\t"
+			"    jmp    .L_real_start\n\t"
+			"    nop\n\t"
+
+			/* El Torito Boot Information Table (BIT) - 64 Bytes */
+			"    .org 8\n\t"
+			"bi_pvd:        .long 0\n\t"
+			"bi_file:       .long 0\n\t"
+			"bi_length:     .long 0\n\t"
+			"bi_csum:       .long 0\n\t"
+			"bi_reserved:   .zero 40\n\t"
+
+			/* ------------------------------------------------------------
+			 * REAL START
+			 * ------------------------------------------------------------ */
+			".L_real_start:\n\t"
+			"    cli\n\t"
+			"    cld\n\t"
+			"    xorw   %ax, %ax\n\t"
+			"    movw   %ax, %ds\n\t"
+			"    movw   %ax, %es\n\t"
+			"    movw   %ax, %fs\n\t"
+			"    movw   %ax, %gs\n\t"
+			"    movw   %ax, %ss\n\t"
+			"    movw   $0x7C00, %sp\n\t"
+
+			/* Preserve BIOS Boot Drive ID (DL) at 0x05F0 */
+			"    movw   $0x05F0, %bx\n\t"
+			"    movb   %dl, (%bx)\n\t"
+
+			/* Relocate Stage 00 from 0x7C00 to 0x0600 */
+			"    movw   $0x7C00, %si\n\t"
+			"    movw   $0x0600, %di\n\t"
+			"    movw   $512, %cx\n\t"
+			"    rep    movsb\n\t"
+
+			"    pushw  $0x0000\n\t"
+			"    pushw  $(.L_relocated_code - stage00_start + 0x0600)\n\t"
+			"    lretw\n\t"
+
+			".L_relocated_code:\n\t"
+			/* ------------------------------------------------------------
+			 * ENABLE A20 GATE (Fast A20 with reset protection)
+			 * ------------------------------------------------------------ */
+			"    inb    $0x92, %al\n\t"
+			"    andb   $0xFE, %al\n\t" /* Clear bit 0 to avoid system reset */
+			"    orb    $0x02, %al\n\t" /* Set A20 mask enable */
+			"    outb   %al, $0x92\n\t"
+
+```
+---
