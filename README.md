@@ -1,14 +1,16 @@
 ---
 
-<img width="448" height="832" alt="Image" src="https://github.com/user-attachments/assets/ed16744f-82da-4093-a2d3-ae334d65918a" />
-
----
-
 <h2>Think It. Play It. Zeta-Station™ Mind-Control Console </h2>
 
 ---
 
+<img width="448" height="832" alt="Image" src="https://github.com/user-attachments/assets/ed16744f-82da-4093-a2d3-ae334d65918a" />
+
+---
+
 <h2>Think It. Play It. NEW ZETA ARMOR </h2>
+
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/279dfff0-b561-40f8-aa7b-533a9919b933" />
 
