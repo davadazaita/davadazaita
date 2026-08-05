@@ -1,5 +1,15 @@
 ```text
 
+And just as God of Elohim, I, Zaita, said peace, and Ra-Man and they said war against Zaita and Alaia, for the war continues in the air, on land, and at sea....
+
+E ASSIM COMO DAVAR DE ELOHIM, EU ZAITA DISSE PAZZZZZ,  E O RA-MAN E ELES DISSERAM GUERRA CONTRA O ZAITA E O A ALAIA, POIS A GUERRA CONTINUA NO AR, NA TERRA E NO MAR....
+
+
+```
+
+
+```text
+
 It's funny how Ra-man only favors people if they're thieves just like him...
 
 ENGRAÇADO QUE O RA-MAN, E SUA TURMA SÓ FAVORECE SE FOR LADRÃO IGUALZINHO A ELE...
