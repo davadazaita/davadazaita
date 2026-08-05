@@ -1,10 +1,8 @@
----
-
 ```text
 
-SE GRITAR PEGA LADRÃO, NÃO FICA UM MEU IRMÃO....
-
 If you yell "Catch the thief!", not one of my brothers will be left...
+
+SE GRITAR PEGA LADRÃO, NÃO FICA UM MEU IRMÃO....
 
 ```
 
