@@ -1,3 +1,9 @@
+<h2>Think It. Amistoso, Jugador de Davada en España </h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bd138312-0471-482b-9c33-9d4ff98723c3" />
+
+---
+
 <h2>Think It. Humanoids Assistance During Autonomous Code Working</h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a4915724-6f29-4427-848c-a4811190a20d" />
