@@ -1,4 +1,4 @@
-<h>Think It. Play It. Zachita GameStation®.</h>
+<h1>Think It. Play It. Zachita GameStation®. Zeta-Station™ Mind-Control Console </h1>
 
 ---
 
