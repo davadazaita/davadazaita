@@ -6,6 +6,8 @@ At its core, Force Z was not a conventional unit. It represented the apex of Zas
 
 ```
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/38d8c845-0ab1-4b34-a597-44c6d713561b" />
+
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
