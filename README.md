@@ -6,6 +6,10 @@
 
 <h2>Think It. Play It. Zeta-Station™ Mind-Control Console </h2>
 
+<h2>Now you can continue playing even while you sleep.</h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/143e5325-3b74-4323-a217-7afe7b5910af" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1877ea5a-abd4-485f-9d2f-2639be1dd262" />
 
 ---
