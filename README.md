@@ -1,5 +1,11 @@
 ---
 
+<h2>Think It. Dr. Davada Zaita on Humanoids Assistance During Machine Elevation </h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/72d17e4f-883b-4e6d-a6b1-c4d8c1a5a6cd" />
+
+---
+
 <h2>Think It. Dr. Davada Zaita on Robot Assistance During Machine Elevation </h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/27f9d182-fcab-47a0-8a92-e024ac9ff3e4" />
