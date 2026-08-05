@@ -81,15 +81,15 @@ Here are some ideas to get you started:
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/82fa4254-116a-4366-8f8e-e6cb6d3f9d0d" />
+
+---
+
 ## Alaia Beni Tisiba - Special Cyborgs Dogs Z - Prototype
 
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0ad76efb-991f-4b5c-bb9f-2558e207e551" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/82fa4254-116a-4366-8f8e-e6cb6d3f9d0d" />
 
 ---
 
