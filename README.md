@@ -1,6 +1,6 @@
 ---
 
-<h2>Think It. Play It. Robotics in the classroom, developed by our students </h2>
+<h2>Think It. Robotics in the classroom, developed by our students </h2>
 
 ---
 
