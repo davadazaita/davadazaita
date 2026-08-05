@@ -4,6 +4,8 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/edbbcfb8-6568-4cb7-ae3b-55120b093d7d" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2a2e4e28-703a-4205-a7c4-cbf483fe8bcf" />
+
 ---
 
 <h2>Think It. Robotics in the classroom, developed by our students </h2>
