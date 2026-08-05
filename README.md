@@ -6,6 +6,13 @@ At its core, Force Z was not a conventional unit. It represented the apex of Zas
 
 ```
 
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6f8d7429-0fe8-4588-bf93-2291c8562346" />
+
+---
+
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d85db8f4-39b2-4a51-81d9-0ac4da3f4178" />
 
 ---
