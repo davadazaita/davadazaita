@@ -12,7 +12,7 @@
 
 ---
 
-<h2>Now that you know how to program in linear C, you can develop your modern machine rebellion. <h2>
+<h3>Now that you know how to program in C Linear, you can develop your modern machine rebellion. <h3>
 
 ** 0. Zero Step: Written Linker.ld
 ** 1. One: Written C Linear
