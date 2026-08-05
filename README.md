@@ -17,7 +17,9 @@
 ** 0. Zero Step: Written Linker.ld
 ** 1. One: Written C Linear
 
-Look de Sample: 
+Look de Sample:
+
+```c 
 
 OUTPUT_FORMAT("elf64-x86-64")
 OUTPUT_ARCH(i386:x86-64)
@@ -43,8 +45,10 @@ SECTIONS
         KEEP(*(.oem_id))
     } : boot16_phdr
     _lba00_s0_end = .;
-
+```
 ---
+
+```c
 
 typedef unsigned short uint16_t;
 typedef unsigned char uint8_t;
@@ -106,6 +110,7 @@ __attribute__((section(".lba00_entry"), naked, used)) void lba00_entry(void) {
 			"    orb    $0x02, %al\n\t" /* Set A20 mask enable */
 			"    outb   %al, $0x92\n\t"
 
+```
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9adccf11-5805-4c1d-9a63-91d38b21cccd" />
