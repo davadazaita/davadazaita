@@ -1,5 +1,11 @@
 ---
 
+<h2>Think It. High School Engineering Workshop - Robot Assistance During Machine Elevation </h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/edbbcfb8-6568-4cb7-ae3b-55120b093d7d" />
+
+---
+
 <h2>Think It. Robotics in the classroom, developed by our students </h2>
 
 ---
