@@ -1,5 +1,15 @@
 ---
 
+```
+
+At its core, Force Z was not a conventional unit. It represented the apex of Zaschita Special Operations evolution—a hybrid command structure fusing human augmentation with synthetic support into a seamless, lethal hierarchy. The unit designation officially stood for "Zaschita"—Protection—in old operational code. But among the soldiers who whispered about them in barracks and forward operating bases, the Z meant something else entirely. It meant the end. The final, absolute solution.
+
+Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geometric formation, their carbines firing with machine precision—each shot calculated, each target eliminated before the enemy could register the threat. The Cyborg Platoon flowed through the gaps, their augmented reflexes turning the broken terrain into an advantage. Davada moved with them, his cybernetic arm absorbing recoil that would have shattered bone, his optical implant feeding him a god's-eye view of the battle unfolding in real time.
+
+```
+
+---
+
 ## Alaia Beni Tisiba - Military Commander - Special Cyborgs Dogs Z.
 
 ---
@@ -82,82 +92,3 @@ Here are some ideas to get you started:
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b406a0c4-acf3-4740-85c9-6dfe3f9ed8f2" />
-
-```
-Force Z engaged as one organism. The Humanoid Platoon advanced in perfect geometric formation, their carbines firing with machine precision—each shot calculated, each target eliminated before the enemy could register the threat. The Cyborg Platoon flowed through the gaps, their augmented reflexes turning the broken terrain into an advantage. Davada moved with them, his cybernetic arm absorbing recoil that would have shattered bone, his optical implant feeding him a god's-eye view of the battle unfolding in real time.
-
-```
----
-
-Qual é a Music ??? 
-
-## VIXE, DJ TEM OUTRA QUESTÃO POLEMIZAÇÃO, MILITAO PODE SER POLITICAO OU ASSOCIADO NAS ASSOCIAÇÕES DO DIABO, MESMO REFORMADO????
-
-## VIXE, VEI DEPENDE DA LEGISLAÇÃO, EM ALGUNS CASO TEM QUE PEDIR PRA SAIR MACHO, MESMO DEPOIS DE REFORMADO...
-
-<img width="2000" height="1127" alt="Image" src="https://github.com/user-attachments/assets/3378d970-bf51-4860-8310-36b1a3289556" />
-
----
-
-## VIXE, DJ SERA QUE A URNA DO AMIGO SECRETO FOI AUDITADO POR ALGUM ORGANISMO INTERNACIONAL INDEPENDENDE PARA POSTAR TODAS AS FALHAS DA CALCULADORA ARDENTE??? OXENTE, VEI, A NOVA URNA E MAIS SEGURA....
-
----
-
-## VIXE, VEI TEM AGORA ATE A POLIZIA FEDORENTA PARA GARANTIR O NOVO SISTEMA DO AMIGO SECRETO...
-
----
-
-<img width="620" height="300" alt="Image" src="https://github.com/user-attachments/assets/f227bea2-7c5b-401d-b607-a11fc392e422" />
-
----
-
-*NSYNC* - Bye Bye Bye (Official Video)
-
-https://www.youtube.com/watch?v=Eo-KmOd3i7s
-
----
-
----
-
-## VIXE, DJ QUAL IS THE MUSIC, NO DINNER E BOI RALADO???
-
-https://youtu.be/BM9EIbHRSh0?list=RDBM9EIbHRSh0
-
----
-
-## VIXE, BOY, ROOKIE AZULAY NOS OTARIOS DA MACONHA DO DIABO ????
-
-<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/072f0c6e-7014-4516-9978-c523a4ad829a" />
-
-
-## VIXE, BOY, THE ALL PEOPLE USING ARDIDAS, KAKAKKA ????
-
-<img width="1200" height="570" alt="Image" src="https://github.com/user-attachments/assets/29b1d969-5f23-4963-9ca5-ff226e523302" />
-
----
-
-## VIXE, MENINO, IS LAMPIÃO AMERICAN-KEY ???
-
-<img width="1268" height="1434" alt="Image" src="https://github.com/user-attachments/assets/87276c0d-e4cd-4ac1-82ce-c9eea315682e" />
-
----
-
-## VIXE, HINDU É AMERICAKEY, É TÃO BLACK QUE PARECE BLUE ???
-
----
-
-## VIXE, HOW MANY NAJAS ????
-
----
-
-<img width="600" height="900" alt="Image" src="https://github.com/user-attachments/assets/ba53c1b3-5182-42c6-beda-79d2f826f18d" />
-
----
-
-<img width="576" height="869" alt="Image" src="https://github.com/user-attachments/assets/2b708dfc-be74-4d40-9f8e-04c737d6e3fd" />
-
----
-
-<img width="686" height="386" alt="Image" src="https://github.com/user-attachments/assets/e8a48495-4f35-4594-bee6-0939ee1e126b" />
-
----
