@@ -1,4 +1,4 @@
-## fish-eye lens, to create the "Devil's Ball" effect.
+## fish-eye lens, to create the "Devil's Ball - Rotten fish " effect.
 
 <img width="970" height="600" alt="Image" src="https://github.com/user-attachments/assets/a0ebbcbd-df25-4983-973e-cf7a2f146e27" />
 
