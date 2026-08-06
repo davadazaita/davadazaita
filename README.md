@@ -2,6 +2,8 @@
 
 <h2>Think It. Vitalcops Blue Team Vs Monkeys Bandid Red Team</h2>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c52248ff-0b86-4eb6-b7c2-5f250ee8de1a" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/688dfa5d-7fef-4d80-9db0-0f85af0ef7ad" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/87551ef8-eaaa-43c2-aae8-0fb299970d70" />
