@@ -1,6 +1,6 @@
 ## Think It. 
 
-## There are people who know so much about fabric that I think everything looks synthetic or coated to them.
+## There are people who know so much about fabric that I think everything looks Synthetic or Leather to them.
 
 ## Lá vai, Lá vai, Lá vai, é synthetic (Courvin) ou Leather (Couro Curtido) ???
 
