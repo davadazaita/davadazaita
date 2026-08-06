@@ -1,6 +1,6 @@
 ---
 
-<h2>Think It. When they see the skull blue, shit hit the fan in the bathtub. </h2>
+<h2>Think It. When they see the blue skull, they know they had sex with Ku. </h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a5a3627-a1cc-4cd3-9d7e-260ec666743a" />
 
