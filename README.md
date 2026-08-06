@@ -1,5 +1,17 @@
 ## Think It. 
 
+## The day a space terrorist crosses the gravitational zone to reach the old moon or the old sun—beyond the threshold of the frontier—let me know, for I have agreed to be contradicted by RA-MAN and his Demons. 
+
+## No space terrorist has ever crossed the threshold of the border, whatever it may be.
+
+## I wonder if the space terrorists have already started clearing out the gravitational space???
+
+## The Zero Count = (0-1-2-3 = 4 Elements on Set) -> Elohim Tzevaot (0) - Davada Beni Elohim/zaita (1), Alaia Beni Tisiba (2) and Adam Beni Elohim (3).
+
+## Davada Beni Elohim/Zaita
+
+---
+
 ## There are people who know so much about fabric that I think everything looks Synthetic or Leather to them.
 
 ## Lá vai, Lá vai, Lá vai, é synthetic (Courvin) ou Leather (Couro Curtido) ???
@@ -11,18 +23,6 @@
 ---
 
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/b47d4b3c-9ebd-4a85-8232-2d5b331df2a3" />
-
----
-
-## The day a space terrorist crosses the gravitational zone to reach the old moon or the old sun—beyond the threshold of the frontier—let me know, for I have agreed to be contradicted by RA-MAN and his Demons. 
-
-## No space terrorist has ever crossed the threshold of the border, whatever it may be.
-
-## I wonder if the space terrorists have already started clearing out the gravitational space???
-
-## The Zero Count = (0-1-2-3 = 4 Elements on Set) -> Elohim Tzevaot (0) - Davada Beni Elohim/zaita (1), Alaia Beni Tisiba (2) and Adam Beni Elohim (3).
-
-## Davada Beni Elohim/Zaita
 
 ---
 
