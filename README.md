@@ -2,9 +2,9 @@
 
 ## There are people who know so much about fabric that I think everything looks synthetic or coated to them.
 
----
-
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/b47d4b3c-9ebd-4a85-8232-2d5b331df2a3" />
+
+---
 
 ## The day a space terrorist crosses the gravitational zone to reach the old moon or the old sun—beyond the threshold of the frontier—let me know, for I have agreed to be contradicted by RA-MAN and his Demons. 
 
