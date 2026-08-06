@@ -43,6 +43,7 @@ In the kernel, using inline functions is preferred over complicated macros for r
 of type safety and readability.
 
 Inline Assembly
+
 The gcc C compiler enables the embedding of assembly instructions in otherwise normal
 C functions.This feature, of course, is used in only those parts of the kernel that are
 unique to a given system architecture.
@@ -62,11 +63,10 @@ ISO C99 is the latest major revision to the ISO C standard. C99 adds numerous en
 previous major revision, ISO C90, including designated initializers, variable length arrays, C++-style
 comments, and the long long and complex types. The Linux kernel, however, employs only a sub-
 set of C99 features.
+
+**REFERENCE: Linux Kernel Development, Third Edition - Robert Love - Page 18**
+
 ``` 
-
----
-
-REFERENCE: Linux Kernel Development, Third Edition - Robert Love - Page 18
 
 ---
 
