@@ -1,3 +1,7 @@
+## Think It. Doberman Zac Spacescraft Guardian
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6aa1ff63-1ae6-4fc3-8c05-ec20e5ee389f" />
+
 ## Think It. 
 
 ## The day a space terrorist crosses the gravitational zone to reach the old moon or the old sun—beyond the threshold of the frontier—let me know, for I have agreed to be contradicted by RA-MAN and his Demons. 
