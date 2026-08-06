@@ -1,5 +1,7 @@
 ## Think It. Intergalactic Military Suppository For KU
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c7f5f3ef-4f7e-4f78-a847-0965d8c38cc5" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1e48f0f5-9f45-45a0-a8e1-3f6bd241ef8b" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/87b02c0e-e1f7-42ea-b079-2151a2c90e5b" />
