@@ -1,6 +1,6 @@
 ---
 
-<h2>Think It. Vitalcops Blue Team Vs Monkeys Bandid Red Team</h2>
+<h2>Think It. Vitalcops Blue Team Vs Pinot Monkeys Bandid Red Team</h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c52248ff-0b86-4eb6-b7c2-5f250ee8de1a" />
 
