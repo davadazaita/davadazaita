@@ -1,3 +1,5 @@
+## Have you ever heard that sound of an orbital engine taking off from outside the devil's little ball?
+
 ## That same old question: 
 
 ## This is a problem for terrorist monkeys baptized by the devil ???
