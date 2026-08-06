@@ -1,3 +1,7 @@
+## Think It. Intergalactic Spacescraft Seba on Atlantic Ocean
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb4b41e1-64f4-4377-9790-34f4070471b7" />
+
 ## Think It.  Intergalactic Spacescraft Zac on Atlantic Ocean
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f3a9f2fd-2265-467f-a430-60b0ab64989e" />
