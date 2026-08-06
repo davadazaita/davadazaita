@@ -4,7 +4,7 @@
 
 ## Lá vai, Lá vai, Lá vai, é synthetic (Courvin) ou Leather (Couro Curtido) ???
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/82fa4254-116a-4366-8f8e-e6cb6d3f9d0d" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9138dd65-fd8b-40d6-a0ba-c6e784bb2b38" />
 
 ---
 
