@@ -2,6 +2,8 @@
 
 <h2>Think It. When they see the blue skull, they know they had sex with Ku. </h2>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/162df096-dec0-45c9-9a8d-9cfe85a7683f" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a5a3627-a1cc-4cd3-9d7e-260ec666743a" />
 
 ---
