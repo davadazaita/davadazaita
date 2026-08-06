@@ -1,6 +1,6 @@
 ---
 
-<h2>Think It. Veral Cops Blue Team Vs Bandid Red Team</h2>
+<h2>Think It. Vitalcops Blue Team Vs Bandid Red Team</h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c1de177-c57c-467a-9bcc-0971b0e7488a" />
 
