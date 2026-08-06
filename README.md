@@ -1,10 +1,8 @@
-## No fish-eye lens, so as not to create the "Devil's Ball" effect.
-
 ## fish-eye lens, to create the "Devil's Ball" effect.
 
 <img width="457" height="437" alt="Image" src="https://github.com/user-attachments/assets/b6f76144-cc32-4f81-b4fa-22bb328b80d3" />
 
-## Think It. Intergalactic Military Suppository For KU
+## Think It. No fish-eye lens, so as not to create the "Devil's Ball" effect.
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c7f5f3ef-4f7e-4f78-a847-0965d8c38cc5" />
 
