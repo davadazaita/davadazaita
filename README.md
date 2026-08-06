@@ -1,5 +1,11 @@
 ---
 
+<h2>Think It. When they see the skull, shit hit the fan in the bathtub. </h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a5a3627-a1cc-4cd3-9d7e-260ec666743a" />
+
+---
+
 <h2>Think It. Vitalcops Blue Team Vs Pinot Monkeys Bandid Red Team</h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0634862a-7edf-467e-a67c-e301948e3e26" />
