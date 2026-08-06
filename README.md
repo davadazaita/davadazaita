@@ -1,4 +1,4 @@
-## Think It. Intergalactic Spacescraft Zarya
+## Think It. Intergalactic Spacescraft Zarya on Atlantic Ocean
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d86f097a-20eb-4e6c-b6ae-7a2a62d6743d" />
 
