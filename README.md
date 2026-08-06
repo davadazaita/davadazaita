@@ -2,6 +2,8 @@
 
 ## No space terrorist has ever crossed the threshold of the border, whatever it may be.
 
+## I wonder if the space terrorists have already started clearing out the gravitational space???
+
 ## Davada Beni Zaita/Elohim
 
 ---
