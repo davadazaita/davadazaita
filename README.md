@@ -2,6 +2,8 @@
 
 ## There are people who know so much about fabric that I think everything looks synthetic or coated to them.
 
+## Lá vai, Lá vai, Lá vai, é synthetic ou leather ???
+
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/b47d4b3c-9ebd-4a85-8232-2d5b331df2a3" />
 
 ---
