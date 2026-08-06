@@ -1,6 +1,6 @@
 ---
 
-<h2>Think It. When they see the blue skull, they know they had sex with Ku. </h2>
+<h2>Think It. Vitalcops safety car </h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d5f224f2-e90d-458e-912d-128774e80ae5" />
 
