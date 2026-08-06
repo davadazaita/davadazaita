@@ -6,7 +6,7 @@
 
 ## I wonder if the space terrorists have already started clearing out the gravitational space???
 
-## The Zero Count = (0-1-2 = 3 Elements on Set) -> Elohim Tzevaot (0) - Davada Beni Elohim/zaita (1) and Alaia Beni Tisiba (2)
+## The Zero Count = (0-1-2-3 = 4 Elements on Set) -> Elohim Tzevaot (0) - Davada Beni Elohim/zaita (1), Alaia Beni Tisiba (2) and Adam Beni Elohim (3).
 
 ## Davada Beni Zaita/Elohim
 
