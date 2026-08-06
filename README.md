@@ -1,8 +1,8 @@
 ## That same old question: 
 
-This is a problem for terrorist monkeys baptized by the devil.
+## This is a problem for terrorist monkeys baptized by the devil ???
 
-If a monkey runs through my land and the monkey charges to jump onto its branch, logically, either it charges and shares the profit, or it doesn't charge anything.
+## If a monkey runs through my land and the monkey charges to jump onto its branch, logically, either it charges and shares the profit, or it doesn't charge anything.
 
 ---
 
