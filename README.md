@@ -4,6 +4,8 @@
 
 ## Lá vai, Lá vai, Lá vai, é synthetic (Courvin) ou Leather (Couro Curtido) ???
 
+<h3> During World War II, European militaries—including the German army—primarily relied on German Shepherds (Alsatians) as military and guard dogs. By contrast, the Doberman Pinscher became famous as the official "Devil Dog" of the United States Marine Corps, which used them extensively in the Pacific Theater rather than in Europe. </h3>
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9138dd65-fd8b-40d6-a0ba-c6e784bb2b38" />
 
 ---
