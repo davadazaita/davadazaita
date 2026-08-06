@@ -1,3 +1,9 @@
+## The day a space terrorist reaches the old moon or the old sun—beyond the threshold of the frontier—let me know, for I have agreed to be contradicted by RA-MAN and his Devils. 
+
+## Davada Beni Zaita/Elohim
+
+---
+
 ## fish-eye lens, to create the "Rotten fish" effect.
 
 <img width="970" height="600" alt="Image" src="https://github.com/user-attachments/assets/a0ebbcbd-df25-4983-973e-cf7a2f146e27" />
