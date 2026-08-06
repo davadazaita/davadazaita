@@ -1,4 +1,4 @@
-## Think It. Doberman Zac Spacescraft Guardian
+## Think It. Doberman Zac Spacescraft Guardians
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6aa1ff63-1ae6-4fc3-8c05-ec20e5ee389f" />
 
