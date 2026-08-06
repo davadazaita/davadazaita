@@ -1,4 +1,8 @@
-<h2>Think It. Police Team Vs Bandid Team</h2>
+---
+
+<h2>Think It. Police Blue Team Vs Bandid Red Team</h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7daaeb98-3f8b-4e9e-976f-98c01fb91a84" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/18b631bd-a5ba-42b9-abaf-a0d6503496e2" />
 
