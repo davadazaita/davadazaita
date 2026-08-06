@@ -8,6 +8,18 @@
 
 ---
 
+## Think It. Those military exercise bombs  on the high seas exploding outside the devil's ball ???
+
+## Think It. Have you ever heard that sound of an spacecraft orbital engine taking off from outside the devil's little ball ???
+
+## That same old question: 
+
+## This is a problem for terrorist monkeys baptized by the devil ???
+
+## If a monkey runs through my land and the monkey charges to jump onto its branch, logically, either it charges and shares the profit, or it doesn't charge anything.
+
+---
+
 ## fish-eye lens, to create the "Rotten fish" effect.
 
 <img width="970" height="600" alt="Image" src="https://github.com/user-attachments/assets/a0ebbcbd-df25-4983-973e-cf7a2f146e27" />
@@ -25,90 +37,6 @@
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/87b02c0e-e1f7-42ea-b079-2151a2c90e5b" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ddc30825-092b-4522-a89c-fe4978308f7c" />
-
-## Think It. Those military exercise bombs  on the high seas exploding outside the devil's ball ???
-
-## Think It. Have you ever heard that sound of an spacecraft orbital engine taking off from outside the devil's little ball ???
-
-## That same old question: 
-
-## This is a problem for terrorist monkeys baptized by the devil ???
-
-## If a monkey runs through my land and the monkey charges to jump onto its branch, logically, either it charges and shares the profit, or it doesn't charge anything.
-
----
-
-## FOR THE TERRORISTS COUNTRY ON DUTY, WHO WANT TO EXPLODE THE MOON:
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/44b58828-d4a4-4009-8cf4-176f91888870" />
-
-```text
-
-GNU C: 
-
-Like any self-respecting Unix kernel, the Linux kernel is programmed in C. Perhaps sur-
-prisingly, the kernel is not programmed in strict ANSI C. Instead, where applicable, the
-kernel developers make use of various language extensions available in gcc (the GNU
-Compiler Collection, which contains the C compiler used to compile the kernel and
-most everything else written in C on a Linux system).
-The kernel developers use both ISO C991 and GNU C extensions to the C language.
-These changes wed the Linux kernel to gcc, although recently one other compiler, the
-Intel C compiler, has sufficiently supported enough gcc features that it, too, can compile
-the Linux kernel.The earliest supported gcc version is 3.2; gcc version 4.4 or later is rec-
-ommended.The ISO C99 extensions that the kernel uses are nothing special and, because
-C99 is an official revision of the C language, are slowly cropping up in a lot of other
-code.The more unfamiliar deviations from standard ANSI C are those provided by GNU
-C. Let’s look at some of the more interesting extensions that you will see in the kernel;
-these changes differentiate kernel code from other projects with which you might be
-familiar.
-
-Inline Functions:
-
-Both C99 and GNU C support inline functions.An inline function is, as its name suggests,
-inserted inline into each function call site.This eliminates the overhead of function invo-
-cation and return (register saving and restore) and allows for potentially greater optimiza-
-tion as the compiler can optimize both the caller and the called function as one.As a
-downside (nothing in life is free), code size increases because the contents of the function
-are copied into all the callers, which increases memory consumption and instruction
-cache footprint. Kernel developers use inline functions for small time-critical functions.
-
-Making large functions inline, especially those used more than once or that are not
-exceedingly time critical, is frowned upon.
-An inline function is declared when the keywords static and inline are used as part
-of the function definition. For example
-static inline void wolf(unsigned long tail_size)
-The function declaration must precede any usage, or else the compiler cannot make
-the function inline. Common practice is to place inline functions in header files. Because
-they are marked static, an exported function is not created. If an inline function is used
-by only one file, it can instead be placed toward the top of just that file.
-In the kernel, using inline functions is preferred over complicated macros for reasons
-of type safety and readability.
-
-Inline Assembly
-
-The gcc C compiler enables the embedding of assembly instructions in otherwise normal
-C functions.This feature, of course, is used in only those parts of the kernel that are
-unique to a given system architecture.
-The asm() compiler directive is used to inline assembly code. For example, this inline
-assembly directive executes the x86 processor’s rdtsc instruction, which returns the value
-of the timestamp (tsc) register:
-unsigned int low, high;
-asm volatile("rdtsc" : "=a" (low), "=d" (high));
-/* low and high now contain the lower and upper 32-bits of the 64-bit tsc */
-The Linux kernel is written in a mixture of C and assembly, with assembly relegated
-to low-level architecture and fast path code.The vast majority of kernel code is pro-
-grammed in straight C.
-
-
-1
-ISO C99 is the latest major revision to the ISO C standard. C99 adds numerous enhancements to the
-previous major revision, ISO C90, including designated initializers, variable length arrays, C++-style
-comments, and the long long and complex types. The Linux kernel, however, employs only a sub-
-set of C99 features.
-
-**REFERENCE: Linux Kernel Development, Third Edition - Robert Love - Page 18**
-
-``` 
 
 ---
 
@@ -553,4 +481,77 @@ __attribute__((section(".lba00_entry"), naked, used)) void lba00_entry(void) {
 			"    outb   %al, $0x92\n\t"
 
 ```
+---
+
+## FOR THE TERRORISTS COUNTRY ON DUTY, WHO WANT TO EXPLODE THE MOON:
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/44b58828-d4a4-4009-8cf4-176f91888870" />
+
+```text
+
+GNU C: 
+
+Like any self-respecting Unix kernel, the Linux kernel is programmed in C. Perhaps sur-
+prisingly, the kernel is not programmed in strict ANSI C. Instead, where applicable, the
+kernel developers make use of various language extensions available in gcc (the GNU
+Compiler Collection, which contains the C compiler used to compile the kernel and
+most everything else written in C on a Linux system).
+The kernel developers use both ISO C991 and GNU C extensions to the C language.
+These changes wed the Linux kernel to gcc, although recently one other compiler, the
+Intel C compiler, has sufficiently supported enough gcc features that it, too, can compile
+the Linux kernel.The earliest supported gcc version is 3.2; gcc version 4.4 or later is rec-
+ommended.The ISO C99 extensions that the kernel uses are nothing special and, because
+C99 is an official revision of the C language, are slowly cropping up in a lot of other
+code.The more unfamiliar deviations from standard ANSI C are those provided by GNU
+C. Let’s look at some of the more interesting extensions that you will see in the kernel;
+these changes differentiate kernel code from other projects with which you might be
+familiar.
+
+Inline Functions:
+
+Both C99 and GNU C support inline functions.An inline function is, as its name suggests,
+inserted inline into each function call site.This eliminates the overhead of function invo-
+cation and return (register saving and restore) and allows for potentially greater optimiza-
+tion as the compiler can optimize both the caller and the called function as one.As a
+downside (nothing in life is free), code size increases because the contents of the function
+are copied into all the callers, which increases memory consumption and instruction
+cache footprint. Kernel developers use inline functions for small time-critical functions.
+
+Making large functions inline, especially those used more than once or that are not
+exceedingly time critical, is frowned upon.
+An inline function is declared when the keywords static and inline are used as part
+of the function definition. For example
+static inline void wolf(unsigned long tail_size)
+The function declaration must precede any usage, or else the compiler cannot make
+the function inline. Common practice is to place inline functions in header files. Because
+they are marked static, an exported function is not created. If an inline function is used
+by only one file, it can instead be placed toward the top of just that file.
+In the kernel, using inline functions is preferred over complicated macros for reasons
+of type safety and readability.
+
+Inline Assembly
+
+The gcc C compiler enables the embedding of assembly instructions in otherwise normal
+C functions.This feature, of course, is used in only those parts of the kernel that are
+unique to a given system architecture.
+The asm() compiler directive is used to inline assembly code. For example, this inline
+assembly directive executes the x86 processor’s rdtsc instruction, which returns the value
+of the timestamp (tsc) register:
+unsigned int low, high;
+asm volatile("rdtsc" : "=a" (low), "=d" (high));
+/* low and high now contain the lower and upper 32-bits of the 64-bit tsc */
+The Linux kernel is written in a mixture of C and assembly, with assembly relegated
+to low-level architecture and fast path code.The vast majority of kernel code is pro-
+grammed in straight C.
+
+
+1
+ISO C99 is the latest major revision to the ISO C standard. C99 adds numerous enhancements to the
+previous major revision, ISO C90, including designated initializers, variable length arrays, C++-style
+comments, and the long long and complex types. The Linux kernel, however, employs only a sub-
+set of C99 features.
+
+**REFERENCE: Linux Kernel Development, Third Edition - Robert Love - Page 18**
+
+``` 
 ---
