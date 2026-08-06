@@ -1,5 +1,7 @@
 <h2>Think It. Davada Team Vs Humanoid Team</h2>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/aa27d814-c1b5-4f71-aff8-8b7a4666ce6f" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/06da9bac-abf7-4bba-a163-21b79c7b8cc1" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6bc6bcd5-f062-4306-a1ff-f4173bc8a39b" />
