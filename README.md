@@ -1,6 +1,6 @@
 ## Think It. 
 
-## The day a space terrorist reaches he gravitational space to flighting for the old moon or the old sun—beyond the threshold of the frontier—let me know, for I have agreed to be contradicted by RA-MAN and his Devils. 
+## The day a space terrorist crosses the gravitational zone to reach the old moon or the old sun—beyond the threshold of the frontier—let me know, for I have agreed to be contradicted by RA-MAN and his Demons. 
 
 ## No space terrorist has ever crossed the threshold of the border, whatever it may be.
 
