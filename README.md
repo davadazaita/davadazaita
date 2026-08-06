@@ -2,6 +2,8 @@
 
 <h2>Think It. Veral Cops Blue Team Vs Bandid Red Team</h2>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c1de177-c57c-467a-9bcc-0971b0e7488a" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/57a51edf-3a0a-4997-830e-bb11cfc8ca08" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21fb7f2d-7e91-40f1-86e6-b3e69407e2d6" />
