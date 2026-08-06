@@ -1,3 +1,7 @@
+## Think It. Intergalactic Military Suppository
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ddc30825-092b-4522-a89c-fe4978308f7c" />
+
 ## Think It. Those military exercise bombs  on the high seas exploding outside the devil's ball ???
 
 ## Think It. Have you ever heard that sound of an spacecraft orbital engine taking off from outside the devil's little ball ???
