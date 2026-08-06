@@ -1,4 +1,4 @@
-## Think It. Have you ever heard that sound of an orbital engine taking off from outside the devil's little ball?
+## Think It. Have you ever heard that sound of an spacecraft orbital engine taking off from outside the devil's little ball?
 
 ## That same old question: 
 
