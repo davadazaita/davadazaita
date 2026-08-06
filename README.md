@@ -1,5 +1,7 @@
 ## Think It. Intergalactic Military Suppository For KU
 
+ ## No fisheye lens, so as not to create the "Devil's Ball" effect.
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c7f5f3ef-4f7e-4f78-a847-0965d8c38cc5" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1e48f0f5-9f45-45a0-a8e1-3f6bd241ef8b" />
