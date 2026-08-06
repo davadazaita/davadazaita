@@ -1,6 +1,6 @@
 ## That same old question: 
 
-If a cable runs through my land and the monkey charges to jump onto its branch, logically, either it charges and shares the profit, or it doesn't charge anything.
+If a monkey runs through my land and the monkey charges to jump onto its branch, logically, either it charges and shares the profit, or it doesn't charge anything.
 
 ## FOR THE TERRORISTS COUNTRY ON DUTY, WHO WANT TO EXPLODE THE MOON:
 
