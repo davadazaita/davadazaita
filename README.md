@@ -12,6 +12,18 @@
 
 ---
 
+## Think It. Those military exercise bombs  on the high seas exploding outside the devil's ball ???
+
+## Think It. Have you ever heard that sound of an spacecraft orbital engine taking off from outside the devil's little ball ???
+
+## That same old question: 
+
+## This is a problem for terrorist monkeys baptized by the devil ???
+
+## If a monkey runs through my land and the monkey charges to jump onto its branch, logically, either it charges and shares the profit, or it doesn't charge anything.
+
+---
+
 ## There are people who know so much about fabric that I think everything looks Synthetic or Leather to them.
 
 ## Lá vai, Lá vai, Lá vai, é synthetic (Courvin) ou Leather (Couro Curtido) ???
@@ -23,18 +35,6 @@
 ---
 
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/b47d4b3c-9ebd-4a85-8232-2d5b331df2a3" />
-
----
-
-## Think It. Those military exercise bombs  on the high seas exploding outside the devil's ball ???
-
-## Think It. Have you ever heard that sound of an spacecraft orbital engine taking off from outside the devil's little ball ???
-
-## That same old question: 
-
-## This is a problem for terrorist monkeys baptized by the devil ???
-
-## If a monkey runs through my land and the monkey charges to jump onto its branch, logically, either it charges and shares the profit, or it doesn't charge anything.
 
 ---
 
