@@ -1,3 +1,9 @@
+<h2>Think It. Police Team Vs Bandid Team</h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/18b631bd-a5ba-42b9-abaf-a0d6503496e2" />
+
+---
+
 <h2>Think It. Davada Team Vs Humanoid Team LAB</h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2b583c0c-bda5-46ac-9c37-3219faf8f9f1" />
