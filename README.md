@@ -1,6 +1,6 @@
 ## No fish-eye lens, so as not to create the "Devil's Ball" effect.
 
-## No fish-eye lens, to create the "Devil's Ball" effect.
+## fish-eye lens, to create the "Devil's Ball" effect.
 
 <img width="457" height="437" alt="Image" src="https://github.com/user-attachments/assets/b6f76144-cc32-4f81-b4fa-22bb328b80d3" />
 
