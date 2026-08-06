@@ -1,127 +1,3 @@
-## Think It. Intergalactic Spacescraft Seba on Atlantic Ocean
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb4b41e1-64f4-4377-9790-34f4070471b7" />
-
-## Think It.  Intergalactic Spacescraft Zac on Atlantic Ocean
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f3a9f2fd-2265-467f-a430-60b0ab64989e" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6aa1ff63-1ae6-4fc3-8c05-ec20e5ee389f" />
-
-## Think It. Intergalactic Spacescraft Zarya on Atlantic Ocean
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d86f097a-20eb-4e6c-b6ae-7a2a62d6743d" />
-
-## Think It. 
-
-## The day a space terrorist crosses the gravitational zone to reach the old moon or the old sun—beyond the threshold of the frontier—let me know, for I have agreed to be contradicted by RA-MAN and his Demons. 
-
-## No space terrorist has ever crossed the threshold of the border, whatever it may be.
-
-## I wonder if the space terrorists have already started clearing out the gravitational space???
-
-## The Zero Count = (0-1-2-3 = 4 Elements on Set) -> Elohim Tzevaot (0) - Davada Beni Elohim/zaita (1), Alaia Beni Tisiba (2) and Adam Beni Elohim (3).
-
-## Davada Beni Elohim/Zaita
-
----
-
-## Think It. Those military exercise bombs  on the high seas exploding outside the devil's ball ???
-
-## Think It. Have you ever heard that sound of an spacecraft orbital engine taking off from outside the devil's little ball ???
-
-## That same old question: 
-
-## This is a problem for terrorist monkeys baptized by the devil ???
-
-## If a monkey runs through my land and the monkey charges to jump onto its branch, logically, either it charges and shares the profit, or it doesn't charge anything.
-
----
-
-## There are people who know so much about fabric that I think everything looks Synthetic or Leather to them.
-
-## Lá vai, Lá vai, Lá vai, é synthetic (Courvin) ou Leather (Couro Curtido) ???
-
-<h3> During World War II, European militaries—including the German army—primarily relied on German Shepherds (Alsatians) as military and guard dogs. By contrast, the Doberman Pinscher became famous as the official "Devil Dog" of the United States Marine Corps, which used them extensively in the Pacific Theater rather than in Europe. </h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9138dd65-fd8b-40d6-a0ba-c6e784bb2b38" />
-
----
-
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/b47d4b3c-9ebd-4a85-8232-2d5b331df2a3" />
-
----
-
-## fish-eye lens, to create the "Rotten fish" effect.
-
-<img width="970" height="600" alt="Image" src="https://github.com/user-attachments/assets/a0ebbcbd-df25-4983-973e-cf7a2f146e27" />
-
-<img width="457" height="437" alt="Image" src="https://github.com/user-attachments/assets/b6f76144-cc32-4f81-b4fa-22bb328b80d3" />
-
-## Think It. No fish-eye lens, so as not to create the "rotten fish" effect.
-
-<img width="750" height="596" alt="Image" src="https://github.com/user-attachments/assets/e2923746-da11-4c49-8612-b4248dfbe348" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c7f5f3ef-4f7e-4f78-a847-0965d8c38cc5" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1e48f0f5-9f45-45a0-a8e1-3f6bd241ef8b" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/87b02c0e-e1f7-42ea-b079-2151a2c90e5b" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ddc30825-092b-4522-a89c-fe4978308f7c" />
-
----
-
-<h2>Think It. Vitalcops safety car </h2>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cb5825f3-6243-4a07-a360-21d3faff65c7" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d4104669-f64a-4cf0-8321-f579097099cf" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d5f224f2-e90d-458e-912d-128774e80ae5" />
-
----
-
-<h2>Think It. Vitalcops Original Safety car </h2>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/997bac9e-a807-4e62-b37e-9993d59a6edb" />
-
----
-
-<h2>Think It. When they see the blue skull, they know they had sex with Ku. </h2>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a5a3627-a1cc-4cd3-9d7e-260ec666743a" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8b99b817-aee3-47a1-be1a-e3d5a6893828" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/162df096-dec0-45c9-9a8d-9cfe85a7683f" />
-
----
-
-<h2>Think It. Vitalcops Blue Team Vs Pinot Monkeys Bandid Red Team</h2>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0634862a-7edf-467e-a67c-e301948e3e26" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c52248ff-0b86-4eb6-b7c2-5f250ee8de1a" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/688dfa5d-7fef-4d80-9db0-0f85af0ef7ad" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/87551ef8-eaaa-43c2-aae8-0fb299970d70" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e8248ef5-0d35-468e-8742-4e900ba9cb14" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c1de177-c57c-467a-9bcc-0971b0e7488a" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/57a51edf-3a0a-4997-830e-bb11cfc8ca08" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21fb7f2d-7e91-40f1-86e6-b3e69407e2d6" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/93a11a1e-0b3b-4657-8db5-ba9d4a24b552" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7daaeb98-3f8b-4e9e-976f-98c01fb91a84" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/18b631bd-a5ba-42b9-abaf-a0d6503496e2" />
-
 ---
 
 <h2>Think It. Davada Team Vs Humanoid Team LAB</h2>
@@ -531,10 +407,6 @@ __attribute__((section(".lba00_entry"), naked, used)) void lba00_entry(void) {
 ```
 ---
 
-## FOR THE TERRORISTS COUNTRY ON DUTY, WHO WANT TO EXPLODE THE MOON:
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/44b58828-d4a4-4009-8cf4-176f91888870" />
-
 ```text
 
 GNU C: 
@@ -607,3 +479,131 @@ set of C99 features.
 **OBS1: PLASTIC EQUIVALENCE APPROXIMATION IS (Tupperware®) USED ON EVOLUTION TECH:**
 
 <img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/cc764d95-9f57-4419-b743-f75a310aabd6" />
+
+## Think It. Intergalactic Spacescraft Seba on Atlantic Ocean
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fb4b41e1-64f4-4377-9790-34f4070471b7" />
+
+## Think It.  Intergalactic Spacescraft Zac on Atlantic Ocean
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f3a9f2fd-2265-467f-a430-60b0ab64989e" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6aa1ff63-1ae6-4fc3-8c05-ec20e5ee389f" />
+
+## Think It. Intergalactic Spacescraft Zarya on Atlantic Ocean
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d86f097a-20eb-4e6c-b6ae-7a2a62d6743d" />
+
+## Think It. 
+
+## The day a space terrorist crosses the gravitational zone to reach the old moon or the old sun—beyond the threshold of the frontier—let me know, for I have agreed to be contradicted by RA-MAN and his Demons. 
+
+## No space terrorist has ever crossed the threshold of the border, whatever it may be.
+
+## I wonder if the space terrorists have already started clearing out the gravitational space???
+
+## The Zero Count = (0-1-2-3 = 4 Elements on Set) -> Elohim Tzevaot (0) - Davada Beni Elohim/zaita (1), Alaia Beni Tisiba (2) and Adam Beni Elohim (3).
+
+## Davada Beni Elohim/Zaita
+
+---
+
+## Think It. Those military exercise bombs  on the high seas exploding outside the devil's ball ???
+
+## Think It. Have you ever heard that sound of an spacecraft orbital engine taking off from outside the devil's little ball ???
+
+## That same old question: 
+
+## This is a problem for terrorist monkeys baptized by the devil ???
+
+## If a monkey runs through my land and the monkey charges to jump onto its branch, logically, either it charges and shares the profit, or it doesn't charge anything.
+
+---
+
+## There are people who know so much about fabric that I think everything looks Synthetic or Leather to them.
+
+## Lá vai, Lá vai, Lá vai, é synthetic (Courvin) ou Leather (Couro Curtido) ???
+
+<h3> During World War II, European militaries—including the German army—primarily relied on German Shepherds (Alsatians) as military and guard dogs. By contrast, the Doberman Pinscher became famous as the official "Devil Dog" of the United States Marine Corps, which used them extensively in the Pacific Theater rather than in Europe. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9138dd65-fd8b-40d6-a0ba-c6e784bb2b38" />
+
+---
+
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/b47d4b3c-9ebd-4a85-8232-2d5b331df2a3" />
+
+---
+
+## fish-eye lens, to create the "Rotten fish" effect.
+
+<img width="970" height="600" alt="Image" src="https://github.com/user-attachments/assets/a0ebbcbd-df25-4983-973e-cf7a2f146e27" />
+
+<img width="457" height="437" alt="Image" src="https://github.com/user-attachments/assets/b6f76144-cc32-4f81-b4fa-22bb328b80d3" />
+
+## Think It. No fish-eye lens, so as not to create the "rotten fish" effect.
+
+<img width="750" height="596" alt="Image" src="https://github.com/user-attachments/assets/e2923746-da11-4c49-8612-b4248dfbe348" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c7f5f3ef-4f7e-4f78-a847-0965d8c38cc5" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1e48f0f5-9f45-45a0-a8e1-3f6bd241ef8b" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/87b02c0e-e1f7-42ea-b079-2151a2c90e5b" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ddc30825-092b-4522-a89c-fe4978308f7c" />
+
+## FOR THE TERRORISTS COUNTRY ON DUTY, WHO WANT TO EXPLODE THE MOON:
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/44b58828-d4a4-4009-8cf4-176f91888870" />
+
+---
+
+<h2>Think It. Vitalcops safety car </h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cb5825f3-6243-4a07-a360-21d3faff65c7" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d4104669-f64a-4cf0-8321-f579097099cf" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d5f224f2-e90d-458e-912d-128774e80ae5" />
+
+---
+
+<h2>Think It. Vitalcops Original Safety car </h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/997bac9e-a807-4e62-b37e-9993d59a6edb" />
+
+---
+
+<h2>Think It. When they see the blue skull, they know they had sex with Ku. </h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a5a3627-a1cc-4cd3-9d7e-260ec666743a" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8b99b817-aee3-47a1-be1a-e3d5a6893828" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/162df096-dec0-45c9-9a8d-9cfe85a7683f" />
+
+---
+
+<h2>Think It. Vitalcops Blue Team Vs Pinot Monkeys Bandid Red Team</h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0634862a-7edf-467e-a67c-e301948e3e26" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c52248ff-0b86-4eb6-b7c2-5f250ee8de1a" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/688dfa5d-7fef-4d80-9db0-0f85af0ef7ad" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/87551ef8-eaaa-43c2-aae8-0fb299970d70" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e8248ef5-0d35-468e-8742-4e900ba9cb14" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c1de177-c57c-467a-9bcc-0971b0e7488a" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/57a51edf-3a0a-4997-830e-bb11cfc8ca08" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21fb7f2d-7e91-40f1-86e6-b3e69407e2d6" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/93a11a1e-0b3b-4657-8db5-ba9d4a24b552" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7daaeb98-3f8b-4e9e-976f-98c01fb91a84" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/18b631bd-a5ba-42b9-abaf-a0d6503496e2" />
