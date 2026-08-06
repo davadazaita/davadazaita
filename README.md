@@ -4,7 +4,9 @@
 
 ## No space terrorist has ever crossed the threshold of the border, whatever it may be.
 
-## I wonder if the space terrorists have already started clearing out the gravitational space??? (0-1-2 = 3 Elements on Set) -> Elohim Tzevaot (0) - Davada Beni Elohim/zaita (1) and Alaia Beni Tisiba (2)
+## I wonder if the space terrorists have already started clearing out the gravitational space???
+
+## The Zero Count = (0-1-2 = 3 Elements on Set) -> Elohim Tzevaot (0) - Davada Beni Elohim/zaita (1) and Alaia Beni Tisiba (2)
 
 ## Davada Beni Zaita/Elohim
 
