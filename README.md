@@ -2,7 +2,7 @@
 
 ## There are people who know so much about fabric that I think everything looks synthetic or coated to them.
 
-## Lá vai, Lá vai, Lá vai, é synthetic ou leather ???
+## Lá vai, Lá vai, Lá vai, é synthetic (Courvin) ou Leather (Couro) ???
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/82fa4254-116a-4366-8f8e-e6cb6d3f9d0d" />
 
