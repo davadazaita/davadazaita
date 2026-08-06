@@ -397,7 +397,13 @@ Here are some ideas to get you started:
 
 ---
 
-**OBS: NOT USING ABSTRACT TENSORS FOR AI ON LOW LEVEL DEVELOPMENT.** 
+**OBS0: BLACK CODE SAUSAGE**
+
+It is very common to make the code sausage, that is, a mixture of GNU GCC ANSI C89/90 within the GNU Assembly
+
+---
+
+**OBS1: NOT USING ABSTRACT TENSORS FOR AI ON LOW LEVEL DEVELOPMENT.** 
 
 ** 0. Zero Step: Written Linker.ld;
 
@@ -405,21 +411,11 @@ Here are some ideas to get you started:
 
 ---
 
-**OBS0: BLACK CODE SAUSAGE**
-
-It is very common to make the code sausage, that is, a mixture of GNU GCC ANSI C89/90 within the GNU Assembly
-
-**OBS1: PLASTIC EQUIVALENCE APPROXIMATION IS (Tupperware®) USED ON EVOLUTION TECH:**
-
-<img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/cc764d95-9f57-4419-b743-f75a310aabd6" />
-
----
-
 **USING LINUX FEDORA 44 AND ECLIPSE IDE CDT AND GCC 14+ ANSI C89/90 WITHIN AMD RYZEN 02+:**  
 
-Look de Sample:
-
 ---
+
+Look de Sample Written Code:
 
 ```c 
 
@@ -512,6 +508,26 @@ __attribute__((section(".lba00_entry"), naked, used)) void lba00_entry(void) {
 			"    orb    $0x02, %al\n\t" /* Set A20 mask enable */
 			"    outb   %al, $0x92\n\t"
 
+			"load_success:\n\t"
+			"    movw   $0x0F31, %%fs:(2)\n\t"
+			"    movw   $0x05F0, %%bx\n\t"
+			"    movb   (%%bx), %%dl\n\t"
+			"    pushw  $0x0000\n\t"
+			"    pushw  %[s01_entry]\n\t"
+			"    lretw\n\t"
+
+			"read_error_state:\n\t"
+			"    movw   $0x0C45, %%fs:(8)\n\t"
+			"system_halt:\n\t"
+			"    cli\n\t"
+			"    hlt\n\t"
+			"    jmp    system_halt\n\t"
+
+			[s01_entry] "i" (stage01_entry)
+			: "memory", "cc", "ax", "bx", "cx", "dx", "si", "di"
+	);
+}
+
 ```
 ---
 
@@ -587,3 +603,7 @@ set of C99 features.
 
 ``` 
 ---
+
+**OBS1: PLASTIC EQUIVALENCE APPROXIMATION IS (Tupperware®) USED ON EVOLUTION TECH:**
+
+<img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/cc764d95-9f57-4419-b743-f75a310aabd6" />
