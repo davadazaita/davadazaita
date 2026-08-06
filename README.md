@@ -2,6 +2,8 @@
 
 If a monkey runs through my land and the monkey charges to jump onto its branch, logically, either it charges and shares the profit, or it doesn't charge anything.
 
+---
+
 ## FOR THE TERRORISTS COUNTRY ON DUTY, WHO WANT TO EXPLODE THE MOON:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/44b58828-d4a4-4009-8cf4-176f91888870" />
