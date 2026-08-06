@@ -1,5 +1,3 @@
----
-
 ## FOR THE CONSPIRACTIONISTS ON DUTY, WHO WANT TO EXPLODE THE MOON:
 
 ```text
@@ -65,6 +63,7 @@ previous major revision, ISO C90, including designated initializers, variable le
 comments, and the long long and complex types. The Linux kernel, however, employs only a sub-
 set of C99 features.
 ``` 
+
 ---
 
 REFERENCE: Linux Kernel Development, Third Edition - Robert Love - Page 18
