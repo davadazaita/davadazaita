@@ -4,6 +4,10 @@
 
 ## Lá vai, Lá vai, Lá vai, é synthetic ou leather ???
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/82fa4254-116a-4366-8f8e-e6cb6d3f9d0d" />
+
+---
+
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/b47d4b3c-9ebd-4a85-8232-2d5b331df2a3" />
 
 ---
