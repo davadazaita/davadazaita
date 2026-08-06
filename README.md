@@ -1,4 +1,6 @@
-<h2>Think It. Davada Team Vs Humanoid Team Player Soccer on Spain</h2>
+<h2>Think It. Davada Team Vs Humanoid Team</h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9850a124-3575-4706-a838-b085e350339a" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7c906449-94e7-4af7-b2e9-3ad94fe67790" />
 
