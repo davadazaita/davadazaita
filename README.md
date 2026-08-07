@@ -1,4 +1,4 @@
-## Think It. Will they redesign Evox Mars ???
+## Think It. Will they redesign Evox Mars ??? É Obvious !!! 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21b1af43-0c58-454c-b5c2-e9ad3044406f" />
 
