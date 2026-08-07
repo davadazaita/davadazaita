@@ -4,7 +4,7 @@
 
 ## Think It. Eles dizem, foi copiado do burrego do pipoco. !!!
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f2a67d88-49c1-4cb2-b0eb-302a4a0d23d1" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/92d873f4-6f88-47c3-a681-6a7617cacffa" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c78f4cf7-f6ca-4c9b-9ef1-66f154a23b26" />
 
