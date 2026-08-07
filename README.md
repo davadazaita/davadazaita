@@ -1,6 +1,8 @@
-## Think It. Dr. Davada Zaita - Evox Approved for Europe
+## Think It. Dr. Davada Zaita - Evox Approved for Running on Europe
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/487accc5-5661-42fe-a5d8-828a875e86cc" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3416eeee-2e8e-4ce0-836a-f32bf3d24eb0" />
 
 ---
 
