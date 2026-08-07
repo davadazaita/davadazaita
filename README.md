@@ -1,4 +1,4 @@
-## Think It. Será que eles vão redeterminar a nova moto do Jaspion
+## Think It. Will they redesign Jaspion's ???
 
 <h2>Will they redesign Jaspion's new motorcycle with extra-wide 360mm slick front and rear tires and a longer wheelbase suited for competition?</h2>
 
