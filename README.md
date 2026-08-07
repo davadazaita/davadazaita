@@ -1,4 +1,4 @@
-## Think It. Dr. Davada Zaita - Approved for Europe Netherlands
+## Think It. Dr. Davada Zaita - Evox  Approved for Europe Netherlands
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/487accc5-5661-42fe-a5d8-828a875e86cc" />
 
@@ -19,6 +19,8 @@
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1f942213-fd66-432c-9a99-74cfe2741fed" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/085c31fd-dd5c-4408-9d03-14469852dff6" />
+
+---
 
 ## Think It. Evo X-Ray - Se eles fossem capaz de fazer isso !!!
 
