@@ -1,6 +1,8 @@
-## Think It. Tex Mageta. O novo padrão da Rebelião da Máquinas !!!
+## Think It. Tex Mageta. O novo conceito padrão da Global Rebelião da Máquinas !!!
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e94ea8bd-dde9-42d8-bca4-76bf632009ac" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/de415395-6650-4a0e-8b16-ffc47e14b321" />
 
 ## Think It. Se eles fossem capaz de fazer isso !!!
 
