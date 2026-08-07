@@ -1,3 +1,7 @@
+## Think It. Will they redesign Evox Mars ???
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21b1af43-0c58-454c-b5c2-e9ad3044406f" />
+
 ## Think It. Will they redesign Jaspion's ???
 
 <h2>The Evox D-King 1280L (2000CC) with extra-wide 360mm slick front and rear tires and a longer wheelbase suited for competition.</h2>
