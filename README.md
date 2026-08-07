@@ -1,10 +1,10 @@
-## Think It. É Obvious, que Esta é o Jumento Celestino Apertadinho entre os Eixos !!! 
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f847a6ad-6417-4fa1-a625-4c2f214ae4a0" />
-
 ## Think It. Tex Mageta. O novo conceito padrão da Global Rebelião da Máquinas !!!
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e94ea8bd-dde9-42d8-bca4-76bf632009ac" />
+
+## Think It. É Obvious, que Esta é o Jumento Celestino Apertadinho entre os Eixos !!! 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f847a6ad-6417-4fa1-a625-4c2f214ae4a0" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/de415395-6650-4a0e-8b16-ffc47e14b321" />
 
