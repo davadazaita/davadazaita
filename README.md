@@ -6,11 +6,7 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8211b630-7701-4e49-a1d4-e724f4fd29b3" />
 
-## Think It. Se eles fossem capaz de fazer isso !!!
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1b50dd0e-a3fb-4fcc-b36b-8041f1b7d55c" />
-
-## Think It. Ela mais aberta entre os eixos para você !!!
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1cc7ee91-db61-471b-bd06-dd2b13446353" />
 
@@ -18,7 +14,7 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f847a6ad-6417-4fa1-a625-4c2f214ae4a0" />
 
-## Think It. Will they redesign Evox Mars ??? É Obvious !!! 
+## Think It. Se eles fossem capaz de fazer isso !!!
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21b1af43-0c58-454c-b5c2-e9ad3044406f" />
 
