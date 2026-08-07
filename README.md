@@ -1,4 +1,4 @@
-## Think It. Evo Z-Tava 5DG - Eles dizem foi copiado do burrego do pipoco !!!
+## Think It. Evo 5DG - Eles dizem foi copiado do burrego do pipoco !!!
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/085c31fd-dd5c-4408-9d03-14469852dff6" />
 
