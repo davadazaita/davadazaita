@@ -1,5 +1,7 @@
 ## Think It. Se eles fossem capaz de fazer isso !!!
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/47098de8-0552-43af-9028-f0c655c5f33d" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21b1af43-0c58-454c-b5c2-e9ad3044406f" />
 
 ## Think It. Will they redesign Jaspion's ???
