@@ -1,4 +1,6 @@
-## Think It. Evo 5DG - Eles dizem foi copiado do burrego do pipoco !!!
+## Think It. Evo 5D Gravitational - Eles dizem foi copiado do burrego do pipoco !!!
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1f942213-fd66-432c-9a99-74cfe2741fed" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/085c31fd-dd5c-4408-9d03-14469852dff6" />
 
