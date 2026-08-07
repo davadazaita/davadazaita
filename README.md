@@ -1,19 +1,3 @@
-## Think It. Tex Mageta. O novo conceito padrão da Global Rebelião da Máquinas !!!
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e94ea8bd-dde9-42d8-bca4-76bf632009ac" />
-
-## Think It. É Obvious, que Esta é o Jumento Celestino Apertadinho entre os Eixos !!! 
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f847a6ad-6417-4fa1-a625-4c2f214ae4a0" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/de415395-6650-4a0e-8b16-ffc47e14b321" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8211b630-7701-4e49-a1d4-e724f4fd29b3" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1b50dd0e-a3fb-4fcc-b36b-8041f1b7d55c" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1cc7ee91-db61-471b-bd06-dd2b13446353" />
-
 ## Think It. Se eles fossem capaz de fazer isso !!!
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21b1af43-0c58-454c-b5c2-e9ad3044406f" />
@@ -29,6 +13,24 @@
 ## Think It. The Evox D-King 2000 - Old Version ???
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dcec9237-46c8-46d9-9cc2-eed1b0954279" />
+
+---
+
+## Think It. Tex Mageta. O novo conceito padrão da Global Rebelião da Máquinas !!!
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e94ea8bd-dde9-42d8-bca4-76bf632009ac" />
+
+## Think It. É Obvious, que Esta é o Jumento Celestino Apertadinho entre os Eixos !!! 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f847a6ad-6417-4fa1-a625-4c2f214ae4a0" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/de415395-6650-4a0e-8b16-ffc47e14b321" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8211b630-7701-4e49-a1d4-e724f4fd29b3" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1b50dd0e-a3fb-4fcc-b36b-8041f1b7d55c" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1cc7ee91-db61-471b-bd06-dd2b13446353" />
 
 ---
 
