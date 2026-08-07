@@ -1,3 +1,7 @@
+## Think It. Ela mais aberta entre os eixos para você !!!
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1cc7ee91-db61-471b-bd06-dd2b13446353" />
+
 ## Think It. É Obvious, que Esta é o Jumento Celestino Apertadinho entre os Eixos !!! 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f847a6ad-6417-4fa1-a625-4c2f214ae4a0" />
