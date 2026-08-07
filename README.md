@@ -1,3 +1,7 @@
+## Think It. Evo Z-Tava 5D Gravitational - Eles dizem foi copiado do burrego do pipoco !!!
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/085c31fd-dd5c-4408-9d03-14469852dff6" />
+
 ## Think It. Evo X-Ray - Se eles fossem capaz de fazer isso !!!
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5c82b834-9c96-46e3-82cd-d880b9115319" />
