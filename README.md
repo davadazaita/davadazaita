@@ -1,6 +1,8 @@
-## Think It. Evox 5D Gravitational - Eles dizem, foi copiado do burrego do pipoco !!!
+## Think It. Evox 5D Gravitational;
 
-## Think It. GASTEI 100 MIL EUROS PARA BUILDING:
+## Think It. GASTEI 100 MIL EUROS PARA BUILDING;
+
+## Think It. Eles dizem, foi copiado do burrego do pipoco. !!!
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c78f4cf7-f6ca-4c9b-9ef1-66f154a23b26" />
 
