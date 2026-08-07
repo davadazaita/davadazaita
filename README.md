@@ -1,3 +1,9 @@
+## Think It. Será que eles vão redeterminar a nova moto do Jaspion
+
+<h2>Will they redesign Jaspion's new motorcycle with extra-wide 360mm slick front and rear tires and a longer wheelbase suited for competition?</h2>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f2dd99ca-fb6b-4d43-afee-f6eccc0a071e" />
+
 ---
 
 <h2>Think It. Davada Team Vs Humanoid Team</h2>
