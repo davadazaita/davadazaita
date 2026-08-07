@@ -1,8 +1,14 @@
-## Think It. Will they redesign Jaspion's. ???
+## Think It. Will they redesign Jaspion's ???
 
 <h2>The Evox D-King 2000 with extra-wide 360mm slick front and rear tires and a longer wheelbase suited for competition.</h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f2dd99ca-fb6b-4d43-afee-f6eccc0a071e" />
+
+---
+
+## Think It. The Evox D-King 2000 - Old Version ???
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dcec9237-46c8-46d9-9cc2-eed1b0954279" />
 
 ---
 
