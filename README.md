@@ -1,6 +1,6 @@
-## Think It. Will they redesign Jaspion's. The Evox D-King 2000 ???
+## Think It. Will they redesign Jaspion's. ???
 
-<h2>Will they redesign Jaspion's new motorcycle with extra-wide 360mm slick front and rear tires and a longer wheelbase suited for competition?</h2>
+<h2>The Evox D-King 2000 with extra-wide 360mm slick front and rear tires and a longer wheelbase suited for competition?</h2>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f2dd99ca-fb6b-4d43-afee-f6eccc0a071e" />
 
