@@ -1,4 +1,4 @@
-## Think It. Ray RX - Se eles fossem capaz de fazer isso !!!
+## Think It. X-Ray - Se eles fossem capaz de fazer isso !!!
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5c82b834-9c96-46e3-82cd-d880b9115319" />
 
