@@ -1,4 +1,4 @@
-## Think It. Davada Zaita - Approved for Europe Netherlands
+## Think It. Dr. Davada Zaita - Approved for Europe Netherlands
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/487accc5-5661-42fe-a5d8-828a875e86cc" />
 
