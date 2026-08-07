@@ -1,8 +1,8 @@
-## Think It. Evox 5D Gravitational;
+## Think It. Evox 5D Orbital New Generation
 
-## Think It. GASTEI 100 MIL EUROS PARA BUILDING;
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b8c56a83-1a30-4b29-9103-4926c866a9eb" />
 
-## Think It. Eles dizem, foi copiado do burrego do pipoco. !!!
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/92d873f4-6f88-47c3-a681-6a7617cacffa" />
 
