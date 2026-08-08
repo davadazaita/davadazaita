@@ -1,6 +1,6 @@
 ## Think It. The user experience perspective.
 
-<h3>In this version, the drivers get so excited that they won't want to get out...</h3>
+<h3>In this version, the pilots get so excited that they won't want to get out...</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bc5c1416-9ec8-4a95-8726-0e24b47ca41b" />
 
