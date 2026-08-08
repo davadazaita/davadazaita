@@ -1,4 +1,8 @@
-## Think It. On the new generation the just pilot compartilham o pau do meio
+## Think It. The pilot the gustam rapadura no mei
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/eb5ac6b0-610e-418b-829b-2bf2b1a8e3e0" />
+
+## Think It. The pilot não the gustam pau vermei
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ef0a14e9-63ae-4aff-b0c3-9972e8166cfb" />
 
