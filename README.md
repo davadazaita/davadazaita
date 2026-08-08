@@ -1,4 +1,4 @@
-## Think It. Modern tail-rotorless helicopter clean
+## Think It. The pilot wants a helicopter clean version.
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bc5c1416-9ec8-4a95-8726-0e24b47ca41b" />
 
