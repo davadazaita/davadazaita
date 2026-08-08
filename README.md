@@ -1,6 +1,6 @@
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on China
 
-<h3> My fetish is watching lots of vultures taking a shit. </h3>
+<h3> My obsession is watching lots of vultures flying and shitting na cabeça dos merdas. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0b20266e-0cc5-4979-8f07-8cf6708bf3e8" />
 
