@@ -1,5 +1,9 @@
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on China
 
+<h3> Eu Gostei mesmo foi do último unamel, e vai solta e volta sei vazar pelo karitel  </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1b40b705-0c14-4c1f-91ad-7f6709a33c39" />
+
 <h3> My thing is watching lots of vultures flying around and shitting on the heads of pieces of shit. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0b20266e-0cc5-4979-8f07-8cf6708bf3e8" />
