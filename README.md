@@ -1,4 +1,4 @@
-## Think It in User Experience - UX. The pilot wants a clean version of the helicopter.
+## Think from the perspective of the user experience.
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bc5c1416-9ec8-4a95-8726-0e24b47ca41b" />
 
