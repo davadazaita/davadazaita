@@ -1,5 +1,5 @@
 
-## Think It. Pilots dirigindo sem baixar e levantar o pau direto
+## Think It. Pilots dirigindo sem baixar e levantar o pau direto no helicoptero moderno
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e78d90f3-c882-46ce-b6db-48451fd5e018" />
 
