@@ -1,3 +1,6 @@
+## Think It. Modern tail-rotorless helicopter in the desert
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8082294b-b3e2-4211-8879-b561ab65ad7d" />
 
 ## Think It. Pilots dirigindo sem baixar e levantar o pau direto no helicoptero moderno
 
