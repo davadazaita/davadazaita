@@ -1,54 +1,8 @@
 ## Think It. The user experience perspective.
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bca528e0-6605-45b4-b67e-bbfbaf7d9f75" />
+## Think It. Dr. Davada Zaita - Evox Approved for Running on Russian
 
----
-
-<h3>In this version, the pilots get so excited that they won't want to get out...</h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e012bf37-1c97-4d5e-9db2-b09360f0a871" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bc5c1416-9ec8-4a95-8726-0e24b47ca41b" />
-
-## Think It. The pilot the gustam pernas abertas para poder zoia pra elas sim
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/266914f6-2113-4db3-b62c-74ac7c9479a7" />
-
-## Think It. The pilot the gustam rapadura no mei sim
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/eb5ac6b0-610e-418b-829b-2bf2b1a8e3e0" />
-
-## Think It. The pilot não the gustam pau vermei não
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ef0a14e9-63ae-4aff-b0c3-9972e8166cfb" />
-
-## Think It. Modern tail-rotorless helicopter in the desert
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8082294b-b3e2-4211-8879-b561ab65ad7d" />
-
-## Think It. Pilots dirigindo sem baixar e levantar o pau direto no helicoptero moderno
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e78d90f3-c882-46ce-b6db-48451fd5e018" />
-
-## Think It. Os Pilots tem que checkar o ZOI do KU
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9c2975cd-78cb-4724-bc8a-983ea69fc8fc" />
-
-## Think It. O ZOI do KU Velado, o piloto não enxerga o ZOI do KU
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/06fb0f70-92ed-4e31-b451-dec980cfad56" />
-
-## Think It. O canal desmontado o piloto enxerga até o ZOI do KU
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8f291c8d-af85-4d8b-a51c-d1c5626b7db8" />
-
-## Think It. Como é lindo um KU Limpinho
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2f5367f4-360f-43cb-a4f5-656b42f77ae3" />
-
-## Think It. Helicopter com Tail Rotor Socado no Ku, E a Rabichola Ainda Balança mais não cai, Fui Orientato pelo Evo Robotinic a não mostrar o modelo real
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/af70a1c8-e55e-436b-b1d3-245b9807b29e" />
+<img width="640" height="640" alt="Image" src="https://github.com/user-attachments/assets/f221a258-7189-4a63-8869-6d9f9bedf5ad" />
 
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on Europe
 
