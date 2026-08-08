@@ -1,4 +1,4 @@
-## Think It. The pilot wants a helicopter clean version.
+## Think It. The pilot wants a clean version of the helicopter.
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bc5c1416-9ec8-4a95-8726-0e24b47ca41b" />
 
