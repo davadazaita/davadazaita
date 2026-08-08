@@ -1,5 +1,9 @@
 ## Think It. The user experience perspective.
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bca528e0-6605-45b4-b67e-bbfbaf7d9f75" />
+
+---
+
 <h3>In this version, the pilots get so excited that they won't want to get out...</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e012bf37-1c97-4d5e-9db2-b09360f0a871" />
