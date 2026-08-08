@@ -1,3 +1,7 @@
+## Think It. Dr. Davada Zaita - Evox Approved for Running on China
+
+<img width="640" height="640" alt="Image" src="https://github.com/user-attachments/assets/8b266ea4-b5bb-45fd-881a-751cbc04f6b9" />
+
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on Russian
 
 <img width="640" height="640" alt="Image" src="https://github.com/user-attachments/assets/f221a258-7189-4a63-8869-6d9f9bedf5ad" />
