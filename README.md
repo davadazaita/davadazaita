@@ -2,6 +2,8 @@
 
 <h3>In this version, the pilots get so excited that they won't want to get out...</h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e012bf37-1c97-4d5e-9db2-b09360f0a871" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bc5c1416-9ec8-4a95-8726-0e24b47ca41b" />
 
 ## Think It. The pilot the gustam pernas abertas para poder zoia pra elas sim
