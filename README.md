@@ -1,3 +1,7 @@
+## Think It. Como é lindo um KU Limpinho
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2f5367f4-360f-43cb-a4f5-656b42f77ae3" />
+
 ## Think It. Helicopter com Tail Rotor Socado no Ku, E a Rabichola Ainda Balança mais não cai, Fui Orientato pelo Evo Robotinic a não mostrar o modelo real
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/af70a1c8-e55e-436b-b1d3-245b9807b29e" />
