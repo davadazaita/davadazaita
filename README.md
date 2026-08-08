@@ -1,12 +1,12 @@
-## Think It. The pilot the gustam pernas abertas para poder zoia elas
+## Think It. The pilot the gustam pernas abertas para poder zoia pra elas sim
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/266914f6-2113-4db3-b62c-74ac7c9479a7" />
 
-## Think It. The pilot the gustam rapadura no mei
+## Think It. The pilot the gustam rapadura no mei sim
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/eb5ac6b0-610e-418b-829b-2bf2b1a8e3e0" />
 
-## Think It. The pilot não the gustam pau vermei
+## Think It. The pilot não the gustam pau vermei não
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ef0a14e9-63ae-4aff-b0c3-9972e8166cfb" />
 
