@@ -1,5 +1,11 @@
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on China
 
+<h3> I like the "vulture" version—when they come, it’s a real pain in the KU. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e53e9306-78a1-4d31-bdb0-ef28a2627664" />
+
+## Think It. Dr. Davada Zaita - Evox Approved for Running on China
+
 <img width="640" height="640" alt="Image" src="https://github.com/user-attachments/assets/8b266ea4-b5bb-45fd-881a-751cbc04f6b9" />
 
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on Russian
