@@ -1,5 +1,9 @@
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on China
 
+<h3> Olha a nova lataria, do lata veia !!! </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a2fd8db-4081-44a3-be63-a18a7a14c769" />
+
 <h3> Leva só quatro latas d'agua pra ir e voltar mais rápido cara - E para o senhor kukuriku, tudo bene !!! </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c7b6f47-db4a-4b0a-b80c-38c298069043" />
