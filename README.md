@@ -1,6 +1,6 @@
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on China
 
-<h3> Leva só quatro latas d'agua pra ir e voltar mais rápido cara, tudo bene!!! </h3>
+<h3> Leva só quatro latas d'agua pra ir e voltar mais rápido cara, tudo bene !!! </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c7b6f47-db4a-4b0a-b80c-38c298069043" />
 
