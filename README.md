@@ -1,4 +1,4 @@
-## Think It. O piloto desmontado enxerga até o oininho do KU lá no fizinho
+## Think It. O canal desmontado o piloto enxerga até o ZOI do KU
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8f291c8d-af85-4d8b-a51c-d1c5626b7db8" />
 
