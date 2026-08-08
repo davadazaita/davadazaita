@@ -1,3 +1,7 @@
+## Think It. On the new generation the just pilot compartilham o pau do meio
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ef0a14e9-63ae-4aff-b0c3-9972e8166cfb" />
+
 ## Think It. Modern tail-rotorless helicopter in the desert
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8082294b-b3e2-4211-8879-b561ab65ad7d" />
