@@ -1,6 +1,6 @@
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on China
 
-<h3> I like the "vulture" version—when they come, it’s a real pain in the KU. </h3>
+<h3> I like the "vulture" version—when they come, it’s a real pain in the KU(ASS). </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e53e9306-78a1-4d31-bdb0-ef28a2627664" />
 
