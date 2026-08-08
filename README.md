@@ -1,3 +1,7 @@
+## Think It. Os Pilots tem que checkar o ZOI do KU
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9c2975cd-78cb-4724-bc8a-983ea69fc8fc" />
+
 ## Think It. O ZOI do KU Velado, o piloto não enxerga o ZOI do KU
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/06fb0f70-92ed-4e31-b451-dec980cfad56" />
