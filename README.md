@@ -1,3 +1,7 @@
+## Think It. Modern tail-rotorless helicopter Cleaner
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bc5c1416-9ec8-4a95-8726-0e24b47ca41b" />
+
 ## Think It. The pilot the gustam pernas abertas para poder zoia pra elas sim
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/266914f6-2113-4db3-b62c-74ac7c9479a7" />
