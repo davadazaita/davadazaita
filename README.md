@@ -1,4 +1,4 @@
-## Think It. The pilot the gustam pernas abertas para poder zoia
+## Think It. The pilot the gustam pernas abertas para poder zoia o chao
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/266914f6-2113-4db3-b62c-74ac7c9479a7" />
 
