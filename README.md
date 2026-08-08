@@ -1,3 +1,7 @@
+## Think It. Helicopter com Tail Rotor Socado no Ku, E a Rabichola Ainda Balança mais não cai, Fui Orientato pelo Evo Robotinic a não mostrar o modelo real
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/af70a1c8-e55e-436b-b1d3-245b9807b29e" />
+
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on Europe
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/487accc5-5661-42fe-a5d8-828a875e86cc" />
