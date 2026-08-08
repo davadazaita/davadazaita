@@ -1,3 +1,8 @@
+
+## Think It. Pilots dirigindo sem baixar e levantar o pau direto
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e78d90f3-c882-46ce-b6db-48451fd5e018" />
+
 ## Think It. Os Pilots tem que checkar o ZOI do KU
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9c2975cd-78cb-4724-bc8a-983ea69fc8fc" />
