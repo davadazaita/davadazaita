@@ -1,3 +1,7 @@
+## Think It. O piloto desmontado enxerga até o oininho do KU lá no fizinho
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8f291c8d-af85-4d8b-a51c-d1c5626b7db8" />
+
 ## Think It. Como é lindo um KU Limpinho
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2f5367f4-360f-43cb-a4f5-656b42f77ae3" />
