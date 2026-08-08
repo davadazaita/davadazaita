@@ -1,6 +1,6 @@
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on China
 
-<h3> Eu Gostei mesmo foi do último unamel, e vai solta e volta sei vazar pelo karitel  </h3>
+<h3> Eu Gostei mesmo foi do último unamel, e vai e volta sei vazar pelo karitel  </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1b40b705-0c14-4c1f-91ad-7f6709a33c39" />
 
