@@ -1,5 +1,9 @@
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on China
 
+<h3> Amei, o novo modelo de tonho balde </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/36d75a0e-edba-43b1-b15c-2a2c9f8f3bc6" />
+
 <h3> Olha a nova lataria, do lata veia !!! </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a2fd8db-4081-44a3-be63-a18a7a14c769" />
