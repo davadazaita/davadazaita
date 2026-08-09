@@ -1,5 +1,9 @@
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on China
 
+<h3> E quando a operação pipa, começa e lata d'agua derrama, é só alegria, na cama </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d4d09087-e8ea-46e0-a0eb-79b4c4cc421c" />
+
 <h3> A coisa mais lindia, é quando unamel vai para a operação pipa </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/75aa1a63-791c-40a8-88b3-383f3b61eb5d" />
