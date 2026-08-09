@@ -1,5 +1,9 @@
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on China
 
+<h3> A coisa mais lindia, quando para a operacao pipa </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/75aa1a63-791c-40a8-88b3-383f3b61eb5d" />
+
 <h3> Amei, o novo modelo de tonho balde </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/36d75a0e-edba-43b1-b15c-2a2c9f8f3bc6" />
