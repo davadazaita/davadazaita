@@ -1,6 +1,6 @@
 ## Think It. Dr. Davada Beni Zaita
 
-<h3> Davada Beni Zaita operates at the intersection of advanced technology and strategic operations. Holding a PhD in Artificial Intelligence and a background in Computer Systems Engineering, he specializes in Project Management and Information Security. His solid academic profile is underpinned by extensive practical experience in military command, intelligence, and counter-intelligence, complemented by advanced special forces skills. This synthesis of cutting-edge research and operational field experience defines his unique ability to manage and protect complex, high-risk environments. </h3>
+<h3> Davada Beni Zaita operates at the intersection of advanced technology and strategic operations. Holding a PhD in Artificial Intelligence and a bachelor's degree in Computer Systems Engineering, he specializes in Project Management and Information Security. His solid academic profile is underpinned by extensive practical experience in military command, intelligence, and counter-intelligence, complemented by advanced special forces skills. This synthesis of cutting-edge research and operational field experience defines his unique ability to manage and protect complex, high-risk environments. </h3>
 
 ---
 
