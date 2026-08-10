@@ -6,6 +6,8 @@
 
 ## Think It. (Comming Soon, on Galaxy Television)
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bfbffdf8-501d-44b9-970a-a20a7f010aaf" />
+
 <h3> We will soon be together on free-to-air satellite television. </h3>
 
 <h3> The original films, without contradictions; </h3>
