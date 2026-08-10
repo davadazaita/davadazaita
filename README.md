@@ -4,6 +4,10 @@
 
 ---
 
+## Think It. Dr. Davada Zaita - Evox Approved for Running on Ice Russia
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/47386286-ad27-4550-a993-6e17520fa6cf" />
+
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
