@@ -4,7 +4,7 @@
 
 ---
 
-## Think It. Air protection system - Magana Davada
+## Think It. Air protection system - Davada Magana
 
 
 <h3> Evox Approved for Running on Ice Russia </h3>
