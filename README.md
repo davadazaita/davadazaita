@@ -4,9 +4,9 @@
 
 ---
 
-## Think It. Air protection system - Evox Approved for Running on Arctic ICE
+## Think It. City of Davada 
 
-<h3> City of Davada, on border limit, before holy land extension Atlantis </h3>
+<h3> on border limit, before holy land extension Atlantis </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c5f2b0a7-5985-4d95-8322-f44efb2cc5df" />
 
