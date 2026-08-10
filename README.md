@@ -4,13 +4,13 @@
 
 ---
 
-## Think It. City of Davada 
+## Think It. City of Davada (Comming Soon... Pollaris and Athantis City) 
 
-<h3> On border limit earth planet, before holy land extension Atlantis </h3>
+<h3> We will soon be together on open satellite television </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c5f2b0a7-5985-4d95-8322-f44efb2cc5df" />
 
-<h3> We managed to return to Stellaris City before the border. </h3>
+<h3> We managed to return to Pollaris City before the border. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b25a957-2556-4fa0-a8cc-44c6604795d6" />
 
