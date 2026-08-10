@@ -8,6 +8,8 @@
 
 <h3> Evox Approved for Running on Ice Russia </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6911ba3e-d3bb-4112-aae3-34e74e3a5eb1" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e17965c-383d-4aa0-b19a-e33bd4b36030" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f405513a-004b-4a42-a86a-9193426d2b5c" />
