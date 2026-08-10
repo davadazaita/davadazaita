@@ -6,6 +6,10 @@
 
 ## Think It. (Comming Soon, on Galaxy Television)
 
+<h3> Polaris seen over Atlantis City. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0c6bf27e-43a0-48ad-9ca5-10761f934b62" />
+
 <h3> A blanket of snow in Polaris during the current ice age, as seen from Atantis and as viewed from space stations in gravitational space. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c33313e2-c68f-4a3c-9ee5-02c63fce9200" />
