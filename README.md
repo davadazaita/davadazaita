@@ -6,6 +6,10 @@
 
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on Ice Russia
 
+<h3> The Doppler effect even showed up in the photo.  </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3332a919-8984-4053-b448-ab12a2c1e0d7" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/48def55e-5da4-437c-a9d0-c0fcd822f33b" />
 
 <h3> Mobile data center with air protection system on ice. </h3>
