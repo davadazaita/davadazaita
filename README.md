@@ -6,6 +6,10 @@
 
 ## Think It. Air protection system - Evox Approved for Running on Arctic ICE
 
+<h3> We managed to return to Stellar City before the border. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c165211e-0093-4119-a29c-840df666d711" />
+
 <h3> Our last expedition to the Ice Age. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6294bdd8-0ba9-487a-a2ce-178fb6523e02" />
