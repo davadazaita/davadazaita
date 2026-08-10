@@ -10,7 +10,9 @@
 
 <h3> The original films, without contradictions; </h3>
 
-<h3> The original vehicles on original versions and much more... </h3>
+<h3> The best of original sports, without contradictions; </h3>
+
+<h3> The best of original vehicles without contradictions and much more... </h3>
 
 ---
 
