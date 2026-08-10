@@ -4,7 +4,7 @@
 
 ---
 
-## Think It. (Comming Soon, on Galaxy Television - Direct by Pollaris and Athantis City) 
+## Think It. (Comming Soon, By Galaxy Television - Direct on Pollaris and Athantis City) 
 
 <h3> We will soon be together on free-to-air satellite television. </h3>
 
