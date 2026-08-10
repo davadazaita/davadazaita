@@ -4,7 +4,11 @@
 
 ---
 
-## Think It. Air protection system - Evox Approved for Running on Ice Russia
+## Think It. Air protection system - Evox Approved for Running on Arctic ICE
+
+<h3> Our last expedition to the Ice Age. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7943754c-1968-4934-a9a1-26196820b90b" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71789da7-2548-427e-89ed-c038821e30b5" />
 
