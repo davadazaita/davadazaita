@@ -16,6 +16,12 @@
 
 ---
 
+<h3> Threshold of the border between Polaris and Atlantis </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/27bd09d4-b8c9-4fc8-90eb-8a98b98c9fc3" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e3bdd21-1603-47e6-bb0b-b634fae78b1a" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a8fb0a0f-082b-4ad3-9a3a-65414c393419" />
