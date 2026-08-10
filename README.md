@@ -8,6 +8,8 @@
 
 <h3> We managed to return to Stellaris City before the border. </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b25a957-2556-4fa0-a8cc-44c6604795d6" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c165211e-0093-4119-a29c-840df666d711" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c7262cfa-bffe-478e-8fc0-9401a8d15f5b" />
