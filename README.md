@@ -10,7 +10,7 @@
 
 <h3> The original films, without contradictions; </h3>
 
-<h3> **The original vehicles on original versions and much more... </h3>
+<h3> The original vehicles on original versions and much more... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e3bdd21-1603-47e6-bb0b-b634fae78b1a" />
 
