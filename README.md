@@ -6,6 +6,10 @@
 
 ## Think It. (Comming Soon, By Galaxy Television)
 
+<h3> Threshold of the border between Polaris and Atlantis. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/38716fe0-571a-4dd3-8977-428a08462c73" />
+
 ## Direct on Pollaris (Cavera) and Athantis City (Eternia) 
 
 <h3> We will soon be together on free-to-air satellite television. </h3>
