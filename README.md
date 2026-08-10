@@ -6,6 +6,10 @@
 
 ## Think It. (Comming Soon, on Galaxy Television)
 
+<h3> Sunrise in Atlantic City (Eternia) </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7ba1e447-6f53-4b53-94fd-9fc10f8d46b1" />
+
 <h3> Ha-Man Ha-Goym - Ex-Home vs Ha-Baita Davada Alama </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c2ce005-e785-405f-8b29-2f2331f3c25a" />
