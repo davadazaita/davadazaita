@@ -4,7 +4,7 @@
 
 ---
 
-## Think It. City of Davada (Comming Soon... Pollaris and Athantis City) 
+## Think It. (Comming Soon... Pollaris and Athantis City) 
 
 <h3> We will soon be together on open satellite television </h3>
 
