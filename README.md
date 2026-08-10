@@ -8,6 +8,8 @@
 
 <h3> Threshold of the border between Polaris and Atlantis. </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1ac64bb0-a9ad-4f71-9f03-540b574e3009" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/38716fe0-571a-4dd3-8977-428a08462c73" />
 
 ## Direct on Pollaris (Cavera) and Athantis City (Eternia) 
