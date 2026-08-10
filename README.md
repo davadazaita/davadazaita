@@ -6,7 +6,7 @@
 
 ## Think It. (Comming Soon... Pollaris and Athantis City) 
 
-<h3> We will soon be together on open satellite television </h3>
+<h3> We will soon be together on free-to-air satellite television. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e3bdd21-1603-47e6-bb0b-b634fae78b1a" />
 
