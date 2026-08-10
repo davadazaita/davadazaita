@@ -8,6 +8,8 @@
 
 <h3> Our last expedition to the Ice Age. </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6294bdd8-0ba9-487a-a2ce-178fb6523e02" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bac2a37d-7330-4e04-8a9a-ef8d7421ef7d" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7943754c-1968-4934-a9a1-26196820b90b" />
