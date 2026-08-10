@@ -6,7 +6,7 @@
 
 ## Think It. (Comming Soon, on Galaxy Television)
 
-<h3> Ex-Home Ha-Man Ha-Goym vs Ha-Baita Davada Alama </h3>
+<h3> Ha-Man Ha-Goym - Ex-Home vs Ha-Baita Davada Alama </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3c2ce005-e785-405f-8b29-2f2331f3c25a" />
 
