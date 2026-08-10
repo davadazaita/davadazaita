@@ -4,9 +4,11 @@
 
 ---
 
-## Think It. Air protection system - Davada Magana
+## Think It. Air protection system - Davada Magana - Evox Approved for Running on Ice Russia
 
-<h3> Evox Approved for Running on Ice Russia </h3>
+<h3> Laser cannon burns even the eyes of the orbital monkeys.  </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3008d94b-1d00-4552-80c3-35922c60c340" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6911ba3e-d3bb-4112-aae3-34e74e3a5eb1" />
 
