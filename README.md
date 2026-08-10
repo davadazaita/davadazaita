@@ -6,7 +6,7 @@
 
 ## Think It. (Comming Soon, By Galaxy Television)
 
-<h3> No ditado popular do antigos polaris e atlantis é marcado pela aurora boreal como o limite entre o Bem em Athantis e o Mal em Polaris. </h3>
+<h3> In ancient folk tradition, Polaris and Atlantis were demarcated by the aurora borealis, which served as a boundary between Good in Atlantis and Evil in Polaris. </h3>
 
 <h3> Threshold of the border between Polaris and Atlantis. </h3>
 
