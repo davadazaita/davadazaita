@@ -8,6 +8,8 @@
 
 <h3> We will soon be together on open satellite television </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a8fb0a0f-082b-4ad3-9a3a-65414c393419" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c5f2b0a7-5985-4d95-8322-f44efb2cc5df" />
 
 <h3> We managed to return to Pollaris City before the border. </h3>
