@@ -4,7 +4,7 @@
 
 ---
 
-## (Comming Soon, By Galaxy Television - Direct on Pollaris and Athantis City) 
+## (Comming Soon, By Galaxy Television - Direct on Pollaris (Cavera) and Athantis City (Eternia) 
 
 <h3> We will soon be together on free-to-air satellite television. </h3>
 
