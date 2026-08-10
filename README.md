@@ -6,6 +6,8 @@
 
 ## Think It. (Comming Soon, By Galaxy Television)
 
+<h3> No ditado popular do antigos polaris e atlantis é marcado pela aurora boreal como o limite entre o Bem em Athantis e o Mal em Polaris. </h3>
+
 <h3> Threshold of the border between Polaris and Atlantis. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1ac64bb0-a9ad-4f71-9f03-540b574e3009" />
