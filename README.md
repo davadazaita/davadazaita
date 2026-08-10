@@ -6,7 +6,7 @@
 
 ## Think It. City of Davada 
 
-<h3> on border limit, before holy land extension Atlantis </h3>
+<h3> On border limit earth planet, before holy land extension Atlantis </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c5f2b0a7-5985-4d95-8322-f44efb2cc5df" />
 
