@@ -10,7 +10,7 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/47386286-ad27-4550-a993-6e17520fa6cf" />
 
-<h3> Mobile data center internal structure designer. </h3>
+<h3> Internal structure design for a mobile data center. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/67831f9e-87b6-4334-8355-5e6006d211ba" />
 
