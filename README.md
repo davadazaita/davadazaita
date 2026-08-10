@@ -6,6 +6,8 @@
 
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on Ice Russia
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/48def55e-5da4-437c-a9d0-c0fcd822f33b" />
+
 <h3> Mobile data center with air protection system on ice. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a40b295c-ec88-4c6f-943c-a2a92146d1d2" />
