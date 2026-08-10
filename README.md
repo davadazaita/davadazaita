@@ -6,6 +6,10 @@
 
 ## Think It. Air protection system - Evox Approved for Running on Arctic ICE
 
+<h3> City of Davada, on border limit, before holy land extension Atlantis </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c5f2b0a7-5985-4d95-8322-f44efb2cc5df" />
+
 <h3> We managed to return to Stellaris City before the border. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b25a957-2556-4fa0-a8cc-44c6604795d6" />
