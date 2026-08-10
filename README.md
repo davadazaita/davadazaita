@@ -6,6 +6,11 @@
 
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on Ice Russia
 
+
+<h3> Air protection system - Magana Davada </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f405513a-004b-4a42-a86a-9193426d2b5c" />
+
 <h3> The Doppler effect even showed up in the photo.  </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3332a919-8984-4053-b448-ab12a2c1e0d7" />
