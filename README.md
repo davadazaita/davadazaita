@@ -4,10 +4,10 @@
 
 ---
 
-## Think It. Dr. Davada Zaita - Evox Approved for Running on Ice Russia
+## Think It. Air protection system - Magana Davada
 
 
-<h3> Air protection system - Magana Davada </h3>
+<h3> Dr. Davada Zaita - Evox Approved for Running on Ice Russia </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f405513a-004b-4a42-a86a-9193426d2b5c" />
 
