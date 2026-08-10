@@ -6,7 +6,11 @@
 
 ## Think It. (Comming Soon, on Galaxy Television)
 
-<h3> Polaris seen over Atlantis City. </h3>
+<h3> Zoia onde tou,  Zoia onde tou,  Zoia onde tou, em Pollaris, o Velho Mundo... </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5fd69de1-bc7c-4fbb-a678-119bb1629584" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5fd69de1-bc7c-4fbb-a678-119bb1629584" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0c6bf27e-43a0-48ad-9ca5-10761f934b62" />
 
