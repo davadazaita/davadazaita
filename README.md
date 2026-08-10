@@ -6,7 +6,7 @@
 
 ## Think It. Air protection system - Evox Approved for Running on Ice Russia
 
-<h3> Laser cannon burns even the eyes of the orbital monkeys.  </h3>
+<h3> The laser cannon burns even the eyes of the orbital monkeys </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3008d94b-1d00-4552-80c3-35922c60c340" />
 
