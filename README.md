@@ -6,7 +6,7 @@
 
 ## Think It. (Comming Soon, on Galaxy Television)
 
-<h3> A torre de televisão entre outros recursos AINDA tem maluco que vai dizer que contradição por causa da torre de televisão que existe no KURURU DALI e no KURURU DAKOLA. </h3>
+<h3> The television tower, among other features, STILL has monkeys who will say it's a contradiction because of the television tower that's in KURURU DALI and KURURU DAKOLA. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bfbffdf8-501d-44b9-970a-a20a7f010aaf" />
 
