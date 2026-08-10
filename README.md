@@ -6,6 +6,8 @@
 
 ## Think It. (Comming Soon, on Galaxy Television)
 
+<h3> A torre de televisão entre outros recursos tem maluco que vai dizer KURURU DALI OU KURURU DAKOLA. </h3>
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bfbffdf8-501d-44b9-970a-a20a7f010aaf" />
 
 <h3> We will soon be together on free-to-air satellite television. </h3>
