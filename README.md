@@ -1,3 +1,8 @@
+## Think It. Dr. Davada Beni Zaita
+
+<h3> Davada Beni Zaita’s profile represents a powerful combination of engineering discipline and advanced research. Beginning with a Bachelor's degree in Computer Systems Engineering, he developed a core understanding of complex technical systems. He is a specialist in both Project Management and Information Security, skilled in leading initiatives and safeguarding critical data. His academic journey culminates in a Master's and a Doctorate in Artificial Intelligence, signifying a deep commitment to innovation and mastery in the AI field. </h3>
+
+---
 ## Think It. Dr. Davada Zaita - Evox Approved for Running on China
 
 <h3> Leva duas centrifugas Unamel, para ferver água do Mel do KukuKu da Kola </h3>
