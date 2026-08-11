@@ -8,7 +8,7 @@
 
 ---
 
-<h3> Gen. Crispin, Acabei de chegar na England para capturar o Diabo do Tio Jones </h3>
+<h3> Cap. Militão Zeção da 10 Religiao </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71a16cd8-aea8-4eab-919b-f62e800fa0e7" />
 
