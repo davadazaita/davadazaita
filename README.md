@@ -6,6 +6,10 @@
 
 ## Think It. Dava Force Galaxy  (Comming Soon, on Galaxy Television)
 
+<h3> Continuamo no limiar da fronteira do velho mundo glacial, agindo em favor do nosso povo... </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/39b19067-3f02-41f6-9657-760aafc37add" />
+
 <h3> Limiar da Fronteira para entrada no velho mar glacial... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/57fcd227-be9f-49b3-ae79-d5f0cede928f" />
