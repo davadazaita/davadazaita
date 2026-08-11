@@ -4,7 +4,7 @@
 
 ---
 
-<h3>Os Velhos Opositores do Velho Mundo sempre Caem Na Armadilha de Adonai Tzevaot!!! </h3>
+<h3>The old adversaries of the Old World always fall into the trap of Adonai Tzevaot.!!! </h3>
 
 ---
 
