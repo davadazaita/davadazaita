@@ -10,6 +10,8 @@
 
 <h3> By Gal. Crispin e a heavy das luzes</h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/18d75f12-eaa5-449e-ac39-5c1fb702fed6" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/06b5c908-f93b-47dc-956c-8aa694f61101" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8a747006-9bdf-416e-b76f-8bcffb383903" />
