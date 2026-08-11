@@ -8,6 +8,12 @@
 
 ---
 
+<h3> Uma Salva de Gala Para o General Crispin Do Palerma Talia </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ad2c006f-bdbb-43ac-886c-529b162f582e" />
+
+---
+
 <h3>Cmt da Guarda é Sgt. Pitbull, ele falando parece que solta bafo pelo KU...</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ab973d26-5da4-4ea0-81d4-6573fac161f7" />
