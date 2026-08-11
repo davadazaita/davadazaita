@@ -12,7 +12,7 @@
 
 ---
 
-<h3>Zoia onde Tou, Tamos Chegando... </h3>
+<h3>Zoia onde Tou, Tamos Chegando (Tamos Dando a Volta ao Mundo)... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ed57ac14-2f66-4a5d-9b4a-2a1df3422edf" />
 
