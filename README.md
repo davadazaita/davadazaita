@@ -4,7 +4,7 @@
 
 ---
 
-<h3> Ofereceram já tanta mortadela, sem canela, mas, entretanto, todavia, não senti vontade de comer nenhumas delas, KAKAKA...</h3>
+<h3> já ofertaram tanta mortadela, sem canela, mas, entretanto, todavia, não senti vontade de comer nenhumas delas, KAKAKA...</h3>
 
 <h3>The old adversaries of the Old World always fall into the trap of Adonai Tzevaot.!!! </h3>
 
