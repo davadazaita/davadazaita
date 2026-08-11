@@ -4,6 +4,8 @@
 
 ---
 
+<h3> Ofereceram já tanta mortadela, sem canela, mas, entretanto, todavia, não senti vontade de comer nehumas delas, KAKAKA</h3>
+
 <h3>The old adversaries of the Old World always fall into the trap of Adonai Tzevaot.!!! </h3>
 
 <h3> Adonai Tzevaot, Rir e Zomba dos Antigos Opositores no Velho Mundo.!!! </h3>
