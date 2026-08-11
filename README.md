@@ -4,6 +4,10 @@
 
 ---
 
+<h3> Sgt. Jackson Cruze, Number 90 Mote </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/afae4b0f-1a3f-4c74-885e-bc1744fe642e" />
+
 <h3> General Crispin, da Negritude Junior </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6d1995cc-c8db-4f8c-a98e-13fd9ddfd46b" />
