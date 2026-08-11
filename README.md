@@ -8,6 +8,12 @@
 
 ---
 
+<h3> Eu troxe muita brinquedios, pra noiz brinquer</h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c5d4a1ea-7d42-41b0-9e52-793f544fbce8" />
+
+---
+
 <h3> Poera, Poera, Poera, levantou Poera</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b975b8f-a6d6-49fd-b10e-d1ebfed7f966" />
