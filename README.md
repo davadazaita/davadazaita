@@ -4,7 +4,7 @@
 
 ---
 
-<h3> Corporate Major Davada Zaita, Conhecido como Davis Dick Winters </h3>
+<h3> Davada Zaita, Conhecido como Corporate Major Davis Dick Winters </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7472bf96-bcb2-414c-8672-58fd732ddf37" />
 
