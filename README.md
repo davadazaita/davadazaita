@@ -6,6 +6,10 @@
 
 ## Think It. (Comming Soon, on Galaxy Television)
 
+<h3> O Alaia disse que dia não está nada bom para os velhos opositores no velho mundo </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c652d79b-aae2-40fb-b9cb-1d2cb3487641" />
+
 <h3> Good Morning, Velho Mundo... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0be4571e-9cc8-41cf-ae99-d627aa8dc7f1" />
