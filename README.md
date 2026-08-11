@@ -4,6 +4,12 @@
 
 ---
 
+<h3> Vixe, é Crisping, O Reboni, KAKAKAKA, QUE ESTÁ COMANDO DA ONU, NO ESPIRITO, KKKAKA </h3>
+  
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/72797909-2057-4023-a66f-bded222a0b9d" />
+
+---
+
 <h3> já ofertaram tanta mortadela, sem canela, mas, entretanto, todavia, não senti vontade de comer nenhumas delas, KAKAKA...</h3>
 
 <h3>The old adversaries of the Old World always fall into the trap of Adonai Tzevaot.!!! </h3>
