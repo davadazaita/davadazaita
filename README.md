@@ -26,7 +26,7 @@
 
 <h3> HA,HA,HA, Tente me capturar, vou deixar muitos brinquedinhos pra vocês... </h3>
 
-<h3> Tomara que chova, uma chuva bem fininha, que molhe a cama dela ela passe para minha... </h3>
+<h3> Tomara que chova, uma chuva bem fininha, que molhe a cama dela e ela passe para minha... </h3>
 
 ---
 
