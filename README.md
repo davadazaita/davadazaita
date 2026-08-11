@@ -4,6 +4,14 @@
 
 ---
 
+<h3> Brincadeira de crionça. coma é bom, coma é bom, coma é bom </h3>
+
+---
+
+<h3> Gen. Crispin, Acabei de chegar na England para capturar o Diabo do Tio Jones </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71a16cd8-aea8-4eab-919b-f62e800fa0e7" />
+
 <h3> Gen. Crispin, Acabei de chegar na England para capturar o Diabo do Tio Jones </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1e3d4e5d-f2bb-4ec6-9160-513b8b9d9d29" />
