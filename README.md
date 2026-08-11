@@ -4,6 +4,12 @@
 
 ---
 
+<h3> Sd. Boca junior, Number 24 on Carite </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/99096aff-6d17-4dcf-97ef-1521f65a119a" />
+
+---
+
 <h3> Sgt. Jackson Cruze, Number 90 Mote </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/afae4b0f-1a3f-4c74-885e-bc1744fe642e" />
