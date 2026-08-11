@@ -6,6 +6,10 @@
 
 ## Think It. Dava Force Galaxy  (Comming Soon, on Galaxy Television)
 
+<h3> Limiar da Fronteira para entrada no velho mar glacial... </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/57fcd227-be9f-49b3-ae79-d5f0cede928f" />
+
 <h3> Divisão EURAZIA, no limiar da Fronteira com a EUROPE... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fe621625-879b-4a46-9360-7995a6fea379" />
