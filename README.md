@@ -6,7 +6,7 @@
 
 ## Think It. Dava Force Galaxy  (Comming Soon, on Galaxy Television)
 
-<h3> Davada Zaita, no velho é visto como Luke Skywalker... </h3>
+<h3> Davada Zaita, no velho mundo é visto como Luke Skywalker... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/809bf198-0e00-4652-b580-03ee5a19e4b8" />
 
