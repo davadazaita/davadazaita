@@ -6,7 +6,7 @@
 
 ## Think It. Dava Force Galaxy  (Comming Soon, on Galaxy Television)
 
-<h3> Davada Zaita, no velho mundo é visto como Maverick on Top Gun... </h3>
+<h3> Davada Zaita, no velho mundo é visto como Maverick on Top Gun e em vários outro filmes contraditórios... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/07b29036-5b81-40c2-84f0-e6cefa6ccb73" />
 
