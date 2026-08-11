@@ -8,6 +8,12 @@
 
 ---
 
+<h3> Poera, Poera, Poera, levantou Poera</h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b975b8f-a6d6-49fd-b10e-d1ebfed7f966" />
+
+---
+
 <h3> Tava tudo kieto ate Gen Cripin chegar e começou a baforar</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/be36afbb-0bcc-47e5-886c-d49194bc9962" />
