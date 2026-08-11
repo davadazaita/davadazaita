@@ -26,6 +26,8 @@
 
 <h3> HA,HA,HA, Tente me capturar, vou deixar muitos brinquedinhos pra vocês... </h3>
 
+<h3> Tomara que chova, uma chuva bem fininha, que molhe a cama dela ela passe para minha... </h3>
+
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/39b19067-3f02-41f6-9657-760aafc37add" />
