@@ -10,7 +10,7 @@
 
 <h3> Agindo Adonai Tzevaot, quem poderá o empedir de realizar o seu proposito.!!! </h3>
 
-<h3> Os revoltosos sem causa, nunca conseguirão nada, aliados ao Ra-Man, o EL-Diablo.!!! </h3>
+<h3> Os revoltosos sem causa, nunca conseguirão nada, aliados ao Ra-Man, o EL-Diablo, pobres coitados mortalizados.!!! </h3>
 
 ---
 
