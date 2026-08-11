@@ -6,6 +6,8 @@
 
 ## Think It. Dava Force Galaxy  (Comming Soon, on Galaxy Television)
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c7ddaa4f-0ac9-49e4-b847-0667c1066746" />
+
 <h3> Here we have a lot of contraction for the Old World "fifteen" monkey of the opposition... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/47b1f53d-1838-4e1a-a87f-162e9e5fd0f1" />
