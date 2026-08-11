@@ -6,6 +6,9 @@
 
 <h3>The old adversaries of the Old World always fall into the trap of Adonai Tzevaot.!!! </h3>
 
+<h3> Adonai Tzevaot, Rir e Zomba dos Antigos Opositores no Velho Mundo.!!! </h3>
+
+
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/39b19067-3f02-41f6-9657-760aafc37add" />
