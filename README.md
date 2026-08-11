@@ -12,6 +12,12 @@
 
 ---
 
+<h3>Zoia onde Tou, Tamos Chegando... </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ed57ac14-2f66-4a5d-9b4a-2a1df3422edf" />
+
+---
+
 <h3>United Nations Border Patrol APC </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2c7b9957-fb4e-4d5e-ae3d-59d0ca2e57b7" />
