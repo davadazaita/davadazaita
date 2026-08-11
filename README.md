@@ -8,6 +8,12 @@
 
 ---
 
+<h3> Gen. Crispin está no comando das trapalhadas do faustino...</h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/242bea98-bb47-4221-8025-792b9dbb1362" />
+
+---
+
 <h3> Tenente. Barrento corte seu cabelo samango ou coma um jumento </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7227b4d5-cfb7-488b-a891-4bf8c1625937" />
