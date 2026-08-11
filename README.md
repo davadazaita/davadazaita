@@ -22,9 +22,9 @@
 
 <h3> Se queres a paz, deve estar preparado para o combate aproximado... </h3>
 
-<h3> Olha, a dona onça no terreno camufludo... </h3>
+<h3> Olha, a dona onça no terreno camuflado... </h3>
 
-<h3> HA,HA,HA, Tente me capturar, vou deixar muitos brinquedinho pra você... </h3>
+<h3> HA,HA,HA, Tente me capturar, vou deixar muitos brinquedinhos pra vocês... </h3>
 
 ---
 
