@@ -8,6 +8,12 @@
 
 ---
 
+<h3> By Gal. Crispin e a heavy das luzes</h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d1d3032f-a6cf-41b4-8651-13538eebd000" />
+
+---
+
 <h3> Eu troxe muita brinquedios, pra noiz brinquer</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c5d4a1ea-7d42-41b0-9e52-793f544fbce8" />
