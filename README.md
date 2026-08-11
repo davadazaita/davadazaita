@@ -8,7 +8,7 @@
 
 <h3> Adonai Tzevaot, Rir e Zomba dos Antigos Opositores no Velho Mundo.!!! </h3>
 
-<h3> Agindo Adonai Tzevaot, quem poderá o empedira de realizar o seu proposito.!!! </h3>
+<h3> Agindo Adonai Tzevaot, quem poderá o empedir de realizar o seu proposito.!!! </h3>
 
 ---
 
