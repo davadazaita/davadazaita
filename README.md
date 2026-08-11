@@ -4,6 +4,12 @@
 
 ---
 
+<h3> Gen. Crispin, Acabei de chegar na England para o Diabo do Tio Jones </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/aebdca2f-c24c-4de3-9cd8-e2004545f986" />
+
+---
+
 <h3> Davada Zaita, Conhecido como Corporate Major Davis Dick Winters </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7472bf96-bcb2-414c-8672-58fd732ddf37" />
