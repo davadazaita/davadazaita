@@ -8,6 +8,12 @@
 
 ---
 
+<h3> Nas Midias sociaticas gelidas os comes e bebes foi uma fiesta latina</h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/23897319-cd81-4c12-911f-cb3ee747a36b" />
+
+---
+
 <h3> By Gal. Crispin e a heavy das luzes</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/18d75f12-eaa5-449e-ac39-5c1fb702fed6" />
