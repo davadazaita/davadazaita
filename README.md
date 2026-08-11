@@ -6,7 +6,7 @@
 
 <h3> Gen. Crispin, Acabei de chegar na England para o Diabo do Tio Jones </h3>
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/aebdca2f-c24c-4de3-9cd8-e2004545f986" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1e3d4e5d-f2bb-4ec6-9160-513b8b9d9d29" />
 
 ---
 
