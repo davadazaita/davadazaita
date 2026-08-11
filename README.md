@@ -10,6 +10,8 @@
 
 <h3> Nas Midias sociaticas gelidas os comes e bebes foi uma fiesta latina</h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9cc4ce27-d04a-407f-ada3-ae4564fddba1" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f59fd1cd-5be0-4356-8a77-5d36562764aa" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/23897319-cd81-4c12-911f-cb3ee747a36b" />
