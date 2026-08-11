@@ -8,7 +8,7 @@
 
 ---
 
-<h3> Nas Midias sociaticas gelidas os comes e bebes foi uma fiesta latina</h3>
+<h3> Nas Midias sociaticas gelidas os comes e bebes foi uma fiesta lindia</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/84aad2c3-3a2d-4a8f-ba05-4502bfa9f2f2" />
 
