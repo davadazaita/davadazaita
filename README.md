@@ -8,7 +8,7 @@
 
 ---
 
-<h3> Tenente. Barreto corte seu cabelo sanmango ou coma um jumento </h3>
+<h3> Tenente. Barrento corte seu cabelo samango ou coma um jumento </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7227b4d5-cfb7-488b-a891-4bf8c1625937" />
 
