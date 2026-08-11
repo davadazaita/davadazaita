@@ -8,6 +8,12 @@
 
 ---
 
+<h3>Cmt da Guarda é Sgt. Jackson é cabo da Guarda Chupa OVO do Cão..</h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6a2d9142-54bf-43f8-95cb-37ad20cbb0dd" />
+
+---
+
 <h3> Gen. Crispin foi tarinbado duas vezes na ONU...</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c32c8982-5dea-4378-b2f7-583d5bcc191a" />
