@@ -12,6 +12,8 @@
 
 <h3> Os revoltosos sem causa, nunca conseguirão nada, aliados ao Ra-Man, o EL-Diablo, pobres coitados mortalizados, quando morrem se juntam ão Ra-Man capturado para queimar o rabo safado no espirito diabolizado.!!! </h3>
 
+<h3> Aparecemos denovo como foi profetizado no tanach em Hebraico, para acabar de vez com a rebelião dos velhos opositores no velho mundo.!!! </h3>
+
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/39b19067-3f02-41f6-9657-760aafc37add" />
