@@ -8,7 +8,7 @@
 
 ---
 
-<h3> Tava tudo kieto ate Gen Cripin. comecou a baforar</h3>
+<h3> Tava tudo kieto ate Gen Cripin chegar e começou a baforar</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/be36afbb-0bcc-47e5-886c-d49194bc9962" />
 
