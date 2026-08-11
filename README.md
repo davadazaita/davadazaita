@@ -4,7 +4,7 @@
 
 ---
 
-<h3> Sd. Boca junior, Number 24 on Carite </h3>
+<h3> Sd. Boca Junior, Amerikay Number 24 on Carite </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/99096aff-6d17-4dcf-97ef-1521f65a119a" />
 
