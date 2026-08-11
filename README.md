@@ -6,7 +6,7 @@
 
 ## Think It. Dava Force Galaxy  (Comming Soon, on Galaxy Television)
 
-<h3> Continuamo no limiar da fronteira do velho mundo glacial, agindo em favor do nosso povo... </h3>
+<h3> We remain on the threshold of the glacial old world, acting in favor of our beloved people of Adonai Tzevaot... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/39b19067-3f02-41f6-9657-760aafc37add" />
 
