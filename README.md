@@ -6,6 +6,10 @@
 
 ## Think It. Dava Force Galaxy  (Comming Soon, on Galaxy Television)
 
+<h3> Divisão Panzer, no limiar da Fronteira com a Russia... </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/68c1acd3-c310-41f9-b942-3fcbf8e76be6" />
+
 <h3> Davada Zaita, no velho mundo é visto como Maverick on Top Gun e em vários outro filmes contraditórios... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/07b29036-5b81-40c2-84f0-e6cefa6ccb73" />
