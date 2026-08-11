@@ -4,6 +4,12 @@
 
 ---
 
+<h3> General Crispin, da Negritude Junior </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6d1995cc-c8db-4f8c-a98e-13fd9ddfd46b" />
+
+---
+
 <h3> Um, dois, tres, quatro, farinha no prato, quatro tres dois um ela da pra qualquer um </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0ab76b48-7ba1-44e3-8a82-859c1285925f" />
