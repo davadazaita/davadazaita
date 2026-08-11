@@ -10,6 +10,8 @@
 
 <h3> Agindo Adonai Tzevaot, quem poderá o empedir de realizar o seu proposito.!!! </h3>
 
+<h3> Os revoltadas sem causa, nunca conseguirão nada, aliados ao Ra-Man, o EL-Diablo.!!! </h3>
+
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/39b19067-3f02-41f6-9657-760aafc37add" />
