@@ -16,6 +16,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2c7b9957-fb4e-4d5e-ae3d-59d0ca2e57b7" />
 
+<h3>Convoy United Nations Border Patrol APC </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/96b1b30c-d697-4645-81b6-596c3c7d978f" />
+
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
