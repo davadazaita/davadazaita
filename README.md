@@ -6,6 +6,10 @@
 
 ## Think It. Dava Force Galaxy  (Comming Soon, on Galaxy Television)
 
+<h3> Divisão EURAZIA, no limiar da Fronteira com a EUROPE... </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fe621625-879b-4a46-9360-7995a6fea379" />
+
 <h3> Divisão Panzer, no limiar da Fronteira com a EUA and ENGLAND... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0c90268c-a6c5-43ab-89cd-f99c27f2be46" />
