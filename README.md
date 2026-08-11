@@ -8,6 +8,12 @@
 
 ---
 
+<h3> Tenente. Barreto corte seu cabelo sanmango ou coma um jumento </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7227b4d5-cfb7-488b-a891-4bf8c1625937" />
+
+---
+
 <h3> Cap. Militão Zeção da 10 Religiao </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/71a16cd8-aea8-4eab-919b-f62e800fa0e7" />
