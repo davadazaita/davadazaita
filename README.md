@@ -6,6 +6,10 @@
 
 ## Think It. (Comming Soon, on Galaxy Television)
 
+<h3> Good Morning, Velho Mundo... </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0be4571e-9cc8-41cf-ae99-d627aa8dc7f1" />
+
 <h3> Zoia onde tou,  Zoia onde tou,  Zoia onde tou, em Pollaris, no Velho Mundo... </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5fd69de1-bc7c-4fbb-a678-119bb1629584" />
