@@ -4,9 +4,9 @@
 
 ---
 
-<h3> A true leader leads by example. That is why we mold true leaders who lead and manage their teams, remaining faithful to the determination established by Adonai Tzevaot—from the beginning without beginning to the end without end.<h3>
+<h3> That is why we mold true leaders who lead and manage their teams, remaining faithful to the determination established by Adonai Tzevaot—from the beginning without beginning to the end without end. <h3>
 
- <h3> "Davada Beni Zaita". <h3>
+<h3> A true leader leads by example by "Davada Beni Zaita". <h3>
 
 ---
 
