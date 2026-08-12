@@ -4,7 +4,7 @@
 
 ---
 
-<h3>As a forensic expert in the field of technology, I urge judges to be careful and understand the difference between artificial intelligence and animation created by specialized software. </h3>
+<h3>I urge judges to be careful and understand the difference between artificial intelligence and animation created by specialized software. As a forensic expert in the field of technology. </h3>
 
 ---
 
