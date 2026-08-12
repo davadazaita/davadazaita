@@ -12,6 +12,10 @@
 
 ---
 
+<h3>As a forensic expert in the field of technology, I urge judges to be careful and understand the difference between artificial intelligence and animation created by specialized software. </h3>
+
+---
+
 <h3>David Melech—also known in the Old World, where long-standing adversaries circulated distorted accounts favored by Satan Ha-Man—is accused of having ordered the killing of Uriah the Hittite to take his wife. Had this been true, my wife Mariama Zaita and I would have had to testify against myself in favor of Ha-Man, for it would have been a crime of premeditated murder and adultery; I would have met the same fate as Saul Nissim, who was barred from spiritual elevation due to his wickedness, in accordance with the ruling found in the Tanakh—the text recorded by Moses in the distant past. <h3>
 
 <h3> There are books about this type of strategy. In the Old World, this is called character assassination. <h3>
