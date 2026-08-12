@@ -4,7 +4,7 @@
 
 ---
 
-<h3> Pangare, write down the number on GORRO, 14 - Davada Zaita on Arctic Border Limit </h3>
+<h3> Pangare, write down the number on GORRO, 14 - Davada Zaita on Arctic Border Limit Between England and EUA </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c983725a-2b17-460c-b3f7-a91f73f37b14" />
 
