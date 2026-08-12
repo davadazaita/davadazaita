@@ -2,42 +2,6 @@
 
 <h3> Davada Beni Zaita operates at the intersection of advanced technology and strategic operations. Holding a PhD in Artificial Intelligence and a Bachelor's Degree in Computer Systems Engineering, he Specializes in Project Management and Information Security. His solid academic profile is underpinned by extensive practical experience in military command, intelligence, and counter-intelligence, complemented by advanced special forces skills. This synthesis of cutting-edge research and operational field experience defines his unique ability to manage and protect complex, high-risk environments. </h3>
 
----
-
-<h3> Pangare, write down the number on GORRO, 14 - Davada Zaita on Arctic Border Limit Between England and EUA </h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c983725a-2b17-460c-b3f7-a91f73f37b14" />
-
-<h3> The map of the Old World's axes is coming to capture me—for it has already been pinned to the reality of your question, you big loudmouth. </h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7597e005-3bc5-4a32-a5b6-50bca88b4590" />
-
----
-
-## Think It. Dr. Davada Beni Zaita 
-
-<h3> As a forensic expert in the field of advanced technology </h3>
-
-<h3>I urge judges to be careful and understand the difference between artificial intelligence and animation created by specialized software. </h3>
-
-<h3>Now let's see if "Number 14" rapes girls??? Whether that's true or a lie, you moron...  </h3>
-
-<h3> In the Old World, this is called character assassination. There are books about this type of strategy. <h3>
-
-<h3> A true leader leads by example by "Davada Beni Zaita". <h3>
-	
----
-
-<h3> May all exalted creation—which refused to be contradicted—remain intact, without veering to the left; composed of men, women, and the rest of creation—all perfect, upright, and honorable—they embraced their GREEN free will to define themselves as YELLOW or BLUE, rejecting the RED choice offered by Satan Ha-Man. <h3>
-
-<h3> That is why we mold true leaders who lead and manage their teams, remaining faithful to the determination established by Adonai Tzevaot—from the beginning without beginning to the end without end. <h3>
-
----
-
-<h3>David Melech—also known in the Old World, where long-standing adversaries circulated distorted accounts favored by Satan Ha-Man—is accused of having ordered the killing of Uriah the Hittite to take his wife. Had this been true, my wife Mariama Zaita and I would have had to testify against myself in favor of Ha-Man, for it would have been a crime of premeditated murder and adultery; I would have met the same fate as Saul Nissim, who was barred from spiritual elevation due to his wickedness, in accordance with the ruling found in the Tanakh—the text recorded by Moses in the distant past. <h3>
-
----
-
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,24 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> The Tether mesh communication network detecting a low-signature VANT through Signal Interruption Tomography.<h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/05cc4cac-3aa9-4454-a566-c5094063bc55" />
-
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea34ed15-0c6c-4112-96dc-82a2ffabfcd9" />
-
----
-
-<h3> The floating space structures stretching the fiber-optic cable across the global frozen Arctic.<h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea57fd38-6004-4e9f-a89d-c371df6b4758" />
-
----
-
-<h3>Now that you know how to program in C Linear for REAL AI On Low-Level using **VECTORS**, you can develop your modern machine evolution. <h3>
-
+<h3> Campana Military Spacial para Capturar o Jegue Naldo</h3>
+	
 ---
 
 **OBS0: BLACK CODE SAUSAGE**
