@@ -12,6 +12,8 @@
 
 <h3> DELICIA, DELICIA, DELICIA, ASSIM VOCE ME MATA, AI SE EU TE PEGO, UFA... </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6be308dd-6c0c-4979-95f8-48541d98624d" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e87c3715-8fdd-4154-a352-bbfd24a0b881" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9f9b15bd-ac8b-4c8a-9d65-d847e3263cd3" />
