@@ -6,6 +6,8 @@
 
 ## Think It. Dr. Davada Beni Zaita As a forensic expert in the field of technology
 
+<h3>Now let's see if "Number 14" rapes girls??? Whether that's true or a lie, you moron...  </h3>
+
 <h3>I urge judges to be careful and understand the difference between artificial intelligence and animation created by specialized software. </h3>
 
 <h3> There are books about this type of strategy. In the Old World, this is called character assassination. <h3>
