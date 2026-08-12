@@ -10,6 +10,10 @@
 
 <h3> Nas Midias sociaticas gelidas os comes e bebes foi uma fiesta lindia</h3>
 
+<h3> DELICIA, DELICIA, DECILIA ASSIM VOCE ME MATA, AI SE EU TE PEGO, UFA.../h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e87c3715-8fdd-4154-a352-bbfd24a0b881" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9f9b15bd-ac8b-4c8a-9d65-d847e3263cd3" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/db8b5502-693f-4b59-8ca3-47cf955f5463" />
