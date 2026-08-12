@@ -25,6 +25,12 @@ Here are some ideas to get you started:
 	
 ---
 
+<h3> Tivemos que acionar a ONU </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e7af0ec6-6179-45f5-8222-3de6d68880d5" />
+
+---
+
 **OBS0: BLACK CODE SAUSAGE**
 
 It is very common to make the code sausage, that is, a mixture of GNU GCC ANSI C89/90 within the GNU Assembly
