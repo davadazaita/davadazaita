@@ -4,15 +4,15 @@
 
 ---
 
+<h3>As a forensic expert in the field of technology, I urge judges to be careful and understand the difference between artificial intelligence and animation created by specialized software. </h3>
+
+---
+
 <h3> May all exalted creation—which refused to be contradicted—remain intact, without veering to the left; composed of men, women, and the rest of creation—all perfect, upright, and honorable—they embraced their GREEN free will to define themselves as YELLOW or BLUE, rejecting the RED choice offered by Satan Ha-Man. <h3>
 
 <h3> That is why we mold true leaders who lead and manage their teams, remaining faithful to the determination established by Adonai Tzevaot—from the beginning without beginning to the end without end. <h3>
 
 <h3> A true leader leads by example by "Davada Beni Zaita". <h3>
-
----
-
-<h3>As a forensic expert in the field of technology, I urge judges to be careful and understand the difference between artificial intelligence and animation created by specialized software. </h3>
 
 ---
 
