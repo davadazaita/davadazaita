@@ -4,7 +4,7 @@
 
 ---
 
-<h3> The true leader leads by example. "Davada Beni Zaita".<h3>
+<h3> The true team leader leads by example. "Davada Beni Zaita".<h3>
 
 ---
 
