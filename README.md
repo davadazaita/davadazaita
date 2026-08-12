@@ -4,7 +4,7 @@
 
 ---
 
-## Think It. Dr. Davada Beni Zaita As a forensic expert in the field of technology
+## Think It. Dr. Davada Beni Zaita - As a forensic expert in the field of advanced technology
 
 <h3>I urge judges to be careful and understand the difference between artificial intelligence and animation created by specialized software. </h3>
 
