@@ -12,7 +12,7 @@
 
 <h3>Now let's see if "Number 14" rapes girls??? Whether that's true or a lie, you moron...  </h3>
 
-<h3> There are books about this type of strategy. In the Old World, this is called character assassination. <h3>
+<h3> In the Old World, this is called character assassination. There are books about this type of strategy. <h3>
 
 ---
 
