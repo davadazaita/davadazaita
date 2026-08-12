@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <h3> The Tether mesh communication network detecting a low-signature VANT through Signal Interruption Tomography.<h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/05cc4cac-3aa9-4454-a566-c5094063bc55" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea34ed15-0c6c-4112-96dc-82a2ffabfcd9" />
 
 ---
