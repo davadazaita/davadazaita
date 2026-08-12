@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> Special Military Campaign to Capture the Mobster "The Donkey Nalto"</h3>
+<h3> Special Military Campaign to Capture the Mobster "The Monkey Nalto"</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dd8d5a4c-9677-4c93-b258-993473619ef4" />
 
