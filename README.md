@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <h3> Military Campana Spacial para capturar o Jegue Nalto</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dd8d5a4c-9677-4c93-b258-993473619ef4" />
-	
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ad47ee7c-6674-40df-987c-9ca85d88c4e1" />
+
 ---
 
 <h3> Tivemos que acionar a ONU </h3>
