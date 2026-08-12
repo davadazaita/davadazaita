@@ -8,6 +8,8 @@
 
 <h3> As a forensic expert in the field of advanced technology </h3>
 
+---
+
 <h3>I urge judges to be careful and understand the difference between artificial intelligence and animation created by specialized software. </h3>
 
 <h3>Now let's see if "Number 14" rapes girls??? Whether that's true or a lie, you moron...  </h3>
