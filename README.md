@@ -36,6 +36,10 @@ Here are some ideas to get you started:
 
 ---
 
+<h3>  Reference: Radar-vision multimodal fusion for dynamic target trajectory prediction and threat assessment in power transmission corridors on https://www.nature.com/articles/s41598-026-48978-2  </h3>
+
+---
+
 <h3> The Sun and the Moon trace spiral paths around the Earth, outside the celestial vault, proving that we are inside the dome and that the Earth is rugged by nature. </h3>
 
 <img width="1080" height="608" alt="Image" src="https://github.com/user-attachments/assets/178d0581-7ac3-454d-ab8c-ebecf856f7e7" />
