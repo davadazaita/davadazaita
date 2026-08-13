@@ -37,7 +37,7 @@ These beings are known to attack submarines on the ocean floor, and the images c
 
 ---
 
-<h3>  They interbreed with other natural beings to generate new, defining harmonic forms on Earth. </h3>
+<h3>  They interbreed with other natural beings to generate new, defining Ramonicas forms on Earth. </h3>
 
 ---
 
