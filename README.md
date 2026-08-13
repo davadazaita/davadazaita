@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 <h3> Haunted in the Arctic. </h3>
 
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/36a007a0-a5e0-4d1d-8f83-b9e7afa49fab" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b9c6eee2-4d20-466a-9a7b-0524e0922d00" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fc279134-7716-4e24-a7d2-14b0d0c4d22f" />
