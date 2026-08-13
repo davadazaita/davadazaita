@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> A viúva branca, com seu veu de noiva</h3>
+<h3> The white widow, with her bridal veil </h3>
 
 ---
 
