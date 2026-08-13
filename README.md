@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> The Sun and the Moon trace spiral paths around the Earth, outside the celestial vault, proving that we are inside the dome and that the Earth is rugged by nature. </h3>
+<h3> The Sun and the Moon trace spiral paths around the Earth, outside the celestial vault, proving that we are inside the crystal dome and that the Earth possesses an inherently irregular surface. </h3>
 
 <img width="612" height="459" alt="Image" src="https://github.com/user-attachments/assets/acaa78ee-89b1-42fb-b5da-0aa7e2dde2b0" />
 
