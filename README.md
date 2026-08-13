@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
 <h3> Haunted in the Arctic. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2276ce99-c293-4028-ab02-9c98c6e63e2f" />
