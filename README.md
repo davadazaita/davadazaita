@@ -35,6 +35,12 @@ Here are some ideas to get you started:
 
 ---
 
+Their final form, resulting from the power of Adonai Tzevaot, became known as the Nephilim—the Giants.
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5f756347-27c6-4852-93aa-bb5f910748ca" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5ce780e6-4185-4bb6-8d30-9b3fed1319ce" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8d4f2aa3-4c35-4fdc-beac-d708865ca6ad" />
