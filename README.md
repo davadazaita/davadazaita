@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c52b0b23-8381-48f5-a857-87e5ecaa16d8" />
+
 ---
 
 <h3> Display of the flat azimuth map on the screen. </h3>
