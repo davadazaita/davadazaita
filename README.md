@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <h3> Display of the flat azimuth map on the screen. </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1ecfb0cb-5ac2-43e4-ade7-978c90a22841" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c1d4afe3-1e8c-4712-9b88-440821b161a4" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6d20f312-27a1-4ef3-9b2d-a798cf749703" />
