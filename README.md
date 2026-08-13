@@ -42,12 +42,6 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> Total eclipse seen from the edge of the Arctic, between The England and The USA, on West Direction. </h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6eff2894-f09d-4881-9e44-eed7a71c0af0" />
-
----
-
 <img width="1755" height="2598" alt="Image" src="https://github.com/user-attachments/assets/1082db01-428d-4229-b52c-062388fe4063" />
 
 ---
