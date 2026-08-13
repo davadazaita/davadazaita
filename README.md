@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <h3> Total eclipse seen from the edge of the Arctic, between The England and The USA, on West Direction. </h3>
 
-<h3> The Sun and the Moon trace spiral paths around the Earth, outside the celestial vault, proving that we are inside the dome and that the Earth is rugged by nature. </h3>
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6eff2894-f09d-4881-9e44-eed7a71c0af0" />
 
-<h3> Use the Fresnel zone calculation to prove the absolute truth when taking a dig at BABA ORIXAS. </h3>
+<h3> The Sun and the Moon trace spiral paths around the Earth, outside the celestial vault, proving that we are inside the dome and that the Earth is rugged by nature. </h3>
 
 <img width="1080" height="608" alt="Image" src="https://github.com/user-attachments/assets/178d0581-7ac3-454d-ab8c-ebecf856f7e7" />
+
+<h3> Use the Fresnel zone calculation to prove the absolute truth when taking a dig at BABA ORIXAS. </h3>
 
 ---
 
