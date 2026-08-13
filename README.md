@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6eff2894-f09d-4881-9e44-eed7a71c0af0" />
 
+<h3> Use the Fresnel zone calculation to prove the absolute truth when taking a dig at BABA ORIXAS. </h3>
+
+<img width="1080" height="608" alt="Image" src="https://github.com/user-attachments/assets/178d0581-7ac3-454d-ab8c-ebecf856f7e7" />
+
 ---
 
 <h3> Special Military Campaign to Capture the Mobster "The Monkey Nalto"</h3>
