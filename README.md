@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 <img width="1800" height="1308" alt="Image" src="https://github.com/user-attachments/assets/1e9feca9-51e0-4bda-9621-ad1ccb5501a6" />
 
+---
+
+<img width="1755" height="2598" alt="Image" src="https://github.com/user-attachments/assets/1082db01-428d-4229-b52c-062388fe4063" />
+
+---
+
 <h3> The Sun and the Moon trace spiral paths around the Earth, outside the celestial vault, proving that we are inside the dome and that the Earth is rugged by nature. </h3>
 
 <img width="1080" height="608" alt="Image" src="https://github.com/user-attachments/assets/178d0581-7ac3-454d-ab8c-ebecf856f7e7" />
@@ -43,7 +49,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> Tivemos que acionar a ONU </h3>
+<h3> We had to call in the UN Special. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e7af0ec6-6179-45f5-8222-3de6d68880d5" />
 
