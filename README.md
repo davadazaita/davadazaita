@@ -32,6 +32,8 @@ Adult aliens emerge from the deep glacial sea to bask in the sun’s eclipse upo
 
 <h3> A realistic cinematic ultra-wide shot captured by Dava Robots—autonomous deep-Arctic reconnaissance drones—showing a terrifying scene on the frozen Arctic ice shelf during a total solar eclipse. 
 
+
+
 **Diabolical Aliens Haunting the Arctic**  
 *(Images captured by Dava Robots)*
 
