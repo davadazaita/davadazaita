@@ -45,10 +45,13 @@ These beings are known to attack submarines on the ocean floor, and the images c
 
 ---
 
-
 <h3>  The most primitive metamorphic form of Ra-Man, Ra-ma, and Ra-amon known after the transformation. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b5965fe9-4e4e-4591-8a6b-68879d81cfbf" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1229b6b2-8798-4b5b-8624-f9943fa74013" />
+
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d9490680-c891-4215-aaca-395f27e37984" />
 
