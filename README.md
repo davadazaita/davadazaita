@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> The flat azimuth map visualization on screen. </h3>
+<h3> Display of the flat azimuth map on the screen. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6d20f312-27a1-4ef3-9b2d-a798cf749703" />
 
