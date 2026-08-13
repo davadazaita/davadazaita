@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 ---
 
+<h3> Total eclipse seen from the edge of the Arctic, between The England and The USA, on West Direction. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6eff2894-f09d-4881-9e44-eed7a71c0af0" />
+
+---
+
 <h3> The Sun and the Moon trace spiral paths around the Earth, outside the celestial vault, proving that we are inside the dome and that the Earth is rugged by nature. </h3>
 
 <img width="1200" height="630" alt="Image" src="https://github.com/user-attachments/assets/4f796dfe-4838-4207-b51b-66180bbe3bd1" />
