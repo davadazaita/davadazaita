@@ -27,11 +27,12 @@ Here are some ideas to get you started:
 
 <h3> Use the Fresnel zone calculation to prove the absolute truth when taking a dig at BABA ORIXAS. </h3>
 
-<img width="1800" height="1308" alt="Image" src="https://github.com/user-attachments/assets/1e9feca9-51e0-4bda-9621-ad1ccb5501a6" />
+<img width="1755" height="2598" alt="Image" src="https://github.com/user-attachments/assets/1082db01-428d-4229-b52c-062388fe4063" />
 
 ---
 
-<img width="1755" height="2598" alt="Image" src="https://github.com/user-attachments/assets/1082db01-428d-4229-b52c-062388fe4063" />
+
+<img width="1800" height="1308" alt="Image" src="https://github.com/user-attachments/assets/1e9feca9-51e0-4bda-9621-ad1ccb5501a6" />
 
 ---
 
