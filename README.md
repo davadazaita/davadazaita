@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> A realistic cinematic ultra-wide shot captured by Dava Robots—autonomous deep-Arctic reconnaissance drones—showing a terrifying scene on the frozen Arctic ice shelf during a total solar eclipse. </h3>
-
----
-
 <h3> 
 	
 They are the offspring of Ra-man and Ra-ma (the Girinos). According to the theory of evolution, they begin as tadpole-like creatures in the sea. However, by the sovereign power of Adonai Tzevaot, they were prevented from evolving into a contradictory human form. Instead, they have existed on Earth for billions of years, dwelling from the deepest ocean trenches to the frozen expanse of the Arctic ice.
@@ -35,6 +31,10 @@ These beings are known to attack submarines on the ocean floor, and the images c
 Adult aliens emerge from the deep glacial sea to bask in the sun’s eclipse upon the Arctic ice. Their final form—shaped by the power of Adonai Tzevaot—became known as the Nephilim, the Giants.
 
 </h3>
+
+---
+
+<h3> A realistic cinematic ultra-wide shot captured by Dava Robots—autonomous deep-Arctic reconnaissance drones—showing a terrifying scene on the frozen Arctic ice shelf during a total solar eclipse. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5f756347-27c6-4852-93aa-bb5f910748ca" />
 
