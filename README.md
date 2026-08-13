@@ -23,31 +23,20 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> They are the offspring of Ra-man and Ra-ma (Girinos); this is the theory of evolution—they start out as tadpoles in the sea. </h3>
+<h3> 
+	
+They are the offspring of Ra-man and Ra-ma (the Girinos). According to the theory of evolution, they begin as tadpole-like creatures in the sea. However, by the sovereign power of Adonai Tzevaot, they were prevented from evolving into a contradictory human form. Instead, they have existed on Earth for billions of years, dwelling from the deepest ocean trenches to the frozen expanse of the Arctic ice.
 
----
+These beings are known to attack submarines on the ocean floor, and the images captured of them are often released to the public under the guise of mermaids or giant fish.
 
-<h3> Due to the sovereign power of Adonai Tzevaot, they were prevented from evolving into a contradictory human form, instead living for billions of years on Earth—ranging from the ocean depths to the deep Arctic ice. </h3>
+**Diabolical Aliens Haunting the Arctic**  
+*(Images captured by Dava Robots)*
 
----
+Adult aliens emerge from the deep glacial sea to bask in the sun’s eclipse upon the Arctic ice. Their final form—shaped by the power of Adonai Tzevaot—became known as the Nephilim, the Giants.
 
-<h3>  They usually attack submarines on the ocean floor, and the images are captured and released as if they were mermaids or giant fish. </h3>
-
----
-
-<h3> The Diabolical Aliens Haunting Arctic (Images captured by Dava Robots) </h3>
-
----
-
-<h3> Adult aliens emerging from the deep glacial sea to bask in the sun eclipse on the Arctic ice. </h3>
-
----
-
-<h3> Their final form, resulting from the power of Adonai Tzevaot, became known as the Nephilim—the Giants. </h3>
+</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5f756347-27c6-4852-93aa-bb5f910748ca" />
-
----
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5ce780e6-4185-4bb6-8d30-9b3fed1319ce" />
 
