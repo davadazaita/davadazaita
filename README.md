@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 <img width="1200" height="630" alt="Image" src="https://github.com/user-attachments/assets/4f796dfe-4838-4207-b51b-66180bbe3bd1" />
 
+<img width="1300" height="731" alt="Image" src="https://github.com/user-attachments/assets/d3b8a819-55f3-4e7e-a6e8-f1a07bbe85a8" />
+
 <img width="1080" height="608" alt="Image" src="https://github.com/user-attachments/assets/178d0581-7ac3-454d-ab8c-ebecf856f7e7" />
 
 <img width="612" height="306" alt="Image" src="https://github.com/user-attachments/assets/6c5cb36e-f101-43be-b697-610bbab290a1" />
