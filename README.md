@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ---
 
+<h3> A realistic cinematic ultra-wide shot captured by Dava Robots—autonomous deep-Arctic reconnaissance drones—showing a terrifying scene on the frozen Arctic ice shelf during a total solar eclipse. </h3>
+
+---
+
 <h3> They are the offspring of Ra-man and Ra-ma (Girinos); this is the theory of evolution—they start out as tadpoles in the sea. </h3>
 
 ---
