@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <img width="626" height="417" alt="Image" src="https://github.com/user-attachments/assets/8e67f16d-2d3c-435e-bfc3-881b52882114" />
 
-<h3>References: Images from the Internet</h3>
+<h3>References: Images abouve from the World Wide Web </h3>
 
 ---
 
