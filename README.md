@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3> 
 	
-They are the offspring of Ra-man and Ra-ma (The Girinos). According to the theory of evolution of Satan Ra-Man (Metamorphosis), they begin as tadpole-like creatures in the sea. However, by the sovereign power of Adonai Tzevaot, they were prevented from evolving into a contradictory human form. Instead, they have existed on Earth for billions of years, dwelling from the deepest ocean trenches to the frozen expanse of the Arctic ice.
+They are the offspring of Ra-man and Ra-ma (The Black Girinos). According to the theory of evolution of Satan Ra-Man (Metamorphosis), they begin as tadpole-like creatures in the sea. However, by the sovereign power of Adonai Tzevaot, they were prevented from evolving into a contradictory human form. Instead, they have existed on Earth for billions of years, dwelling from the deepest ocean trenches to the frozen expanse of the Arctic ice.
 
 These beings are known to attack submarines on the ocean floor, and the images captured of them are often released to the public under the guise of mermaids or giant fish.
 Adult aliens emerge from the deep glacial sea to bask in the sun’s eclipse upon the Arctic ice. Their final form—shaped by the power of Adonai Tzevaot—became known as the Nephilim, the Giants.
