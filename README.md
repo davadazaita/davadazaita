@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 
 <h3> The Sun and the Moon trace spiral paths around the Earth, outside the celestial vault, proving that we are inside the dome and that the Earth is rugged by nature. </h3>
 
-<img width="1145" height="1145" alt="Image" src="https://github.com/user-attachments/assets/50f93370-2d7b-43d7-9108-9ddb93726f3f" />
+<img width="1200" height="630" alt="Image" src="https://github.com/user-attachments/assets/4f796dfe-4838-4207-b51b-66180bbe3bd1" />
 
 <img width="1080" height="608" alt="Image" src="https://github.com/user-attachments/assets/178d0581-7ac3-454d-ab8c-ebecf856f7e7" />
+
+References: Images from the Internet
 
 ---
 
