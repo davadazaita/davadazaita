@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> They are the offspring of Ha-man and Ra-ma; this is the theory of evolution—they start out as tadpoles in the sea. </h3>
+<h3> They are the offspring of Ra-man and Ra-ma (Girinos); this is the theory of evolution—they start out as tadpoles in the sea. </h3>
 
 ---
 
