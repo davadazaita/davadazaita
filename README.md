@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> The Arctic Haunted </h3>
+<h3> The Aliens Haunting Arctic </h3>
 
 ---
 
