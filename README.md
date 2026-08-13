@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> The Diabolical Aliens Haunting Arctic (Images captured by Dava Robots) </h3>
+<h3>  They usually attack submarines on the ocean floor, and the images are captured and released as if they were mermaids or giant fish. </h3>
 
 ---
 
-<h3>  They usually attack submarines on the ocean floor, and the images are captured and released as if they were mermaids or giant fish. </h3>
+<h3> The Diabolical Aliens Haunting Arctic (Images captured by Dava Robots) </h3>
 
 ---
 
