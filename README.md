@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ---
 
+<h3>  They interbreed with other natural beings to generate new, defining harmonic forms on Earth. </h3>
+
+---
+
 <h3> 
 	
 They are the offspring of Ra-man and Ra-ma (The Black Girinos). According to the theory of evolution of Satan Ra-Man (Metamorphosis), they begin as tadpole-like creatures in the sea. However, by the sovereign power of Adonai Tzevaot, they were prevented from evolving into a contradictory human form. Instead, they have existed on Earth for billions of years, dwelling from the deepest ocean trenches to the frozen expanse of the Arctic ice.
