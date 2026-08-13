@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> Due to the sovereign power of Adonai Tzevaot, they were prevented from evolving to the point of attaining a contradictory human form. </h3>
+<h3> Due to the sovereign power of Adonai Tzevaot, they were prevented from evolving into a contradictory human form, instead living for billions of years on Earth—ranging from the ocean depths to the deep Arctic ice. </h3>
 
 ---
 
