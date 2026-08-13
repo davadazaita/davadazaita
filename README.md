@@ -43,13 +43,18 @@ These beings are known to attack submarines on the ocean floor, and the images c
 
 <h3>  Deep-sea fishermen who see this form call it an electric fish. </h3>
 
+---
+
+
+<h3>  The most primitive metamorphic form of Ra-Man, Ra-ma, and Ra-amon known after the transformation. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b5965fe9-4e4e-4591-8a6b-68879d81cfbf" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d9490680-c891-4215-aaca-395f27e37984" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/959a9d5b-2e92-4377-b2c3-77234c73ec53" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a23f7cc6-6fcd-4e09-9958-bd7d530ec180" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/109d1650-b907-41e9-8975-59ffd4da41ff" />
 
 ---
 
