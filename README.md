@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <img width="1080" height="608" alt="Image" src="https://github.com/user-attachments/assets/178d0581-7ac3-454d-ab8c-ebecf856f7e7" />
 
-References: Images from the Internet
+<h3>References: Images from the Internet</h3>
 
 ---
 
