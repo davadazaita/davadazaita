@@ -35,7 +35,7 @@ These beings are known to attack submarines on the ocean floor, and the images c
 
 ---
 
-<h3> The Little Mermaid, the Queen of the Sea. </h3>
+<h3> The Little Mermaid, the Queen of the Sea. (IEMANJA) </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/974df4fb-5f74-497f-bb6a-a2d37ff333a5" />
 
