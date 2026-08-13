@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <img width="1080" height="608" alt="Image" src="https://github.com/user-attachments/assets/178d0581-7ac3-454d-ab8c-ebecf856f7e7" />
 
-<h3> OBS: Use the Fresnel zone calculation to prove the absolute truth when taking a dig at BABA ORIXAS. </h3>
+<h3> OBS: Use the Fresnel zone calculation to prove the absolute truth when to take a jab at HA-MAN's crystal ball. </h3>
 
 <img width="626" height="417" alt="Image" src="https://github.com/user-attachments/assets/8e67f16d-2d3c-435e-bfc3-881b52882114" />
 
