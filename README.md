@@ -36,6 +36,8 @@ Adult aliens emerge from the deep glacial sea to bask in the sun’s eclipse upo
 
 <h3> The Black Girinos exposed to red light on the frozen Arctic </h3>
 
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/822dc0bb-bdb8-43d0-95b9-220bd061ba0f" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5f756347-27c6-4852-93aa-bb5f910748ca" />
