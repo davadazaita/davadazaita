@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ---
 
+<h3> They are the offspring of Ha-man and Ra-ma; this is the theory of evolution—they start out as tadpoles in the sea. </h3>
+
+---
+
 <h3> Due to the sovereign power of Adonai Tzevaot, they were prevented from evolving into a contradictory human form, instead living for billions of years on Earth—ranging from the ocean depths to the deep Arctic ice. </h3>
 
 ---
