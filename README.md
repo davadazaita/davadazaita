@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3> OBS: Use the Fresnel zone calculation to prove the absolute truth when to take a jab at HA-MAN's crystal ball. </h3>
+
+<img width="1145" height="1145" alt="Image" src="https://github.com/user-attachments/assets/1134b529-0e8a-4a64-a80b-e573c554a268" />
+
+<img width="626" height="417" alt="Image" src="https://github.com/user-attachments/assets/8e67f16d-2d3c-435e-bfc3-881b52882114" />
+
 ---
 
 <h3> Total eclipse seen from the edge of the Arctic, between The England and The USA, on West Direction. </h3>
@@ -41,10 +47,6 @@ Here are some ideas to get you started:
 <h3> The Sun and the Moon trace spiral paths around the Earth, outside the celestial vault, proving that we are inside the dome and that the Earth is rugged by nature. </h3>
 
 <img width="1080" height="608" alt="Image" src="https://github.com/user-attachments/assets/178d0581-7ac3-454d-ab8c-ebecf856f7e7" />
-
-<h3> OBS: Use the Fresnel zone calculation to prove the absolute truth when to take a jab at HA-MAN's crystal ball. </h3>
-
-<img width="626" height="417" alt="Image" src="https://github.com/user-attachments/assets/8e67f16d-2d3c-435e-bfc3-881b52882114" />
 
 ---
 
