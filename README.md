@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> Adult aliens emerging from the deep glacial sea to bask in the sun on the Arctic ice. </h3>
+<h3> Adult aliens emerging from the deep glacial sea to bask in the sun eclipse on the Arctic ice. </h3>
 
 ---
 
