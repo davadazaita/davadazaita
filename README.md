@@ -19,19 +19,17 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> OBS: Use the Fresnel zone calculation to prove the absolute truth when to take a jab at HA-MAN's crystal ball. </h3>
-
-<img width="1145" height="1145" alt="Image" src="https://github.com/user-attachments/assets/1134b529-0e8a-4a64-a80b-e573c554a268" />
-
-<img width="626" height="417" alt="Image" src="https://github.com/user-attachments/assets/8e67f16d-2d3c-435e-bfc3-881b52882114" />
-
----
-
 <h3> The Sun and the Moon trace spiral paths around the Earth, outside the celestial vault, proving that we are inside the dome and that the Earth is rugged by nature. </h3>
 
 <img width="1200" height="630" alt="Image" src="https://github.com/user-attachments/assets/4f796dfe-4838-4207-b51b-66180bbe3bd1" />
 
 <img width="1080" height="608" alt="Image" src="https://github.com/user-attachments/assets/178d0581-7ac3-454d-ab8c-ebecf856f7e7" />
+
+<h3> OBS: Use the Fresnel zone calculation to prove the absolute truth when to take a jab at HA-MAN's crystal ball. </h3>
+
+<img width="1145" height="1145" alt="Image" src="https://github.com/user-attachments/assets/1134b529-0e8a-4a64-a80b-e573c554a268" />
+
+<img width="626" height="417" alt="Image" src="https://github.com/user-attachments/assets/8e67f16d-2d3c-435e-bfc3-881b52882114" />
 
 <h3>References: Images from the Internet</h3>
 
