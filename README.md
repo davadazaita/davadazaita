@@ -19,11 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> The white widow, with her bridal veil </h3>
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f1f4fa8c-36fe-42aa-a658-19514151a527" />
-
----
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/608fc600-90c9-4942-bacd-914c2c2731af" />
 
