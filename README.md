@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <h3> Due to the sovereign power of Adonai Tzevaot, they were prevented from evolving to the point of attaining a contradictory human form. </h3>
 
+---
+
 <h3>  They usually attack submarines on the ocean floor, and the images are captured and released as if they were mermaids or giant fish. </h3>
 
 ---
