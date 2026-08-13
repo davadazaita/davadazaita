@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 
 ---
 
+<h3>  They usually attack submarines on the ocean floor, and the images are captured and released as if they were mermaids or giant fish. </h3>
+
+---
+
 <h3> Adult aliens emerging from the deep glacial sea to bask in the sun eclipse on the Arctic ice. </h3>
 
 ---
