@@ -35,6 +35,8 @@ These beings are known to attack submarines on the ocean floor, and the images c
 
 <h3> The metamorphosis is entirely contradictory outside of a logical sequence; each element follows its own formative trajectory toward its final shape. </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/959a9d5b-2e92-4377-b2c3-77234c73ec53" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a23f7cc6-6fcd-4e09-9958-bd7d530ec180" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/109d1650-b907-41e9-8975-59ffd4da41ff" />
