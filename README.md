@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
 <h3> OBS: Use the Fresnel zone calculation to prove the absolute truth when to take a jab at HA-MAN's crystal ball. </h3>
 
 <img width="1145" height="1145" alt="Image" src="https://github.com/user-attachments/assets/1134b529-0e8a-4a64-a80b-e573c554a268" />
