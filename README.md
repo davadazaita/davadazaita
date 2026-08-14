@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <h3> "Spain 2 - 0 Argentina" : "Two Goal: Captain Davada, 28 years old, "Spain - 2026 World Cup Champions On Global Arctic" </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b7632afc-7790-4889-8cc2-a1bf6bb839b5" />
+
 <img width="832" height="414" alt="Image" src="https://github.com/user-attachments/assets/2a6f6e23-e966-423a-bb02-37ce59344618" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7a85b9c4-56b8-4192-aeeb-1f63b30c2010" />
