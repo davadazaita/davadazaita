@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/845f562a-fb7f-472d-9ad8-52b9e5bc1a68" />
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1e74a80e-73b4-4b35-be41-c4594390e95e" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c8b73831-a212-4def-a5be-78f17382ce0d" />
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8bebe345-c593-45b4-a41c-119b9c5855f7" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b2ff77d0-40de-4ceb-9f8f-fcadf16282c2" />
