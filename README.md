@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1887ef98-2e09-447c-aaba-535316ceb500" />
 
-<h3> Bodão On Radical Snow Surf Board Competition </h3>
+<h3> Brodão On Radical Snow Surf Board Competition </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c959e60a-af1f-4e34-9516-8bf82c0b2087" />
 
