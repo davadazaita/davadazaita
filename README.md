@@ -29,7 +29,15 @@ Here are some ideas to get you started:
 
 ## Anti-ice system in operation for deep Arctic ice conditions
 
+---
+
+## Global Mesh Networks Biggest Datacenters - Dava Forces Special
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d2aaf0b5-a55c-4ba0-a9c2-b183e55f9de5" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/32d24045-d27f-46e9-8f88-ab95cd3b415d" />
+
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ec4d163a-c80c-4f1c-85ba-358609858adc" />
 
