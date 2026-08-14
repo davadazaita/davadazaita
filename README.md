@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Ultra High Tech Anti-Ice for multi-axle transport truck within road deep cleaner for deep glacial Arctic 
+## The planetary government used infinite energy solely for its military vehicles. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bf0f929b-1222-4b9d-b90f-ce28a4df0fd7" />
 
