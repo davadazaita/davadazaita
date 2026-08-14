@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 
 ---
 
+<h3> News about the real world and the old world of fractal illusion. </h3>
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0941d1d4-212b-4bb1-99d8-1654c9599f48" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/12ca3ead-2598-4999-876b-83721084943f" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a3cfa766-e60d-4838-a44a-1e782d808525" />
