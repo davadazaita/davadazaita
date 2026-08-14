@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 ## The Dava planetary government used infinite energy solely for its military vehicles. 
 
+---
+
+## The Dava planetary government licenses civilian vehicles to use renewable energy.
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bf0f929b-1222-4b9d-b90f-ce28a4df0fd7" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e1128e4-21a5-4e57-8718-5ead0d9c27a7" />
