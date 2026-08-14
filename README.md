@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 ---
 
+<h3> Galaxy Television News broadcast control room. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d0ce5215-e6d1-4fcc-b6c4-2a6e413a3016" />
+
+---
+
 <h3> A single studio, multiple automated customs operations. </h3>
 
 ---
