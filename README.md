@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ## Anti-ice system in operation for deep Arctic ice conditions
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/65066d09-bac3-4aa9-8da8-54e5b9a76b32" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c9443e0f-b826-45ed-bfe8-64c4deec3b0a" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e8a90dac-cb9f-4d83-8203-7d2144dd0ec6" />
