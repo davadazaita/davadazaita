@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
 ## The Federal Police Agents - "Vital-Cops". 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/07844ec3-7490-450c-b398-d19f4afb5247" />
