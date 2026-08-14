@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/11f1127d-3c5e-465d-9d40-ca58ca8be38b" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d80efa9b-a8f6-4803-bc04-c2308c900da3" />
+
 ---
 
 **OBS0: BLACK CODE SAUSAGE**
