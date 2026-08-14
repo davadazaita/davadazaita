@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2dbb9d4c-7283-4d4a-b84e-5c72425a00e8" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/735d6de8-2376-4122-b50a-35fd47e7dc33" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dee9bd6a-3c8f-435c-9624-0ce1a4094a6c" />
