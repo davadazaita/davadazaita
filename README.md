@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> To build your real pod racer in the Old World, speak to Uncle XinXin. </h3>
+<h3> To build your real pod racer orbital in the Old World, speak to Uncle XinXin. </h3>
 
 ---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/735d6de8-2376-4122-b50a-35fd47e7dc33" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dee9bd6a-3c8f-435c-9624-0ce1a4094a6c" />
 
