@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> POD RACE ICE on DEEP ARCTIC </h3>
+<h3> POD RACE ICE on DEEP ARCTIC Around-the-Globe Circuit</h3>
 
 ---
 
