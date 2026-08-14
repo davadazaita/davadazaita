@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## The Dava's planetary government used infinite energy exclusively for its military activities.. 
+## The Dava's planetary government used infinite energy exclusively for its military activities. 
 
 ---
 
