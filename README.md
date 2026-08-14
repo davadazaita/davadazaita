@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## multi-axle transport truck within road deep cleaner for deep glacial Arctic 
+## High-tech Anti-ice for multi-axle transport truck within road deep cleaner for deep glacial Arctic 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bf0f929b-1222-4b9d-b90f-ce28a4df0fd7" />
 
