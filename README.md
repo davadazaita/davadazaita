@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <h3> Galaxy Television News - Broadcast operation control room. </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/75867f43-96a1-466e-8577-cb81c5c6c03b" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d0ce5215-e6d1-4fcc-b6c4-2a6e413a3016" />
 
 ---
