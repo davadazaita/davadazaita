@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 
 ---
 
+<h3> To build your real pod racer in the Old World, speak to Uncle. </h3>
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dee9bd6a-3c8f-435c-9624-0ce1a4094a6c" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/29608511-5944-493b-a3be-37b4d6175dd0" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/43835d18-884b-48c2-aeba-1b0d83bb6f23" />
