@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 ---
 
+## Galaxy Television broadcast studio.
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a3cfa766-e60d-4838-a44a-1e782d808525" />
+
+---
+
 ## The Federal Police Agents - "Vital-Cops". On Alert using Amber Color  
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6ba9c279-c393-4285-89f3-9502b427b486" />
