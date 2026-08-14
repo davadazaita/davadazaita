@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> To build your real pod racer in the Old World, speak to Uncle. </h3>
+<h3> To build your real pod racer in the Old World, speak to Uncle XinXin. </h3>
 
 ---
 
