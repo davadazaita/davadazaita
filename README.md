@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 ## Galaxy Television broadcast studio for Global Arctic Border Control.
 
+---
+
 <h3> A single studio, multiple automated customs operations. </h3>
+
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/12ca3ead-2598-4999-876b-83721084943f" />
 
