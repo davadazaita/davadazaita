@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## The Federal Police Agents - "Vital-Cops". Alert using Amber Color  
+## The Federal Police Agents - "Vital-Cops". On Alert using Amber Color  
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/07844ec3-7490-450c-b398-d19f4afb5247" />
 
