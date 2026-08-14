@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> OBS: All supplies are provided by Holy Land Extension Earth Planet once past the border crossing.  </h3>
-
----
-
 <h3> Ice Pod Racing in the Deep Arctic Circle: Around the World </h3>
 
 ---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/74f48ff4-bee0-493e-a5c4-66e331aa36ae" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/341aaee1-e315-4c51-9027-d658dc14c9d4" />
 
@@ -38,6 +36,10 @@ Here are some ideas to get you started:
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/36991e77-d312-4a52-a039-db4fd165397f" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1ed57d09-bfb4-456f-b1b8-9edad5b5a3ec" />
+
+---
+
+<h3> OBS: All supplies are provided by Holy Land Extension Earth Planet once past the border crossing.  </h3>
 
 ---
 
