@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Galaxy Television broadcast studio for Global Arctic Border Control.
 
-<h3> Galaxy Sports News - 2026 World Cup Final </h3>
+<h3> Galaxy Sports News - FIFA World Cup - Final 2026  </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/86bed1b9-aa7c-447e-9748-ea1c245e3ae5" />
 
