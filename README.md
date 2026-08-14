@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <h3> "Galaxy Sports News" </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b2ff77d0-40de-4ceb-9f8f-fcadf16282c2" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9cd7c7db-1c4e-47c4-abbf-6689ced092c8" />
 
 ---
