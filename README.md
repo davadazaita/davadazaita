@@ -22,13 +22,17 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> Davada On Radical Snow Surf Board Competition </h3>
+<h3> Radical Snow Surf Board - Davada On Competition </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1887ef98-2e09-447c-aaba-535316ceb500" />
 
-<h3> Brodão On Radical Snow Surf Board Competition </h3>
+<h3> Radical Snow Surf Board - Brodão Competition </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c959e60a-af1f-4e34-9516-8bf82c0b2087" />
+
+<h3> Radical Snow Surf Board - Others Competitions </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cedc397d-9d84-4796-bf23-697182382b5d" />
 
 ---
 
