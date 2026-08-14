@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Awards for best driver and best machine
+## Awards for Best Driver and Best Machine
 
 ---
 
