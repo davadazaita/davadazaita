@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> Davada On Radical Surf Snow Board </h3>
+<h3> Davada On Radical Snow Surf Board Competition </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1887ef98-2e09-447c-aaba-535316ceb500" />
 
