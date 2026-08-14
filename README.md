@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Galaxy Television broadcast studio.
+## Galaxy Television broadcast studio for Global Arctic Border Control.
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a3cfa766-e60d-4838-a44a-1e782d808525" />
 
