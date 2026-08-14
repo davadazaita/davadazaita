@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <h3> Galaxy Sports News - FIFA World Cup - Final 2026  </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cdf99682-bf0c-492d-817a-947d8f010628" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/86bed1b9-aa7c-447e-9748-ea1c245e3ae5" />
 
 ---
