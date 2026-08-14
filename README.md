@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-## The Dava planetary government used renewable energy exclusively for its civilian activities.
+## The Dava's planetary government used renewable energy exclusively for its civilian activities.
 
 ---
 
