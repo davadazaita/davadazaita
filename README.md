@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/36991e77-d312-4a52-a039-db4fd165397f" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1ed57d09-bfb4-456f-b1b8-9edad5b5a3ec" />
+
 ---
 
 **OBS0: BLACK CODE SAUSAGE**
