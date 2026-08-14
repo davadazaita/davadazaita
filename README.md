@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ---
 
-## Road deep cleaner
+## multi-axle transport truck within road deep cleaner
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8e1128e4-21a5-4e57-8718-5ead0d9c27a7" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0a9d46e7-420b-4642-ae43-fd15bf4dc26e" />
 
