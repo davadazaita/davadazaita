@@ -31,9 +31,13 @@ Here are some ideas to get you started:
 
 ---
 
+## Dava Forces Special: The Arctic's Largest Global Mesh Network Data Centers
+
+---
+
 <h3> As the saying goes: Adonai Tzevaot’s Little Green Doggies vs. The Little Red Monkey Turds. </h3>
 
-## Dava Forces Special: The Arctic's Largest Global Mesh Network Data Centers
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/843ac6fe-18e3-41ee-b58f-c8eb55bfba8e" />
 
