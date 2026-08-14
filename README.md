@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3> Galaxy Sports News - FIFA World Cup - Final 2026 </h3>
 
-<h3> "Spain 2 - 0 Argentina" glowing in cyan and amber. Below the score, the text "Two Goal: Captain Davada, 28 years old, "Spain - 2026 World Cup Champions On Global Artic" </h3>
+<h3> "Spain 2 - 0 Argentina" : "Two Goal: Captain Davada, 28 years old, "Spain - 2026 World Cup Champions On Global Arctic" </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cdf99682-bf0c-492d-817a-947d8f010628" />
 
