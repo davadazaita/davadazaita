@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ## Dava Forces Special: The Arctic's Largest Global Mesh Network Data Centers
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3ec0a15d-8947-4013-ae0d-8618b1374e11" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d2aaf0b5-a55c-4ba0-a9c2-b183e55f9de5" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/32d24045-d27f-46e9-8f88-ab95cd3b415d" />
