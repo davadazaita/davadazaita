@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 ---
 
+## Road deep cleaner
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0a9d46e7-420b-4642-ae43-fd15bf4dc26e" />
+
+---
+
 ## Awards for Best Driver and Best Machine
 
 ---
