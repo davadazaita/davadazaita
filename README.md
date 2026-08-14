@@ -17,9 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
 
 <h3> OBS: All supplies are provided by Holy Land Extension Earth Planet once past the border crossing.  </h3>
+
+---
+
+<h3> Davada On Radical Surf Snow Board </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1887ef98-2e09-447c-aaba-535316ceb500" />
 
 ---
 
