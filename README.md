@@ -24,13 +24,15 @@ Here are some ideas to get you started:
 
 ## Radical Snow Jet Board - Playground.
 
+<h3> My personal Jet Board - Davada Zaita - Bati-Man  </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/75d9eea6-76d4-4905-bc18-194ac356b519" />
+
+---
+
 <h3> My personal Jet Board - Mariama Zaita - Bate Girl (Bate Seba) </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/98c81c1e-7394-48e3-b7fe-cccf213b6032" />
-
-<h3> My personal Jet Board - Davada Zaita </h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/75d9eea6-76d4-4905-bc18-194ac356b519" />
 
 ---
 
