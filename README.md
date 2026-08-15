@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ## One Davada Zaita vs Two Danas Zaita
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/aa4745f2-84b7-42e2-9c8e-15fb02f113c0" />
+
 <h3> Elevations super powers </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/290b81ba-cc1a-4166-8ec7-8203564982a8" />
