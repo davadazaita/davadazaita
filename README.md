@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ---
 
+## Radical Snow Jet Board - Playground.
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f6ceca80-4328-435b-8989-47e5835eed6f" />
+
+---
+
 ## Many surfers fell in the first round.
 
 ---
