@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <h3> OBS: All supplies are provided by Holy Land Extension Earth Planet once past the border crossing.  </h3>
 
+---
+
 ## BatMan (Davada Zaita) vs BatGirl (Mariama Zaita) - The Begin 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e326d11a-ca0b-417a-940f-ecd57bb34ee4" />
