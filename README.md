@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 
 <h3> OBS: All supplies are provided by Holy Land Extension Earth Planet once past the border crossing.  </h3>
 
