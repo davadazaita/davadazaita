@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 
 ---
 
-## Davada Zaita vs Mariama Zaita - Elevations super powers
+## Davada Zaita vs Mariama Zaita - Eternal immortality  - Elevations super powers
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0741b87a-49f8-4c10-9f63-c1d70f1100cb" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6cbbfcd7-5af5-411f-bc6c-24d4d3887c3e" />
 
