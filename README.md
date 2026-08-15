@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 ---
 
+## Davada Zaita on police motorcycle officer uniform. 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/913eaaed-e4e3-48a4-aafa-31ef13b1ba16" />
+
+---
+
 **OBS0: BLACK CODE SAUSAGE**
 
 It is very common to make the code sausage, that is, a mixture of GNU GCC ANSI C89/90 within the GNU Assembly
