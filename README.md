@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ## Radical Snow Jet Board - Playground.
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a3faa0c2-8271-4226-b2c0-def8cd3a9bd9" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2ce2e1e7-cadc-4d62-a8d5-b816baf4945f" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f6ceca80-4328-435b-8989-47e5835eed6f" />
