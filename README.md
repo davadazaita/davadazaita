@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Davada Zaita vs Danas Zaita
+## One Davada Zaita vs Two Danas Zaita
 
 <h3> Elevations super powers </h3>
 
