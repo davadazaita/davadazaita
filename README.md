@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Evox on Russian Company. 
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bceb27a8-5515-4bc3-b158-18df67a8132f" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d6c3ac03-827f-4924-89e4-8d44382a9bc9" />
 
 ---
 
