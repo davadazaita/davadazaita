@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Davada Zaita, 21 years on Pilot Officer Uniform in Europe for Your Pilot Flight Jet Fox. 
+## Davada Zaita: 21 years wearing a pilot's uniform in Europe to fly her private jet. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/da9db9f1-96d8-4f71-8b35-0ec92834a5b5" />
 
