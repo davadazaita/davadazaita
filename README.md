@@ -23,12 +23,6 @@ Here are some ideas to get you started:
 
 ---
 
-## Davada Zaita: 21 years on Russian Army Officer. 
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3052804a-c3f0-4c38-bf08-e15e4e544b54" />
-
----
-
 ## Davada Zaita: 28 years on police motorcycle officer uniform in Europe. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/913eaaed-e4e3-48a4-aafa-31ef13b1ba16" />
@@ -41,25 +35,19 @@ Here are some ideas to get you started:
 
 ---
 
-## Davada Zaita: 24 years in her mansion in Russia. 
+## Davada Zaita: On Russian Army Officer. 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/227c2bba-ec58-4f84-8ee6-a3f6efe6b8d0" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3052804a-c3f0-4c38-bf08-e15e4e544b54" />
+
+## Davada Zaita: Her mansion in Russia. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/39927533-96aa-424d-9e6c-13ea37ef09ca" />
 
----
-
-## Davada Zaita: 22 years in her mansion in Russia. 
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/63a864e8-b000-436b-9f57-fdb283f736e1" />
 
----
-
-## Davada Zaita: 21 years in her mansion in Russia. 
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/241c4d86-826f-4a25-9b42-8fcd39bcbc55" />
-
----
-
-## Davada Zaita: 18 years in her mansion in Russia. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c29ddee6-aad7-4de2-b26c-1f3b26878632" />
 
