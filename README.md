@@ -23,6 +23,18 @@ Here are some ideas to get you started:
 
 ---
 
+## Davada Zaita: 28 years on police motorcycle officer uniform in Europe. 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/913eaaed-e4e3-48a4-aafa-31ef13b1ba16" />
+
+---
+
+## Davada Zaita: 26 years on pilot uniform in Europe. 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/da9db9f1-96d8-4f71-8b35-0ec92834a5b5" />
+
+---
+
 ## Davada Zaita: 24 years in her mansion in Russia. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/39927533-96aa-424d-9e6c-13ea37ef09ca" />
@@ -44,16 +56,6 @@ Here are some ideas to get you started:
 ## Davada Zaita: 18 years in her mansion in Russia. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c29ddee6-aad7-4de2-b26c-1f3b26878632" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/da9db9f1-96d8-4f71-8b35-0ec92834a5b5" />
-
----
-
-## Davada Zaita on police motorcycle officer uniform in Europe. 
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/913eaaed-e4e3-48a4-aafa-31ef13b1ba16" />
 
 ---
 
