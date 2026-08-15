@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <h3> OBS: All supplies are provided by Holy Land Extension Earth Planet once past the border crossing.  </h3>
 
+---
+
 ## Davada Zaita: 21 years on Russian Army Officer. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3052804a-c3f0-4c38-bf08-e15e4e544b54" />
