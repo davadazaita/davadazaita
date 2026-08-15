@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 ---
 
+## Davada Zaita: 24 years in her mansion in Russia. 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/39927533-96aa-424d-9e6c-13ea37ef09ca" />
+
+---
+
 ## Davada Zaita: 22 years in her mansion in Russia. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/63a864e8-b000-436b-9f57-fdb283f736e1" />
