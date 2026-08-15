@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 ---
 
+## Davada Zaita, 21 years on Pilot Officer Uniform in Europe for Your Pilot Flight Jet Fox. 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/da9db9f1-96d8-4f71-8b35-0ec92834a5b5" />
+
+---
+
 ## Davada Zaita on police motorcycle officer uniform in Europe. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/913eaaed-e4e3-48a4-aafa-31ef13b1ba16" />
