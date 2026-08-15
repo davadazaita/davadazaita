@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ## BatMan (Davada Zaita) vs BatGirl (Mariama Zaita) - The Begin 
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7da03335-73dc-457c-b5b4-ea529eb588ac" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e326d11a-ca0b-417a-940f-ecd57bb34ee4" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/20b12ec2-962f-48e2-8257-bbec49f2cc61" />
