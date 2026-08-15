@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 <h3> Elevations super powers </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/290b81ba-cc1a-4166-8ec7-8203564982a8" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b08263f-57f4-4b7a-8c96-684f8c6f64bc" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f02fbf93-d06e-4730-b591-5621ea8c1863" />
