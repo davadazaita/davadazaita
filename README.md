@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Davada Zaita on police motorcycle officer uniform. 
+## Davada Zaita on police motorcycle officer uniform in Europe. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/913eaaed-e4e3-48a4-aafa-31ef13b1ba16" />
 
