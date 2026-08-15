@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 
 ## Radical Snow Jet Board - Playground.
 
+<h3> My personal Jet Board - Mariama Zaita </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a562617a-8427-4d95-a7cc-977d19bfea66" />
+
 <h3> My personal Jet Board - Davada Zaita </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/75d9eea6-76d4-4905-bc18-194ac356b519" />
