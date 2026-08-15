@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Evox on Russian. 
+## Evox on Russian Company. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bceb27a8-5515-4bc3-b158-18df67a8132f" />
 
