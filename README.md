@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 ---
 
+## Evox on Russian. 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bceb27a8-5515-4bc3-b158-18df67a8132f" />
+
+---
+
 ## Davada Zaita: 28 years on police motorcycle officer uniform in Europe. 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/913eaaed-e4e3-48a4-aafa-31ef13b1ba16" />
