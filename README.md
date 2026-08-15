@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 ## Davada Zaita: On Russian Army Officer. 
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2182f1b2-7d0e-4374-8369-fd0127269161" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e480ef59-d3a4-4e0a-8c10-684c4f144276" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/227c2bba-ec58-4f84-8ee6-a3f6efe6b8d0" />
