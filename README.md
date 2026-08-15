@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ---
 
-## Davada Zaita vs Mariama Zaita using elevations super powers
+## Davada Zaita vs Mariama Zaita - Elevations super powers
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/937f5242-d9b4-43aa-b3b3-b4d7aa8eef2f" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6002987d-c263-456e-acd8-c03900e90253" />
 
 ---
 
