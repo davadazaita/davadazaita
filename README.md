@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Davada Zaita vs Mariama Zaita - Elevations super powers
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6002987d-c263-456e-acd8-c03900e90253" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6cbbfcd7-5af5-411f-bc6c-24d4d3887c3e" />
 
 ---
 
