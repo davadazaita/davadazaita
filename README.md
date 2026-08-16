@@ -18,6 +18,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cf40d534-ef0c-4cbb-9edb-985d0f6439bc" />
 
+## Global Justice Council Meeting House (GJCH)
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ac9f0cc-b475-49ce-a8b1-013f28d4a06a" />
+
 ## Digital Daua Coin (DDC) - Backed by 100% pure gold
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea46602c-cd27-4179-ad3b-af992c82732c" />
