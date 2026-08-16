@@ -16,6 +16,12 @@
 
 ---
 
+## United States Of Arctic (USA) - King Davada Beni Zaita
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4ca266f2-9b71-43ef-9183-40c3392cf5f6" />
+
+---
+
 ## United States Of Arctic (USA) - one troy ounce Personalité 2026 Version
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/64a5c8b3-da9c-4b30-b9e0-af3cfcdf59fa" />
