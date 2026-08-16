@@ -16,6 +16,12 @@
 
 ---
 
+## United States Of Arctic (USA) - one troy ounce
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8403ddda-e6a7-4869-bf68-b5e3ac63ca74" />
+
+---
+
 ## United States Of Arctic (USA) - House Coin
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a25dd9a0-44fe-47e4-8886-9e2e91f69da3" />
