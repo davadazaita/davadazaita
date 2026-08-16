@@ -1,4 +1,4 @@
-## The third temple in the Old World will not be a house of justice.
+## The third temple Ezequiel in the Old World will not be a house of justice.
 
 ---
 
