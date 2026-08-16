@@ -36,6 +36,8 @@
 
 ## Digital Daua Coin (DDC) - GUI Interface
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1d82469c-c2fd-4f68-88db-34b9d6e1d4f8" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b4453698-3830-425f-a4a0-da8c30a94c9e" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4240f987-b5d2-4374-8ef8-6daa9dae56b1" />
