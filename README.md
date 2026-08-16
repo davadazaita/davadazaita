@@ -2,7 +2,7 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9b272912-667e-42dd-854e-fb03dab9aed1" />
 
-## Digital Torah Constitution (DTC) - 100% Original
+## Digital Torah Constitution (DTC) - 100% Original - Adonai Tzavaot
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d1267522-ecb2-4cce-b3e2-567d1cf279a6" />
 
