@@ -16,7 +16,13 @@
 
 ---
 
-## United States Of Arctic (USA) - one troy ounce
+## United States Of Arctic (USA) - one troy ounce 2026 Version
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7042902d-4910-45ba-ba53-ddebeb118f7f" />
+
+---
+
+## United States Of Arctic (USA) - one troy ounce 2017 Version
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8403ddda-e6a7-4869-bf68-b5e3ac63ca74" />
 
