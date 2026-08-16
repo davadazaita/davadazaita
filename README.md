@@ -2,6 +2,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9b272912-667e-42dd-854e-fb03dab9aed1" />
 
+## Digital Torah Constitution (DTC) - 100% Original
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5489cb5c-b287-41ab-984b-4093c2af1611" />
+
 ## Digital Daua Coin (DDC) - Backed by 100% pure gold
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea46602c-cd27-4179-ad3b-af992c82732c" />
