@@ -1,21 +1,5 @@
 ---
 
-## 😄 - Ezekiel's third temple in the Old World is a house of justice. - 😄
-
----
-
-## 😄 - My monetary policy is one of reciprocity. - 😄
-
----
-
-## 😄 - My digital money is backed by pure gold, with no dross. - 😄
-
----
-
-## 😄 - If my money is worth y there, his is worth z here. - 😄
-
----
-
 ## United States Of Arctic (USA) - King Davada Beni Zaita
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4ca266f2-9b71-43ef-9183-40c3392cf5f6" />
