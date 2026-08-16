@@ -1,3 +1,6 @@
+## United States Of Arctic  
+
+
 ## Think It. Dr. Davada Beni Zaita
 
 <h3> Davada Beni Zaita operates at the intersection of advanced technology and strategic operations. Holding a PhD in Artificial Intelligence and a Bachelor's Degree in Computer Systems Engineering, he Specializes in Project Management and Information Security. His solid academic profile is underpinned by extensive practical experience in military command, intelligence, and counter-intelligence, complemented by advanced special forces skills. This synthesis of cutting-edge research and operational field experience defines his unique ability to manage and protect complex, high-risk environments. </h3>
@@ -20,48 +23,6 @@ Here are some ideas to get you started:
 ---
 
 <h3> OBS: All supplies are provided by Holy Land Extension Earth Planet once past the border crossing.  </h3>
-
----
-
-## Evox on Russian Company. 
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d6c3ac03-827f-4924-89e4-8d44382a9bc9" />
-
----
-
-## Davada Zaita: 28 years on police motorcycle officer uniform in Europe. 
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/913eaaed-e4e3-48a4-aafa-31ef13b1ba16" />
-
----
-
-## Davada Zaita: 26 years on pilot uniform in Europe. 
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/da9db9f1-96d8-4f71-8b35-0ec92834a5b5" />
-
----
-
-## Davada Zaita: On Russian Army Officer. 
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3e70200a-a2de-4c8a-b738-a6e3f64d4403" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e480ef59-d3a4-4e0a-8c10-684c4f144276" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/227c2bba-ec58-4f84-8ee6-a3f6efe6b8d0" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3052804a-c3f0-4c38-bf08-e15e4e544b54" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2182f1b2-7d0e-4374-8369-fd0127269161" />
-
-## Davada Zaita: Her mansion in Russia. 
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/39927533-96aa-424d-9e6c-13ea37ef09ca" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/63a864e8-b000-436b-9f57-fdb283f736e1" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/241c4d86-826f-4a25-9b42-8fcd39bcbc55" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c29ddee6-aad7-4de2-b26c-1f3b26878632" />
 
 ---
 
