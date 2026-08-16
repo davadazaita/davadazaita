@@ -14,6 +14,8 @@
 
 ## 😄 - If my money is worth y there, his is worth z here. - 😄
 
+---
+
 ## United States Of Arctic (USA) - Gold refining
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e65969ed-55d1-4092-8fad-377998a26b83" />
