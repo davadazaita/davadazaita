@@ -6,6 +6,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d1267522-ecb2-4cce-b3e2-567d1cf279a6" />
 
+## Global Court of Justice Of Arctic (GCJA)
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cf40d534-ef0c-4cbb-9edb-985d0f6439bc" />
+
 ## Digital Daua Coin (DDC) - Backed by 100% pure gold
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea46602c-cd27-4179-ad3b-af992c82732c" />
