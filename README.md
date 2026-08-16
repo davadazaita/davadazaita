@@ -28,13 +28,15 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ac9f0cc-b475-49ce-a8b1-013f28d4a06a" />
 
-## Digital Daua Coin (DDC) - Backed by 100% pure gold
+## Digital Daua Coin (DDC) - Backed by 100% pure gold (Refined gold, free of impurities)
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea46602c-cd27-4179-ad3b-af992c82732c" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/323ea4c7-2bad-477f-a3f0-88b63c6ec56c" />
 
 ## Digital Daua Coin (DDC) - GUI Interface
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4240f987-b5d2-4374-8ef8-6daa9dae56b1" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/00bf1d76-984b-4f1c-85e8-d63c210477f6" />
 
