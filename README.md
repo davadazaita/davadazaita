@@ -4,9 +4,9 @@
 
 ## Digital Daua Coin (DDC) - Backed by 100% pure gold
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/323ea4c7-2bad-477f-a3f0-88b63c6ec56c" />
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea46602c-cd27-4179-ad3b-af992c82732c" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/323ea4c7-2bad-477f-a3f0-88b63c6ec56c" />
 
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
