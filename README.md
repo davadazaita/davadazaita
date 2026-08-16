@@ -18,6 +18,8 @@
 
 ## United States Of Arctic (USA) - one troy ounce Personalité 2026 Version
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/64a5c8b3-da9c-4b30-b9e0-af3cfcdf59fa" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/85f36798-69f8-45c4-8368-c336b35d82c0" />
 
 ---
