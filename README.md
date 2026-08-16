@@ -1,6 +1,6 @@
 ---
 
-## 😄 - Ezekiel's third temple in the Old World is a house of justice - 😄
+## 😄 - Ezekiel's third temple in the Old World is a house of justice. - 😄
 
 ---
 
