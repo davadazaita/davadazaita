@@ -34,6 +34,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/323ea4c7-2bad-477f-a3f0-88b63c6ec56c" />
 
+## Digital Daua Coin (DDC) - GUI Interface
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/00bf1d76-984b-4f1c-85e8-d63c210477f6" />
+
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
