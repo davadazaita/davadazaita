@@ -1,6 +1,10 @@
-## United States Of Arctic  (USA)
+## United States Of Arctic (USA)
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9b272912-667e-42dd-854e-fb03dab9aed1" />
+
+## Digital Daua Coin (DDC)
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea46602c-cd27-4179-ad3b-af992c82732c" />
 
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
