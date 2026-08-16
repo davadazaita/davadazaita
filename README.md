@@ -1,9 +1,6 @@
 ## United States Of Arctic  (USA)
 
-
-## Think It. Dr. Davada Beni Zaita
-
-<h3> Davada Beni Zaita operates at the intersection of advanced technology and strategic operations. Holding a PhD in Artificial Intelligence and a Bachelor's Degree in Computer Systems Engineering, he Specializes in Project Management and Information Security. His solid academic profile is underpinned by extensive practical experience in military command, intelligence, and counter-intelligence, complemented by advanced special forces skills. This synthesis of cutting-edge research and operational field experience defines his unique ability to manage and protect complex, high-risk environments. </h3>
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9b272912-667e-42dd-854e-fb03dab9aed1" />
 
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+## Think It. Dr. Davada Beni Zaita
+
+<h3> Davada Beni Zaita operates at the intersection of advanced technology and strategic operations. Holding a PhD in Artificial Intelligence and a Bachelor's Degree in Computer Systems Engineering, he Specializes in Project Management and Information Security. His solid academic profile is underpinned by extensive practical experience in military command, intelligence, and counter-intelligence, complemented by advanced special forces skills. This synthesis of cutting-edge research and operational field experience defines his unique ability to manage and protect complex, high-risk environments. </h3>
 
 ---
 
