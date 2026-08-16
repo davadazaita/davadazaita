@@ -12,6 +12,10 @@
 
 ## Global Court of Justice in the Arctic (GCJA)
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/74a1aa72-8a1a-42dc-98a1-eb40b36ae0ba" />
+
+## Global Parliament of Justice in the Arctic (GPJA)
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cf40d534-ef0c-4cbb-9edb-985d0f6439bc" />
 
 ## Digital Daua Coin (DDC) - Backed by 100% pure gold
