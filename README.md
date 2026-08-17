@@ -1,3 +1,7 @@
+## United States Of Arctic (USA) - Dadinho Trade 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/36c34719-350a-4387-8a8c-231edb40a2fe" />
+
 ---
 
 ## United States Of Arctic (USA) - King Davada Beni Zaita
