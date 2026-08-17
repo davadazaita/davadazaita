@@ -1,3 +1,48 @@
+## United States Of Arctic (USA)
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9b272912-667e-42dd-854e-fb03dab9aed1" />
+
+## Digital Torah Constitution (DTC) - 100% Original - Adonai Tzavaot
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d1267522-ecb2-4cce-b3e2-567d1cf279a6" />
+
+## Global Supreme Court of Justice in the Arctic (GSCJA) - Davada Zaita
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/47207a7d-c55b-4e39-88c0-7c0091fb8aa9" />
+
+## Global Court of Justice in the Arctic (GCJA) - Alaia Tisaba
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/74a1aa72-8a1a-42dc-98a1-eb40b36ae0ba" />
+
+## Global Parliament of Justice in the Arctic (GPJA) - Adam Risoma
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cf40d534-ef0c-4cbb-9edb-985d0f6439bc" />
+
+## Global Justice Council Meeting House (GJCH)
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ac9f0cc-b475-49ce-a8b1-013f28d4a06a" />
+
+<!--
+**davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+---
+
+## United States Of Arctic (USA) - King Davada Beni Zaita
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4ca266f2-9b71-43ef-9183-40c3392cf5f6" />
+
 ## United States Of Arctic (USA) - Davinho Trading On POD (DDC) 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/95fdebb1-9c77-461c-a73e-03bfc6b8eb99" />
@@ -9,12 +54,6 @@
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c08f044e-9eeb-4b74-95ad-14fb1c9b455c" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/36c34719-350a-4387-8a8c-231edb40a2fe" />
-
----
-
-## United States Of Arctic (USA) - King Davada Beni Zaita
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4ca266f2-9b71-43ef-9183-40c3392cf5f6" />
 
 ---
 
@@ -50,35 +89,13 @@
 
 ---
 
-## United States Of Arctic (USA)
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9b272912-667e-42dd-854e-fb03dab9aed1" />
-
-## Digital Torah Constitution (DTC) - 100% Original - Adonai Tzavaot
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d1267522-ecb2-4cce-b3e2-567d1cf279a6" />
-
-## Global Supreme Court of Justice in the Arctic (GSCJA) - Davada Zaita
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/47207a7d-c55b-4e39-88c0-7c0091fb8aa9" />
-
-## Global Court of Justice in the Arctic (GCJA) - Alaia Tisaba
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/74a1aa72-8a1a-42dc-98a1-eb40b36ae0ba" />
-
-## Global Parliament of Justice in the Arctic (GPJA) - Adam Risoma
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cf40d534-ef0c-4cbb-9edb-985d0f6439bc" />
-
-## Global Justice Council Meeting House (GJCH)
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ac9f0cc-b475-49ce-a8b1-013f28d4a06a" />
-
 ## Digital Daua Coin (DDC) - Backed by 100% pure gold (Refined gold, free of impurities)
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea46602c-cd27-4179-ad3b-af992c82732c" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/323ea4c7-2bad-477f-a3f0-88b63c6ec56c" />
+
+---
 
 ## Digital Daua Coin (DDC) - GUI Interface
 
@@ -89,21 +106,6 @@
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4240f987-b5d2-4374-8ef8-6daa9dae56b1" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/00bf1d76-984b-4f1c-85e8-d63c210477f6" />
-
-<!--
-**davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ---
 
