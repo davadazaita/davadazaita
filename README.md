@@ -1,5 +1,7 @@
 ## United States Of Arctic (USA) - Stock Market Trading Basics (DDC) 
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/95fdebb1-9c77-461c-a73e-03bfc6b8eb99" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/555eecee-1ef3-4f37-b756-233b3917eebc" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c952c56d-33f9-4f53-bf3a-1bf878033e32" />
