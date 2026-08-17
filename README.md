@@ -1,4 +1,4 @@
-## United States Of Arctic (USA) - Stock Market Trading Basics (DDC) 
+## United States Of Arctic (USA) - Davinho Trading On POD (DDC) 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/95fdebb1-9c77-461c-a73e-03bfc6b8eb99" />
 
