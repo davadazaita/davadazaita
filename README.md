@@ -67,6 +67,10 @@ Here are some ideas to get you started:
 
 ---
 
+<h3> OBS: At the appropriate time, I will publish the complete source code for the Evox hyper-dimensional microkernel operating system for AMD Ryzen 02+ using Patent Licence and GNU Licence. </h3>
+
+---
+
 ### A Hyper-Multidimensional AI-Driven Microkernel Operating Systems
 
 ### DAUA Transactions on Computers Science — Submission Ready Manuscript 
