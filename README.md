@@ -87,7 +87,11 @@ Here are some ideas to get you started:
 
 ---
 
-## Global Modern Evox Electric Sedan - GLOBAL PRICE 1:1 ON 98.000,00 MIL
+## Global Modern Evox Electric RS - GLOBAL PRICE 1:1 ON 98.000,00 MIL
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f5777d26-9805-481b-82da-e5ef6c3db2cc" />
 
 ---
 
