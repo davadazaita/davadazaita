@@ -704,9 +704,7 @@ The future of computing lies in multidimensional systems that understand their u
 
 ## Author Biography
 
-**Dr. David Ben Zaita** received the Ph.D. degree in Computer Science from the Royal Federal University of the Daua (RFUD). His research interests include operating system architecture, artificial intelligence, formal verification, and multidimensional computing paradigms. He has published extensively in the fields of microkernel design, expert systems, and cognitive computing architectures.
-
----
+**Dr. Davada Ben Zaita** received the Ph.D. degree in Computer Science from the Royal Federal University of the Daua (RFUD). His research interests include operating system architecture, artificial intelligence, formal verification, and multidimensional computing paradigms. He has published extensively in the fields of microkernel design, expert systems, and cognitive computing architectures.
 
 ---
 
@@ -2060,6 +2058,9 @@ AI‑7ECNF Union:        R_7 = ∪_{d∈{G,X,Y,Z,R}} π_d(R_6) with proofs  ← 
 
 ## References
 
+0. Zaita, Davada *Hyperdimentsional Operating Systems Design and Implementation*, 3rd ed. Daua River, NJ, USA: Daua, 2016.
+
+
 1. AMD. *AMD64 Architecture Programmer's Manual Volume 2: System Programming*. Revision 3.41. 2023. [Phase 1, 3]
 
 2. CODD, E.F. Further Normalization of the Data Base Relational Model. In: *Data Base Systems*. Prentice‑Hall, 1972, pp. 33‑64. [Phase 6, 7]
@@ -2118,7 +2119,7 @@ AI‑7ECNF Union:        R_7 = ∪_{d∈{G,X,Y,Z,R}} π_d(R_6) with proofs  ← 
 
 Author Biography
 
-Dr. David Ben Zaita received the Ph.D. degree in Computer Science from the Royal Federal University of the Daua (RFUD). His research interests include operating system architecture, artificial intelligence, formal verification, and multidimensional computing paradigms. He has published extensively in the fields of microkernel design, expert systems, and cognitive computing architectures.
+Dr. Davada Ben Zaita received the Ph.D. degree in Computer Science from the Royal Federal University of the Daua (RFUD). His research interests include operating system architecture, artificial intelligence, formal verification, and multidimensional computing paradigms. He has published extensively in the fields of microkernel design, expert systems, and cognitive computing architectures.
 
 ---
 
