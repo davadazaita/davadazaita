@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ### DAUA Transactions on Computers Science — Submission Ready Manuscript 
 
-### PHD, Dr. David Ben Zaita – Daua Royal Federal University (DRFU)
+### PHD, Dr. Davada Ben Zaita – Daua Royal Federal University (DRFU)
 
 ---
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 This paper presents **The 5D EVOX Architecture**, a hyper-multidimensional operating system design framework that integrates artificial intelligence, expert systems, and formal verification within a five-dimensional Cartesian Spiral coordinate system. Building upon the foundational principles of monolithic kernel development as exemplified by Unix/Linux, EVOX introduces a formally verified four-stage boot sequence that establishes a self-aware, adaptive microkernel environment from Live CD-ROM media. The architecture implements a Hardware Bridge Layer (HBL) governed by an 847-rule expert system providing deterministic hardware control with bounded latency, while an AI-driven microkernel operates across a spiral trajectory in the Cartesian plane. The five-dimensional coordinate system comprises: origin point (base), length, width, height, and the radial axis of the base of origin. This paper provides theoretical foundations, architectural specifications, implementation details, and formal verification frameworks, incorporating AI paradigms from deterministic algorithms through transfinite meta-identity and absolute fixed points. The EVOX Architecture represents a paradigm shift toward self-transcendent computing systems that continuously evolve toward optimal configurations across multiple dimensions of existence. Experimental results demonstrate 10-20× improvement in hardware access latency, 10-50× improvement in interrupt handling, and 4-10× improvement in system call overhead compared to traditional monolithic kernels.
 
-**Index Terms** — Hyper-Multidimensional Architecture, Cartesian Spiral System, AI-Driven Operating Systems, Expert Systems, Hardware Bridge Layer, Live CD-ROM Boot, Microkernel Architecture, Formal Verification, Cognitive Computing, Transfinite Meta-Identity, Ω-Completion, Absolute Fixed Point
+**Index Terms** — Hyper-Multidimensional Architecture, Cartesian Spiral System, AI-Driven Operating Systems, Expert Systems, Hardware Bridge Layer, Live CD-ROM Bootable, Microkernel Architecture, Formal Verification, Cognitive Computing, Transfinite Meta-Identity, Ω-Completion, Absolute Fixed Point
 
 ---
 
@@ -310,7 +310,7 @@ The EVOX Architecture spans four protection rings with intelligence distributed 
 ```
 +=====================================================================+
 |         RING 3: Cognitive Reasoning Layer                           |
-|    H=5, R=High                                                      |
+|    H=4, R=High                                                      |
 |    - Deep Learning Inference Engine                                 |
 |    - Large Language Model                                           |
 |    - Meta-Cognitive Reflection                                      |
@@ -318,26 +318,26 @@ The EVOX Architecture spans four protection rings with intelligence distributed 
 |    - Self-Transcendence                                             |
 +---------------------------------------------------------------------+
 |         RING 2: Adaptive Intelligence Layer                         |
-|    H=4, R=Medium                                                    |
+|    H=3, R=Medium                                                    |
 |    - Reinforcement Learning Agents                                  |
 |    - Neural Mesh Network                                            |
 |    - Attention Mechanisms                                           |
 |    - Agentic AI Integration                                         |
 +---------------------------------------------------------------------+
 |         RING 1: Reactive Intelligence Layer                         |
-|    H=3, R=Low                                                       |
+|    H=2, R=Low                                                       |
 |    - Finite State Machine Core                                      |
 |    - Real-Time Scheduler with Learning                              |
 |    - Predictive Memory Management                                   |
 +=====================================================================+
 |         RING 0: Hardware Bridge Layer (HBL)                         |
-|    H=2, R=Fixed                                                     |
+|    H=1, R=Fixed                                                     |
 |    - 847-Rule Expert System                                         |
 |    - Capability-Based Security                                      |
 |    - Bounded Deterministic Execution                                |
 +=====================================================================+
 |         Physical Hardware Layer                                     |
-|    H=1, R=N/A                                                       |
+|    H=0, R=N/A                                                       |
 |    - CPU, Memory, Devices, Interrupts, Timers                       |
 +=====================================================================+
 ```
@@ -624,7 +624,7 @@ typedef struct {
 
 ## VIII. Conclusion
 
-The EVOX Architecture represents a paradigm shift in operating system design, demonstrating how a hyper-multidimensional Cartesian Spiral framework can integrate classical deterministic control with advanced AI reasoning to create systems that are simultaneously more secure, more efficient, and more intelligent than traditional approaches.
+The 5D EVOX Architecture represents a paradigm shift in operating system design, demonstrating how a hyper-multidimensional Cartesian Spiral framework can integrate classical deterministic control with advanced AI reasoning to create systems that are simultaneously more secure, more efficient, and more intelligent than traditional approaches.
 
 The Live CD-ROM bootable design showcases the flexibility of the architecture in handling read-only media while providing writable overlays for system operation. The four-stage boot sequence establishes progressively more sophisticated capabilities, culminating in a fully functional intelligent operating system.
 
@@ -635,6 +635,8 @@ The future of computing lies in multidimensional systems that understand their u
 ---
 
 ## References
+
+[0] Zaita, Davada *Hyperdimentsional Operating Systems Design and Implementation*, 3rd ed. Daua River, NJ, USA: Daua, 2016.
 
 [1] A. S. Tanenbaum and A. S. Woodhull, *Operating Systems Design and Implementation*, 3rd ed. Upper Saddle River, NJ, USA: Pearson, 2006.
 
