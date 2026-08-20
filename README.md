@@ -26,6 +26,8 @@
 
 <h3> OBS: All supplies are provided by Holy Land Extension Earth Planet once past the border crossing.  </h3>
 
+---
+
 <!--
 **davadazaita/davadazaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
