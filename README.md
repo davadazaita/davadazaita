@@ -83,7 +83,13 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> OBS: At the appropriate time, I will publish the complete source code for the Evox hyper-dimensional microkernel operating system for AMD Ryzen 02+ using Patent Licence and GNU Licence. </h3>
+<h3> Note: At the appropriate time, I will publish the complete source code for the Evox projects under the Open Source International Patent License and the GNU License. </h3>
+
+---
+
+## Global Modern Electric Sedan 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3173e689-8f39-4766-a50d-ef0dce0a058b" />
 
 ---
 
