@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 
 ---
 
-# Daua Royal Federal University (DRFU) - Qualis AAA
+## Daua Royal Federal University (DRFU) - Qualis AAA
 
-## On the former Planet Earth, at the Arctic Border Control.
+### On the former Planet Earth, at the Arctic Border Control.
 
 ---
 
