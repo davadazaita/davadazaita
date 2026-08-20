@@ -91,6 +91,10 @@ Here are some ideas to get you started:
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/18b95f18-d384-41da-8ce1-2b5c25b9a377" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/26bc18a5-e20f-46b0-806f-40aa6e59a543" />
 
 ---
