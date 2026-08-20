@@ -47,7 +47,11 @@ Here are some ideas to get you started:
 
 ## Daua Royal Federal University (DRFU) - Qualis AAA
 
-### On the former Planet Earth, at the Arctic Border Control.
+### On United States Of Arctic (USA) the former Planet Earth, at the Arctic Border Control.
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f09a25ea-4712-4100-893b-14d4800661de" />
 
 ---
 
