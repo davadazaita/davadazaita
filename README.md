@@ -83,15 +83,13 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> Note: At the appropriate time, I will publish the complete source code for the Evox projects under the Open Source International Patent License and the GNU License. </h3>
+<h3> Note: At the appropriate time: I will publish the complete source code for the Evox projects under the Open Source International Patent License and the GNU License. Assemble it yourself or buy it ready-made. The power outlet is located on the car's logo. All the manuals for assembling your personal projects are here. </h3>
 
 ---
 
 ## Global Modern Evox Electric Sedan - GLOBAL PRICE 1:1 ON 98.000,00 MIL
 
 ---
-
-<h3> Note: Assemble it yourself or buy it ready-made. The electrical outlet is located in the car's logo. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5d3f0730-a905-40b8-8e25-c30f75cbea36" />
 
