@@ -87,7 +87,11 @@ Here are some ideas to get you started:
 
 ---
 
-## Global Modern Evox Electric RS FULL - GLOBAL PRICE 1:1 ON 98.000,00 MIL
+## Evox Electric RS FULL - GLOBAL PRICE 1:1 ON 98.000,00 MIL (Made in Garage)
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/63ea772c-2e41-47d8-8132-230274161b27" />
 
 ---
 
