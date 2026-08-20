@@ -55,6 +55,10 @@ Here are some ideas to get you started:
 
 ---
 
+## Daua Royal Federal University (DRFU), on the former Planet Earth, at the Arctic Border Control.
+
+---
+
 # A Hyper-Multidimensional AI-Driven Microkernel Operating Systems
 
 ## DAUA Transactions on Computers Science — Submission Ready Manuscript - Qualis AAA
