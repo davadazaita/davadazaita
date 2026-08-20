@@ -91,7 +91,9 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> Note: Assemble it yourself or buy it ready-made. </h3>
+<h3> Note: Assemble it yourself or buy it ready-made. The electrical outlet is located in the car's logo. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5d3f0730-a905-40b8-8e25-c30f75cbea36" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3173e689-8f39-4766-a50d-ef0dce0a058b" />
 
