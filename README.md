@@ -2108,6 +2108,12 @@ AI‑7ECNF Union:        R_7 = ∪_{d∈{G,X,Y,Z,R}} π_d(R_6) with proofs  ← 
 
 ---
 
+Author Biography
+
+Dr. David Ben Zaita received the Ph.D. degree in Computer Science from the Royal Federal University of the Daua (RFUD). His research interests include operating system architecture, artificial intelligence, formal verification, and multidimensional computing paradigms. He has published extensively in the fields of microkernel design, expert systems, and cognitive computing architectures.
+
+---
+
 **OBS0: BLACK CODE SAUSAGE**
 
 It is very common to make the code sausage, that is, a mixture of GNU GCC ANSI C89/90 within the GNU Assembly
