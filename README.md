@@ -24,6 +24,28 @@
 
 ---
 
+---
+
+## United States Of Arctic (USA) - House Coin
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a25dd9a0-44fe-47e4-8886-9e2e91f69da3" />
+
+---
+
+## United States Of Arctic (USA) - Gold refining
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e65969ed-55d1-4092-8fad-377998a26b83" />
+
+---
+
+## Digital Daua Coin (DDC) - Backed by 100% pure gold (Refined gold, free of impurities)
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea46602c-cd27-4179-ad3b-af992c82732c" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/323ea4c7-2bad-477f-a3f0-88b63c6ec56c" />
+
+---
+
 <h3> OBS: All supplies are provided by Holy Land Extension Earth Planet once past the border crossing.  </h3>
 
 <!--
