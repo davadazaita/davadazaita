@@ -45,6 +45,12 @@ Here are some ideas to get you started:
 
 ---
 
+## Daua Royal Federal University (DRFU) - Qualis AAA
+
+### On the former Planet Earth, at the Arctic Border Control.
+
+---
+
 ## United States Of Arctic (USA) - King Davada Beni Zaita
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4ca266f2-9b71-43ef-9183-40c3392cf5f6" />
@@ -54,12 +60,6 @@ Here are some ideas to get you started:
 ## Think It. Dr. Davada Beni Zaita
 
 <h3> Davada Beni Zaita operates at the intersection of advanced technology and strategic operations. Holding a PhD in Artificial Intelligence and a Bachelor's Degree in Computer Systems Engineering, he Specializes in Project Management and Information Security. His solid academic profile is underpinned by extensive practical experience in military command, intelligence, and counter-intelligence, complemented by advanced special forces skills. This synthesis of cutting-edge research and operational field experience defines his unique ability to manage and protect complex, high-risk environments. </h3>
-
----
-
-## Daua Royal Federal University (DRFU) - Qualis AAA
-
-### On the former Planet Earth, at the Arctic Border Control.
 
 ---
 
