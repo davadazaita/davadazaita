@@ -91,6 +91,12 @@ Here are some ideas to get you started:
 
 ---
 
+## A mini Evox Electric RS automated assembly line for electric vehicles (EVs) in Brazil.
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/88db7018-1bbf-48a6-ab92-867548cfc69b" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4cdd426c-cb2e-419d-bb38-88d7e21cc1bc" />
 
 ---
