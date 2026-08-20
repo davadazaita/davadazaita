@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ---
 
-# The EVOX Architecture: A Hyper-Multidimensional Spiral Framework for Live CD-ROM Bootable AI-Driven Microkernel Operating Systems
+# A Hyper-Multidimensional Spiral Framework for Live CD-ROM Bootable AI-Driven Microkernel Operating Systems
 
-## IEEE Transactions on Computers — Submission Ready Manuscript
+## DAUA Transactions on Computers Science — Submission Ready Manuscript Qualis AAA
 
 ### PHD, Dr. David Ben Zaita – Daua Royal Federal University (DRFU)
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ## Abstract
 
-This paper presents **The EVOX Architecture**, a hyper-multidimensional operating system design framework that integrates artificial intelligence, expert systems, and formal verification within a five-dimensional Cartesian Spiral coordinate system. Building upon the foundational principles of monolithic kernel development as exemplified by Unix/Linux, EVOX introduces a formally verified four-stage boot sequence that establishes a self-aware, adaptive microkernel environment from Live CD-ROM media. The architecture implements a Hardware Bridge Layer (HBL) governed by an 847-rule expert system providing deterministic hardware control with bounded latency, while an AI-driven microkernel operates across a spiral trajectory in the Cartesian plane. The five-dimensional coordinate system comprises: origin point (base), length, width, height, and the radial axis of the base of origin. This paper provides theoretical foundations, architectural specifications, implementation details, and formal verification frameworks, incorporating AI paradigms from deterministic algorithms through transfinite meta-identity and absolute fixed points. The EVOX Architecture represents a paradigm shift toward self-transcendent computing systems that continuously evolve toward optimal configurations across multiple dimensions of existence. Experimental results demonstrate 10-20× improvement in hardware access latency, 10-50× improvement in interrupt handling, and 4-10× improvement in system call overhead compared to traditional monolithic kernels.
+This paper presents **The 5D EVOX Architecture**, a hyper-multidimensional operating system design framework that integrates artificial intelligence, expert systems, and formal verification within a five-dimensional Cartesian Spiral coordinate system. Building upon the foundational principles of monolithic kernel development as exemplified by Unix/Linux, EVOX introduces a formally verified four-stage boot sequence that establishes a self-aware, adaptive microkernel environment from Live CD-ROM media. The architecture implements a Hardware Bridge Layer (HBL) governed by an 847-rule expert system providing deterministic hardware control with bounded latency, while an AI-driven microkernel operates across a spiral trajectory in the Cartesian plane. The five-dimensional coordinate system comprises: origin point (base), length, width, height, and the radial axis of the base of origin. This paper provides theoretical foundations, architectural specifications, implementation details, and formal verification frameworks, incorporating AI paradigms from deterministic algorithms through transfinite meta-identity and absolute fixed points. The EVOX Architecture represents a paradigm shift toward self-transcendent computing systems that continuously evolve toward optimal configurations across multiple dimensions of existence. Experimental results demonstrate 10-20× improvement in hardware access latency, 10-50× improvement in interrupt handling, and 4-10× improvement in system call overhead compared to traditional monolithic kernels.
 
 **Index Terms** — Hyper-Multidimensional Architecture, Cartesian Spiral System, AI-Driven Operating Systems, Expert Systems, Hardware Bridge Layer, Live CD-ROM Boot, Microkernel Architecture, Formal Verification, Cognitive Computing, Transfinite Meta-Identity, Ω-Completion, Absolute Fixed Point
 
