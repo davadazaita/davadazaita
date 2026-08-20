@@ -63,6 +63,38 @@ Here are some ideas to get you started:
 
 ---
 
+### 0.1 Cartesian Coordinate System
+
+```
+                     [G]        
+                     / \
+                   [G] [X]      
+                  /  \/  \
+                [G]  [X] [Y]
+               /  \  / \ / \    
+             [G]  [X]  [Y]  [Z]      
+             / \  / \  / \ /  \
+          [G]  [X]  [Y]  [Z]  [R]
+```
+
+Each node in the tree represents a file or directory. The path from root [G] to any node is determined by its five‑dimensional coordinate (g, x, y, z, r). The root dimension G serves as the reference origin for all paths.
+
+### 0.2 Dimensional Semantics (OLAP‑Grounded)
+
+| Dimension | Name | Semantic Domain | OLAP Operation |
+|-----------|------|-----------------|----------------|
+| G | Ground | Reference origin | Root aggregation |
+| X | Extension | Sequential depth | Drill‑down and roll‑up |
+| Y | Elevation | Abstraction level | Pivot between concrete and abstract |
+| Z | Breadth | Categorization | Slice and dice |
+| R | Radius | Contextual scope | Dimensional zoom |
+
+**Theorem 0.0 (Path Uniqueness).** Each 5‑tuple (g, x, y, z, r) with g = 0 uniquely identifies exactly one node in the filesystem tree.
+
+*Proof.* The proof proceeds by induction on path components. The base case is the root node at coordinate (0, 0, 0, 0, 0). Given that each child node extends exactly one dimension from its parent, and each dimension has a well‑defined ordering, the path from root to any node is unique. Therefore, the 5‑tuple uniquely identifies the node. ∎
+
+---
+
 ### A Hyper-Multidimensional AI-Driven Microkernel Operating Systems
 
 ### DAUA Transactions on Computers Science — Submission Ready Manuscript 
