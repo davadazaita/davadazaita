@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ---
 
-# A Hyper-Multidimensional Spiral Framework for Live CD-ROM Bootable AI-Driven Microkernel Operating Systems
+# A Hyper-Multidimensional AI-Driven Microkernel Operating Systems
 
-## DAUA Transactions on Computers Science — Submission Ready Manuscript Qualis AAA
+## DAUA Transactions on Computers Science — Submission Ready Manuscript - Qualis AAA
 
 ### PHD, Dr. David Ben Zaita – Daua Royal Federal University (DRFU)
 
