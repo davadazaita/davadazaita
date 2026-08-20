@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3> Note: At the appropriate time: I will publish the complete source code for the Evox projects under the Open Source International Patent License and the GNU License. Assemble it yourself or buy it ready-made. The power outlet is located on the car's logo. All the manuals for assembling your personal projects are here. </h3>
+<h3> Note: At the appropriate time: I will publish the complete source code for the Evox projects under the Open Source International Patent License and the GNU License. Assemble it yourself (HANDS ON) or buy it ready-made. The power outlet is located on the car's logo. All the manuals for assembling your personal projects are here. </h3>
 
 ---
 
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cd54a6d7-bcb1-4e55-8505-61a8234cdfef" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9212b3e4-d2ed-496e-9368-03c03927a692" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9883dc6a-0604-4de4-b315-96c9d476de55" />
 
