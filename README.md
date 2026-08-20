@@ -99,10 +99,6 @@ Here are some ideas to get you started:
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f20f31af-9e6f-46c3-b052-e057e5ef5c34" />
-
----
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c146c601-7fe8-4355-ab24-794ac47f9d38" />
 
 ---
