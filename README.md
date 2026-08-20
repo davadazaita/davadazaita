@@ -24,17 +24,15 @@
 
 ---
 
+## United States Of Arctic (USA) - Gold refining
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e65969ed-55d1-4092-8fad-377998a26b83" />
+
 ---
 
 ## United States Of Arctic (USA) - House Coin
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a25dd9a0-44fe-47e4-8886-9e2e91f69da3" />
-
----
-
-## United States Of Arctic (USA) - Gold refining
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e65969ed-55d1-4092-8fad-377998a26b83" />
 
 ---
 
