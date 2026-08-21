@@ -2,7 +2,7 @@
 
 ## KIT: Building 3D Molds On Polymers. Daua Team - Associated Publishers 2026
 
-<h3> The automotive parts union using MIG welding for polymer comparable to steel—for bearing couplings. </h3>
+<h3> The auto parts sector union uses MIG welding for a polymer comparable to steel. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9168400b-4794-48e8-b53c-2eba532e1911" />
 
