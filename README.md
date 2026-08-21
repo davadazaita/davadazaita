@@ -6,6 +6,8 @@
 
 <h3> The first automotive parts made of a high-strength polymer—comparable to steel—for bearing couplings. </h3>
 
+<h3> Scale model of the actual structure to be built </h3>
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7fd7222c-7b6b-4e59-96fc-8d0de6db3f2f" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c874a266-3512-45c5-b19b-78420c55582d" />
