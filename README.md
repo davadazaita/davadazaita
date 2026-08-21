@@ -6,6 +6,8 @@
 
 <img width="1225" height="523" alt="Image" src="https://github.com/user-attachments/assets/36150eb7-87f1-44e0-96ae-d45d1eee1c25" />
 
+<img width="1224" height="1600" alt="Image" src="https://github.com/user-attachments/assets/0ea1af14-6101-426a-a53f-de905f4d4119" />
+
 ----
 
 ## United States Of Arctic on Earth Planet (USA)
