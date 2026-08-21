@@ -6,6 +6,8 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/16b2fc78-5b14-4b42-8196-8aab1d0b488d" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bcad33c7-f5bb-4866-ad59-34d305dbe941" />
+
 --- 
 
 ## KIT: Building 3D Molds On Polymers. Daua Team - Associated Publishers 2026
