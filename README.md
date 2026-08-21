@@ -6,7 +6,7 @@
 
 ---
 
-<h3> Translucent industrial solar transition polymer </h3>
+<h3> Solar Transition Polymer Yacht Luxury </h3>
 
 ---
 
