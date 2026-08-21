@@ -1,6 +1,10 @@
 ---
 
-##  Setting Up Your First Car
+##  Setting Up Your First Car on Made in Garage
+
+<h3> ALL PACKAGES </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b01d6d5b-0c60-42a4-b739-8742db1e7a15" />
 
 
 ----
