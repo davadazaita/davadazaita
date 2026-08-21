@@ -6,7 +6,7 @@
 
 ---
 
-<h3> Solar Transition Polymer Yacht Luxury </h3>
+<h3> Solar Transition Polymer Luxury Yacht </h3>
 
 ---
 
