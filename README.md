@@ -8,6 +8,8 @@
 
 <h3> The best for the NASCAR 500 Miles </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a1660dc2-d997-4e92-9367-f8dd762d447f" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/024530d5-4124-40d9-812c-6cdd1e842b49" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ac4d337a-156d-4da2-a74d-b4029a1d5620" />
