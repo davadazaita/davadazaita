@@ -2,6 +2,12 @@
 
 ---
 
+## Small example items built using 3D molds.
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21158776-24fb-4652-a016-87bab8e3d999" />
+
+---
+
 ## The molds are made on 3D printers so that the car parts can be built.
 
 ---
