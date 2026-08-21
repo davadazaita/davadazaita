@@ -8,6 +8,10 @@
 
 <h3> clean unobstructed cockpit solar transition polymer </h3>
 
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/47a85ac2-fcc4-4b5d-a3a8-aac0091abd11" />
+
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1907cbc8-1606-41cf-8a11-b02bdfaf39ee" />
 
