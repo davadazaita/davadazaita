@@ -91,6 +91,12 @@ Here are some ideas to get you started:
 
 ---
 
+<h3> SNIF, SNIF, SNIF </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/216905d8-ad23-405f-9481-f88d8ed2213a" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f8826258-3b0c-48cb-a381-c58b93fb812d" />
 
 ---
