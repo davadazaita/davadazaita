@@ -2,6 +2,10 @@
 
 ---
 
+## The molds are made on 3D printers so that the parts can be constructed
+
+---
+
 ##  Setting Up Your First Car on Made in Garage
 
 <h3> KIT 3D-printed molds, polymer panels, and labeled storage boxes </h3>
