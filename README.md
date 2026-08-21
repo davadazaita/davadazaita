@@ -4,6 +4,10 @@
 
 ## Book: Bulding 3D Molds On Polymers. Daua Team - Associated Publishers 2026
 
+<h3> The first automotive parts made of a high-strength polymer—comparable to steel—for bearing couplings. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5400cb65-9522-4650-a5e4-c46b746e85e0" />
+
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/686ecbbf-8717-41c3-888c-15ea55bba2ce" />
 
