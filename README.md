@@ -4,6 +4,8 @@
 
 ## EVOX EV RS: Small Businesses, Big businesses: Support Evolution Technologies
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f66e6e46-8614-4efb-84d7-a7388f16dab9" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bca86d23-71b6-4a9d-9a2a-e10925cca148" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ef309f4a-63dd-4752-a5f0-4992e6385733" />
