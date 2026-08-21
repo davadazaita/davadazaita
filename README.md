@@ -6,7 +6,7 @@
 
 ---
 
-<h3> The Best for NASCAR </h3>
+<h3> The best for the NASCAR 500 Miles </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/024530d5-4124-40d9-812c-6cdd1e842b49" />
 
