@@ -6,7 +6,9 @@
 
 ## KIT: Building 3D Molds On Polymers. Daua Team - Associated Publishers 2026
 
-<h3> Final version using MIG welding for polymer. </h3>
+<h3> Final Version using MIG welding for polymer. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9168400b-4794-48e8-b53c-2eba532e1911" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/42a75c7e-d186-4359-8879-9a298dfadaf1" />
 
