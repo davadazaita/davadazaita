@@ -6,7 +6,9 @@
 
 ---
 
-<h3> Solar Transition Polymer Luxury Yacht </h3>
+<h3> luxurious translucent industrial solar transition polymer </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a63fb4b7-77d1-42af-bafa-89e1968088cd" />
 
 ---
 
