@@ -4,7 +4,11 @@
 
 ## EVOX EV-PRS: Small Businesses, Big businesses: Support Evolution Technologies
 
+---
+
 <h3> Translucent industrial solar transition polymer </h3>
+
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea6405cc-2b8b-4762-a83c-7bc1736a5bdd" />
 
