@@ -4,6 +4,8 @@
 
 ## Small example items built using 3D molds on polymer.
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b727621e-f690-4f31-a0d5-3d52b58f5410" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/41ab1f9c-ce59-411f-8213-80cb586b66b0" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21158776-24fb-4652-a016-87bab8e3d999" />
