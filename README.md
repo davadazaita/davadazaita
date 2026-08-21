@@ -1,10 +1,12 @@
  ## ATTENTION: We fully support every citizen having a registered and legally authorized firearm at home for self-defence; however, in countries with restrictions, we do not provide anything related to personal defence firearms.
 
 ---
+<h3> The first automotive parts made of a high-strength polymer—comparable to steel—for bearing couplings. </h3>
+---
 
 ## KIT: Building 3D Molds On Polymers. Daua Team - Associated Publishers 2026
 
-<h3> The first automotive parts made of a high-strength polymer—comparable to steel—for bearing couplings. </h3>
+<h3> Final version using MIG welding for polymer. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/42a75c7e-d186-4359-8879-9a298dfadaf1" />
 
