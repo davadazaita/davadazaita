@@ -2,7 +2,7 @@
 
 ---
 
-## Small example items built using 3D molds.
+## Small example items built using 3D molds on polymer.
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21158776-24fb-4652-a016-87bab8e3d999" />
 
