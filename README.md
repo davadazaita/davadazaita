@@ -8,6 +8,10 @@
 
 <img width="1224" height="1600" alt="Image" src="https://github.com/user-attachments/assets/0ea1af14-6101-426a-a53f-de905f4d4119" />
 
+---
+
+<h3>Reference: Images from the World Wide Web </h3>
+
 ----
 
 ## United States Of Arctic on Earth Planet (USA)
