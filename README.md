@@ -2,7 +2,7 @@
 
 ## KIT: Building 3D Molds On Polymers. Daua Team - Associated Publishers 2026
 
-<h3> The auto parts sector union uses laser-MIG welding to join a polymer comparable to steel. </h3>
+<h3> The auto parts sector union uses Pistol Laser-MIG welding to join a polymer comparable to steel. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60d04b5b-6e1b-4c9b-b5b0-2f6e3ca6c97c" />
 
