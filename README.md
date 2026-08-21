@@ -2,7 +2,7 @@
 
 ---
 
-## Book: Bulding 3D Molds On Polymers. Zaita. Davada - Daua Associated Publishers 2026
+## Book: Bulding 3D Molds On Polymers. Daua Team - Associated Publishers 2026
 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/686ecbbf-8717-41c3-888c-15ea55bba2ce" />
