@@ -4,6 +4,8 @@
 
 ## Small Businesses, Big businesses: Support Evolution Technologies
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ef309f4a-63dd-4752-a5f0-4992e6385733" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/070c7dd5-7a85-41aa-b918-495f110de509" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/17721d2f-586f-4fc7-9584-9ca26af6ac1b" />
