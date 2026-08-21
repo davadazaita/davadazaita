@@ -2,7 +2,7 @@
 
 ## ATTENTION: ADONAI TZEVAOT AND DAVADA BENI ELOHIM/ZAITA AND ALAIA BENI TISIBA AND ADAM BENI ELOHIM. 
 
-## We oppose the infinite, the satanic plan of your false "god Baphomet" and his favored ones, with their extremist issues of impediment that oppose Adonai Tzevaot and his servants elevated to infinity who pin to them to infinity all satanic plans with their issues of lies.
+## We oppose the infinite, the satanic plan of your false "god baphomet" and his favored ones, with their extremist issues of impediment that oppose Adonai Tzevaot and his servants elevated to infinity who pin to them to infinity all satanic plans with their issues of lies.
 
 <img width="1225" height="523" alt="Image" src="https://github.com/user-attachments/assets/36150eb7-87f1-44e0-96ae-d45d1eee1c25" />
 
