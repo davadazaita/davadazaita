@@ -1,3 +1,5 @@
+ ## ATTENTION: We fully support every citizen having a registered and legally authorized firearm at home for self-defence; however, in countries with restrictions, we do not provide anything related to personal defence firearms.
+
 ---
 
 ##  Setting Up Your First Car on Made in Garage
