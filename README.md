@@ -4,6 +4,8 @@
 
 <h3> KIT 3D-printed molds, polymer panels, and labeled storage boxes </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/654e205c-4a48-43f1-a5ed-492e4b3b7198" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/deb32747-2bb2-4c30-ad0c-f72a05a3fb78" />
 
 ---
