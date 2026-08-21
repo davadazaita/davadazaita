@@ -1,3 +1,11 @@
+---
+
+## ATTENTION: ADONAI TZEVAOT AND DAVADA BENI ELOHIM/ZAITA AND ALAIA BENI TISIBA AND ADAM BENI ELOHIM WE ARE OPPOSERS TO THE INFINITY OF THE SATANIC SCHEME OF BAFO RANZIZO AND HIS FAVORITES.
+
+<img width="1225" height="523" alt="Image" src="https://github.com/user-attachments/assets/36150eb7-87f1-44e0-96ae-d45d1eee1c25" />
+
+----
+
 ## United States Of Arctic on Earth Planet (USA)
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9b272912-667e-42dd-854e-fb03dab9aed1" />
