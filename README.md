@@ -6,7 +6,7 @@
 
 ---
 
-<h3> The best for the NASCAR 500 Miles using liquid battery </h3>
+<h3> The NASCAR cars use rechargeable liquid-state batteries </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7a67e335-6671-42c3-ab97-eff7eafacda5" />
 
