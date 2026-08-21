@@ -2,7 +2,7 @@
 
 ---
 
-## The molds are made on 3D printers so that the parts can be constructed
+## The molds are made on 3D printers so that the car parts can be built.
 
 ---
 
