@@ -2,7 +2,7 @@
 
 ---
 
-## Novos empreendedores do prastico na zeuropa - Complete worker PPE (overalls, boots, helmets, gloves, protective glasses)
+## Complete worker PPE (overalls, boots, helmets, gloves, protective glasses) - Novos empreendedores do prastico na zeuropa -
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/16b2fc78-5b14-4b42-8196-8aab1d0b488d" />
 
