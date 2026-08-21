@@ -6,7 +6,9 @@
 
 ---
 
-<h3> The best for the NASCAR 500 Miles </h3>
+<h3> The best for the NASCAR 500 Miles using liquid battery </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7a67e335-6671-42c3-ab97-eff7eafacda5" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a1660dc2-d997-4e92-9367-f8dd762d447f" />
 
