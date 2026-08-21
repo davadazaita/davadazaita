@@ -1,5 +1,13 @@
  ## ATTENTION: We fully support every citizen having a registered and legally authorized firearm at home for self-defence; however, in countries with restrictions, we do not provide anything related to personal defence firearms.
 
+---
+
+## Novos empreendedores do prastico na zeuropa
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/16b2fc78-5b14-4b42-8196-8aab1d0b488d" />
+
+--- 
+
 ## KIT: Building 3D Molds On Polymers. Daua Team - Associated Publishers 2026
 
 <h3> The auto parts sector union uses Pistol Laser-MIG welding to join a polymer comparable to steel. </h3>
