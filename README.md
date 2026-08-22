@@ -1,4 +1,4 @@
-### IMPORTANT NOTE: By decree (TORAH) of Adonai: The Daua Forces are a defense force composed essentially of the ground guard, maritime guard, and space guard.
+### IMPORTANT NOTE: By decree (TORAH) of Adonai: The Daua Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
 
 ---
 
