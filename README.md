@@ -1,4 +1,4 @@
-### The Torah does not endorse any religion, as it is the sovereign constitution over all others. Adonai did not establish religion. For example: Judaism, Christianity, Islam, etc.
+### The Torah does not endorse any religion, as it is the sovereign constitution over all others. Adonai did not establish religion. For example: Judaism, Christianity, Islam, etc...
 
 ### The question that begs to be asked: What if everything I said is true? The same thing I told Nato and his wife Batach. And when you arrive in the infernal Ramonic dimension, what will you do to extinguish the flame in your soul and get out of there? Nato only managed to extinguish the flames but remains trapped there. Stop and think about that. The saying goes, "Ra-man gives with one hand, takes away with both." When he reaches the point of favoring you, he even takes you to the infernal dimension to burn you, as he determined for Nato and Batach, who contradicted him.
 
