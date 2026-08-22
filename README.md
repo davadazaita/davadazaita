@@ -1,8 +1,12 @@
 ### IMPORTANT NOTE: The KING of KING Adonai is the sovereign green force of this side of the universe that assumes no form whatsoever; it is like an energy live that thinks, speaks, and—in doing so—comes into existence, simultaneously existing and decreeing, far removed from being a vague or inert energy like that which powers machines.
 
 ---
+ 
+### IMPORTANT NOTE: The Elevated Human—Davada Beni Elohim of the Green Universe(Right Side) — I am the opposite of the Extremist of Human Contradiction Ra-Man, from the Red Universe(Left Side).
 
-### IMPORTANT NOTE: The Elevated Human—Davada Beni Elohim of the Green Universe(Right)—I am the opposite of the Extremist of Human Contradiction Ra-Man, from the Red Universe(Red).
+---
+
+### The fusion of green and red is a deadly metamorphosis born of the union with the *Nato Beni Elohim* (The Redeemed)—who, in the past, accepted being contradicted by RA-MAN, Baphomet.
 
 ---
 
