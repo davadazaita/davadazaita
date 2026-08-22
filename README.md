@@ -1,4 +1,4 @@
-### The Daua Forces are a defense force composed essentially of the ground guard, coast guard, and space guard.
+### The Daua Forces are a defense force composed essentially of the ground guard, maritime guard, and space guard.
 
 ---
 
