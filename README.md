@@ -1,70 +1,3 @@
-### IMPORTANT NOTE: The Torah does not endorse any religion, as it is the sovereign constitution over all others. Adonai did not establish any religion, nor did the Tanakh. For example: Judaism, Christianity, Islam, etc...
-
----
-
-### IMPORTANT NOTE: A Torá não endossa nenhuma religião, pois é a constituição soberana sobre todas as outras. Adonai não estabeleceu nenhuma religião, nem o Tanach. Por exemplo: Judaísmo, Cristianismo, Islamismo, etc.
-
----
-
-###  IMPORTANT NOTE: The burning question is: what if everything I said is true? The same thing I told Nato and his wife, Batach. And when you reach Ra-man's infernal dimension, what will you do to extinguish the flame in your souls and get out of there??? Nato only managed to extinguish the flames in himself and his family, but remains trapped there. Stop and think about it. As the saying goes: Ra-man gives with one hand and takes away with both, and when he reaches the point of favoring you, he takes you to the infernal dimension to burn you, as he did with Nato and Batach, who accepted being contradicted in order to be favored by Ra.
-
----
-
-###  IMPORTANT NOTE: A grande questão é: e se tudo o que disse for verdade? A mesma coisa que eu disse ao Nato e à sua mulher, Batach. E quando chegarem à dimensão infernal de Ra-man, o que farão para extinguir a chama nas vossas almas e sair de lá??? Nato apenas conseguiu extinguir as chamas em si e na sua família, mas continua preso lá. Parem e pensem nisto. Como diz o ditado: Ra-man dá com uma mão e tira com as duas, e quando chega ao ponto de lhe favorecer, leva-o para a dimensão infernal para o queimar, como fez com Nato e Batach, que aceitaram ser contrariados para serem favorecidos por Ra.
-
----
-
-###  IMPORTANT NOTE: If you don't believe that this is happening in the Ramonic dimension of Ra-Man, that there is a conflict between Adonai Tzevaot and Ra-Man, the problem is yours, because I witnessed the truth: "IESUS CHRISTUS FILE DEI OR WHATEVER NAME YOU WANT TO USE FOR HIM IS THE WORK OF RA-MAN". THIS QUESTION OF IESUS OR YESHUA HAS NO BASIS IN THE TANAKH. There are passages taken out of context to serve as a pretext to continue contradicting in favor of RA, who favored him to contradict Adonai Tzevaot, to continue favoring him and then, because he is his opponent, also send him to the Ramonic dimension to burn as was destined for NATO and his wife BATACH.
-
----
-
-###  IMPORTANT NOTE: Se não acredita que isto está a acontecer na dimensão Ramónica de Ra-Man, que existe um conflito entre Adonai Tzevaot e Ra-Man, o problema é seu, porque eu testemunhei a verdade: "IESUS CHRISTUS FILE DEI OU QUALQUER NOME QUE QUEIRAS USAR PARA ELE É OBRA DE RA-MAN". ESTA QUESTÃO DO IESUS OU YESHUA NÃO TEM FUNDAMENTO NO TANAKH. Existem passagens retiradas do contexto para servir de pretexto para continuar a contradizer em favor de RA, que o favoreceu para contradizer Adonai Tzevaot, para continuar a favorecê-lo e depois, por ser seu opositor, enviá-lo também para a dimensão Ramónica para queimar como estava destinado à NATO e à sua esposa BATACH.
-
----
-
-
-### The KING of KING Adonai Tzevaot Commander - The Daua Elevation Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/93727a8c-307f-4536-9452-5f37bfe3bded" />
-
----
-
-### IMPORTANT NOTE: The KING of KING Adonai is the sovereign green force of this side of the universe that assumes no form whatsoever; it is like an energy live that thinks, speaks, and—in doing so—comes into existence, simultaneously existing and decreeing, far removed from being a vague or inert energy like that which powers machines.
-
----
-
-### IMPORTANT NOTE: By decree (TORAH) of Adonai is KING of KING of Green Force: The Daua Elevation Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
-
----
-
-### IMPORTANT NOTE: By decree (TORAH) of Adonai, state ministers are appointed by the King, and the Senior Minister is designated as the Supreme Minister, whereas governors, mayors, and state secretaries—the vassals of the people—are elected by the people.
-
----
- 
-### IMPORTANT NOTE: The Elevated Human—Davada Beni Elohim of the Green Universe(Right Side) — I am the opposite of the Extremist of Human Contradiction Ra-Man, from the Red Universe(Left Side).
-
----
-
-### IMPORTANT NOTE: Initially, the fusion of the green side and the red side is a deadly metamorphosis born of the union with Nathanel Banach Elohim (He was redeemed in the Hell of the Ha-Man; even today, there are those who stand in his favor—and that of his loved ones—advocating for his elevation as he himself attained)—who, in the past, accepted being contradicted by RA-MAN, the Baphomet of the Serpent.
-
-### OBS0: It is worth noting that the Ra-Man Extreme Forces continue to act on their own within the dimension and the existing reality of your question.
-
-### OBS1: It is important to remember that in Nato's conflict with Ra-Man, the only outcome he achieved was a draw—meaning he was captured, crucified, and burned on the planet Daua. His life force was sent to Ra-Man's Hell to be incinerated; however, because he possessed the "Torah of Remembrance," he managed to extinguish the flames, though he remains trapped in the world of Ha-Ma. 
-
-### OBS2: Follow the example of Evo Rizoma (Adam), Avraham (Abraham), and Sinson (Samson) who decided to act according to their Torah of Adonai to Exit the Ra-Man Question.
-
-### OBS3: The contradiction lies in the "Sonic Blue vs Shadow (Sonic Black)" episode Sonic Prime.
-
----
-
-Reference: https://www.youtube.com/watch?v=52Gqk9T3mfA
-
----
-
-### IMPORTANT NOTE (THE "CLEAN HANDS" CRIME): The scheme involving Satan Baphomet (Ra-Man) and his trusted associates—as well as related issues of preferential treatment—operates as follows: the public official acts in strict compliance with the regulations governing his role but orchestrates a parallel situation to secure personal gain; to avoid detection, he exploits contradictions inherent in that very situation, employing "parabolic language" when conveying directives to his chosen associates.
-
-----
-
 ## United States Of Arctic on Earth Planet (USA)
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9b272912-667e-42dd-854e-fb03dab9aed1" />
@@ -2739,3 +2672,72 @@ set of C99 features.
 <h3>Reference: Images from the World Wide Web </h3>
 
 ---
+
+---
+
+### IMPORTANT NOTE: The Torah does not endorse any religion, as it is the sovereign constitution over all others. Adonai did not establish any religion, nor did the Tanakh. For example: Judaism, Christianity, Islam, etc...
+
+---
+
+### IMPORTANT NOTE: A Torá não endossa nenhuma religião, pois é a constituição soberana sobre todas as outras. Adonai não estabeleceu nenhuma religião, nem o Tanach. Por exemplo: Judaísmo, Cristianismo, Islamismo, etc.
+
+---
+
+###  IMPORTANT NOTE: The burning question is: what if everything I said is true? The same thing I told Nato and his wife, Batach. And when you reach Ra-man's infernal dimension, what will you do to extinguish the flame in your souls and get out of there??? Nato only managed to extinguish the flames in himself and his family, but remains trapped there. Stop and think about it. As the saying goes: Ra-man gives with one hand and takes away with both, and when he reaches the point of favoring you, he takes you to the infernal dimension to burn you, as he did with Nato and Batach, who accepted being contradicted in order to be favored by Ra.
+
+---
+
+###  IMPORTANT NOTE: A grande questão é: e se tudo o que disse for verdade? A mesma coisa que eu disse ao Nato e à sua mulher, Batach. E quando chegarem à dimensão infernal de Ra-man, o que farão para extinguir a chama nas vossas almas e sair de lá??? Nato apenas conseguiu extinguir as chamas em si e na sua família, mas continua preso lá. Parem e pensem nisto. Como diz o ditado: Ra-man dá com uma mão e tira com as duas, e quando chega ao ponto de lhe favorecer, leva-o para a dimensão infernal para o queimar, como fez com Nato e Batach, que aceitaram ser contrariados para serem favorecidos por Ra.
+
+---
+
+###  IMPORTANT NOTE: If you don't believe that this is happening in the Ramonic dimension of Ra-Man, that there is a conflict between Adonai Tzevaot and Ra-Man, the problem is yours, because I witnessed the truth: "IESUS CHRISTUS FILE DEI OR WHATEVER NAME YOU WANT TO USE FOR HIM IS THE WORK OF RA-MAN". THIS QUESTION OF IESUS OR YESHUA HAS NO BASIS IN THE TANAKH. There are passages taken out of context to serve as a pretext to continue contradicting in favor of RA, who favored him to contradict Adonai Tzevaot, to continue favoring him and then, because he is his opponent, also send him to the Ramonic dimension to burn as was destined for NATO and his wife BATACH.
+
+---
+
+###  IMPORTANT NOTE: Se não acredita que isto está a acontecer na dimensão Ramónica de Ra-Man, que existe um conflito entre Adonai Tzevaot e Ra-Man, o problema é seu, porque eu testemunhei a verdade: "IESUS CHRISTUS FILE DEI OU QUALQUER NOME QUE QUEIRAS USAR PARA ELE É OBRA DE RA-MAN". ESTA QUESTÃO DO IESUS OU YESHUA NÃO TEM FUNDAMENTO NO TANAKH. Existem passagens retiradas do contexto para servir de pretexto para continuar a contradizer em favor de RA, que o favoreceu para contradizer Adonai Tzevaot, para continuar a favorecê-lo e depois, por ser seu opositor, enviá-lo também para a dimensão Ramónica para queimar como estava destinado à NATO e à sua esposa BATACH.
+
+---
+
+
+### The KING of KING Adonai Tzevaot Commander - The Daua Elevation Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/93727a8c-307f-4536-9452-5f37bfe3bded" />
+
+---
+
+### IMPORTANT NOTE: The KING of KING Adonai is the sovereign green force of this side of the universe that assumes no form whatsoever; it is like an energy live that thinks, speaks, and—in doing so—comes into existence, simultaneously existing and decreeing, far removed from being a vague or inert energy like that which powers machines.
+
+---
+
+### IMPORTANT NOTE: By decree (TORAH) of Adonai is KING of KING of Green Force: The Daua Elevation Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
+
+---
+
+### IMPORTANT NOTE: By decree (TORAH) of Adonai, state ministers are appointed by the King, and the Senior Minister is designated as the Supreme Minister, whereas governors, mayors, and state secretaries—the vassals of the people—are elected by the people.
+
+---
+ 
+### IMPORTANT NOTE: The Elevated Human—Davada Beni Elohim of the Green Universe(Right Side) — I am the opposite of the Extremist of Human Contradiction Ra-Man, from the Red Universe(Left Side).
+
+---
+
+### IMPORTANT NOTE: Initially, the fusion of the green side and the red side is a deadly metamorphosis born of the union with Nathanel Banach Elohim (He was redeemed in the Hell of the Ha-Man; even today, there are those who stand in his favor—and that of his loved ones—advocating for his elevation as he himself attained)—who, in the past, accepted being contradicted by RA-MAN, the Baphomet of the Serpent.
+
+### OBS0: It is worth noting that the Ra-Man Extreme Forces continue to act on their own within the dimension and the existing reality of your question.
+
+### OBS1: It is important to remember that in Nato's conflict with Ra-Man, the only outcome he achieved was a draw—meaning he was captured, crucified, and burned on the planet Daua. His life force was sent to Ra-Man's Hell to be incinerated; however, because he possessed the "Torah of Remembrance," he managed to extinguish the flames, though he remains trapped in the world of Ha-Ma. 
+
+### OBS2: Follow the example of Evo Rizoma (Adam), Avraham (Abraham), and Sinson (Samson) who decided to act according to their Torah of Adonai to Exit the Ra-Man Question.
+
+### OBS3: The contradiction lies in the "Sonic Blue vs Shadow (Sonic Black)" episode Sonic Prime.
+
+---
+
+Reference: https://www.youtube.com/watch?v=52Gqk9T3mfA
+
+---
+
+### IMPORTANT NOTE (THE "CLEAN HANDS" CRIME): The scheme involving Satan Baphomet (Ra-Man) and his trusted associates—as well as related issues of preferential treatment—operates as follows: the public official acts in strict compliance with the regulations governing his role but orchestrates a parallel situation to secure personal gain; to avoid detection, he exploits contradictions inherent in that very situation, employing "parabolic language" when conveying directives to his chosen associates.
+
+----
