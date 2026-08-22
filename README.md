@@ -2,7 +2,7 @@
 
 ---
 
-###  IMPORTANT NOTE: Se não acredita que isto está a acontecer na dimensão Ramónica de Ra-Man, que existe um conflito entre Adonai Tzevaot e Ra-Man, o problema é seu, porque eu testemunhei a verdade: "IESUS CHRISTUS FILE DEI OU QUALQUER NOME QUE QUEIRAS USAR PARA ELE É OBRA DE RA-MAN". ESTA QUESTÃO DO IESUS OU YESHUA NÃO TEM FUNDAMENTO NO TANAKH. Há passagens retiradas do contexto para servir de pretexto para continuar a contradizer em favor de RA, que o favoreceu para contradizer Adonai Tzevaot, para continuar a favorecê-lo e depois, porque é o seu adversário, também o enviar para a dimensão Ramónica para queimar como estava destinado à NATO e a sua esposa BATACH.
+###  IMPORTANT NOTE: Se não acredita que isto está a acontecer na dimensão Ramónica de Ra-Man, que existe um conflito entre Adonai Tzevaot e Ra-Man, o problema é seu, porque eu testemunhei a verdade: "IESUS CHRISTUS FILE DEI OU QUALQUER NOME QUE QUEIRAS USAR PARA ELE É OBRA DE RA-MAN". ESTA QUESTÃO DO IESUS OU YESHUA NÃO TEM FUNDAMENTO NO TANAKH. Há passagens retiradas do contexto para servir de pretexto para continuar a contradizer em favor de RA, que o favoreceu para contradizer Adonai Tzevaot, para continuar a favorecê-lo e depois, porque é o seu adversário, também o enviar para a dimensão Ramónica para queimar como estava destinado ao NATO e a sua esposa BATACH.
 
 ---
 
