@@ -2,7 +2,7 @@
 
 ---
 
-### IMPORTANT NOTE: I, the Green Universe's Davada Beni Elohim, am the opposite of the Red Universe's Ra-Man.
+### IMPORTANT NOTE: On Green Universe's Davada Beni Elohim, I am the opposite of the Ra-Man of Red Universe's.
 
 ---
 
