@@ -6,7 +6,7 @@
 
 ---
 
-### ###  IMPORTANT NOTE: A pergunta que não quer calar: Se tudo que eu disse, for tudo verdade ??? O mesmo coisa que eu dizia para o Nato e a sua esposa batach. E quando você chegar na dimensão infernal ramonica o que voce vai fazer para apagar a chama na sua alma e sair de lá. O nato consegui apenas apagar a chamas mais continua preso la. Pare para pensar nisto. O Ditado pular diz isto, O Ra-man da com uma mão, tira com as duas quando chega o ponto final de favorecer você, ainda te leva para a dimensão infernal para queimar-te como ele determinou para o Nato e Batach, que o contraditou.
+###  IMPORTANT NOTE: A pergunta que não quer calar: Se tudo que eu disse, for tudo verdade ??? O mesmo coisa que eu dizia para o Nato e a sua esposa batach. E quando você chegar na dimensão infernal ramonica o que voce vai fazer para apagar a chama na sua alma e sair de lá. O nato consegui apenas apagar a chamas nele e nos dele, mais continua preso la. Pare para pensar nisto. O Ditado pular diz isto, O Ra-man da com uma mão, tira com as duas quando chega o ponto final de favorecer você, ainda te leva para a dimensão infernal para queimar-te como ele determinou para o Nato e Batach, que o contraditou para se favorecer no Daua Planet.
 
 ---
 
