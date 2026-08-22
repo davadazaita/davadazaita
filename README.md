@@ -8,7 +8,9 @@
 
 <h3> The rechargeable liquid battery cylinder is manually inserted into the electric charging point at the front of the vehicle to power the NASCAR electric motor. </h3>
 
-<h3> The NASCAR electric motor recharge protection fuse. </h3>
+---
+
+<h3> The NASSCAR electric motor recharge protection fuse. </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/19d7c181-2fbc-45d2-b560-d5de0e52bf12" />
 
