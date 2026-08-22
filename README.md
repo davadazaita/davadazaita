@@ -1,4 +1,4 @@
-### The KING of KING Adonai is the sovereign green force of this side of the universe that assumes no form whatsoever; it is like an energy that thinks, speaks, and—in doing so—comes into existence, simultaneously existing and decreeing, far removed from being a vague or inert energy like that which powers machines.
+### IMPORTANT NOTE: The KING of KING Adonai is the sovereign green force of this side of the universe that assumes no form whatsoever; it is like an energy that thinks, speaks, and—in doing so—comes into existence, simultaneously existing and decreeing, far removed from being a vague or inert energy like that which powers machines.
 
 ---
 
