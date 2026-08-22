@@ -1,5 +1,9 @@
 ----
 
+### ATTENTION: The Baphomet (Ra-Man) scheme regarding these matters works as follows: the public official acts with strict adherence to the regulations governing their role, yet they orchestrate a separate issue to gain an advantage in their own case; to avoid detection, they employ contradictions within that very matter.
+
+----
+
 ## United States Of Arctic on Earth Planet (USA)
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9b272912-667e-42dd-854e-fb03dab9aed1" />
