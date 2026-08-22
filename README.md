@@ -2,6 +2,10 @@
 
 ---
 
+### IMPORTANT NOTE: I, the Green Universe's Davada Beni Elohim, am the opposite of the Red Universe's Ra-Man.
+
+---
+
 ### IMPORTANT NOTE: By decree (TORAH) of Adonai is KING of KING of Green Force: The Daua Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
 
 ---
