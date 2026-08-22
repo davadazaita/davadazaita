@@ -1,12 +1,12 @@
-### ###  IMPORTANT NOTE: The Torah does not endorse any religion, as it is the sovereign constitution over all others. Adonai did not establish religion no tanach. For example: Judaism, Christianity, Islam, etc...
+### IMPORTANT NOTE: The Torah does not endorse any religion, as it is the sovereign constitution over all others. Adonai did not establish religion no tanach. For example: Judaism, Christianity, Islam, etc...
 
 ---
 
-### ###  IMPORTANT NOTE: The question that begs to be asked: What if everything I said is true? The same thing I told Nato and his wife Batach. And when you arrive in the infernal Ramonic dimension, what will you do to extinguish the flame in your soul and get out of there? Nato only managed to extinguish the flames but remains trapped there. Stop and think about that. The saying goes, "Ra-man gives with one hand, takes away with both." When he reaches the point of favoring you, he even takes you to the infernal dimension to burn you, as he determined for Nato and Batach, who contradicted him.
+###  IMPORTANT NOTE: The question that begs to be asked: What if everything I said is true? The same thing I told Nato and his wife Batach. And when you arrive in the infernal Ramonic dimension, what will you do to extinguish the flame in your soul and get out of there? Nato only managed to extinguish the flames in himself and his, but he remains trapped there. Stop and think about that. The saying goes, Ra-man gives with one hand, takes away with both, and when he reaches the point of favoring you, he even takes you to the infernal dimension to burn you, as he determined for Nato and Batach, who contradicted him to favor themselves on Dava Planet.
 
 ---
 
-###  IMPORTANT NOTE: A pergunta que não quer calar: Se tudo que eu disse, for tudo verdade ??? A mesma coisa que eu dizia para o Nato e a sua esposa Batach. E quando você chegar na dimensão infernal ramonica o que voce vai fazer para apagar a chama na sua alma e sair de lá. O nato consegui apenas apagar a chamas nele e nos dele, mais continua preso la. Pare para pensar nisto. O Ditado pular diz isto, O Ra-man da com uma mão, tira com as duas quando chega o ponto final de favorecer você, ainda te leva para a dimensão infernal para queimar-te como ele determinou para o Nato e Batach, que o contraditou para se favorecer no Dava Planet.
+###  IMPORTANT NOTE: A pergunta que não quer calar é: e se tudo o que eu disse for verdade? A mesma coisa que eu disse ao Nato e à sua mulher, Batach. E quando chegarem à dimensão infernal de Ra-man, o que farão para extinguir a chama nas vossas almas e sair de lá? Nato apenas conseguiu extinguir as chamas em si e nos seus, mas permanece lá preso. Parem e pensem nisto. Diz o ditado: Ra-man dá com uma mão e tira com as duas, e quando chega ao ponto de lhe favorecer, leva-o até mesmo para a dimensão infernal para o queimar, como fez com Nato e Batach, que o contradisseram para se beneficiarem no Planeta Dava..
 
 ---
 
