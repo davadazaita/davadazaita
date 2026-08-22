@@ -1,6 +1,6 @@
 ----
 
-### IMPORTANT NOTE (THE "CLEAN HANDS" CRIME): The scheme involving Baphomet (Ra-Man) and his trusted associates—as well as related issues of preferential treatment—operates as follows: the public official acts in strict compliance with the regulations governing his role but orchestrates a parallel situation to secure personal gain; to avoid detection, he exploits contradictions inherent in that very situation, employing "parables" when issuing directives to his associates.
+### IMPORTANT NOTE (THE "CLEAN HANDS" CRIME): The scheme involving Baphomet (Ra-Man) and his trusted associates—as well as related issues of preferential treatment—operates as follows: the public official acts in strict compliance with the regulations governing his role but orchestrates a parallel situation to secure personal gain; to avoid detection, he exploits contradictions inherent in that very situation, employing "PARABLES WORDS" when issuing directives to his associates.
 
 ----
 
