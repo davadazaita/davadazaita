@@ -1,4 +1,4 @@
-## Deep Think It Mobile Datacenter ??? Who will process the high volume of data traffic in fractions of a second?
+## Deep Think It, Mobile Datacenter ??? Who will process the high volume of data traffic in fractions of a second?
 
 ---
 
