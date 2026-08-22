@@ -16,7 +16,11 @@
 
 ### IMPORTANT NOTE: Initially, the fusion of the green side and the red side is a deadly metamorphosis born of the union with Nathanel Banach Elohim (He was redeemed in the Hell of the Ha-Man; even today, there are those who stand in his favor—and that of his loved ones—advocating for his elevation as he himself attained)—who, in the past, accepted being contradicted by RA-MAN, the Baphomet of the Serpent.
 
-### OBS: It is worth noting that the Ra-Man Extreme Forces continue to act on their own within the dimension and the existing reality of your question.
+### OBS0: It is worth noting that the Ra-Man Extreme Forces continue to act on their own within the dimension and the existing reality of your question.
+
+### OBS1: It is important to remember that in Nato's conflict with Ra-Man, the only outcome he achieved was a draw—meaning he was captured, crucified, and burned on the planet Daua. His life force was sent to Ra-Man's Hell to be incinerated; however, because he possessed the "Torah of Remembrance," he managed to extinguish the flames, though he remains trapped in the world of Ha-Ma. 
+
+### OBS2: The contradiction lies in the "Sonic Blue and Sonic Black" episode Sonic Prime.
 
 ---
 
