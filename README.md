@@ -1,3 +1,9 @@
+### The KING of KING Adonai Tzevaot Commander - The Daua Elevation Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/93727a8c-307f-4536-9452-5f37bfe3bded" />
+
+---
+
 ### IMPORTANT NOTE: The KING of KING Adonai is the sovereign green force of this side of the universe that assumes no form whatsoever; it is like an energy live that thinks, speaks, and—in doing so—comes into existence, simultaneously existing and decreeing, far removed from being a vague or inert energy like that which powers machines.
 
 ---
