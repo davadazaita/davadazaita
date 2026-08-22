@@ -8,6 +8,8 @@
 
 ### IMPORTANT NOTE: Initially, the fusion of the green side and the red side is a deadly metamorphosis born of the union with Nathanel Banach Elohim (He was redeemed in the Hell of the HA-Man; even today, there are those who stand in his favor—and that of his loved ones—advocating for his elevation as he himself attained)—who, in the past, accepted being contradicted by RA-MAN, the Baphomet of the Serpent.
 
+### OBS: It is worth noting that the He-Man extractions continue to act on their own within the dimension and the existing reality of your issue.
+
 ---
 
 ### IMPORTANT NOTE: By decree (TORAH) of Adonai is KING of KING of Green Force: The Daua Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
