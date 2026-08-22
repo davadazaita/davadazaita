@@ -1,3 +1,7 @@
+### Adonai is the sovereign green force on this side of the universe that takes no form; it is like an energy that thinks, speaks, and—in doing so—exists and decrees, far from being a vague or inert energy.
+
+---
+
 ### IMPORTANT NOTE: By decree (TORAH) of Adonai is KING of KING of Green Force: The Daua Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
 
 ---
