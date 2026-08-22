@@ -1,3 +1,12 @@
+### If you don't believe that this is happening in the Ramonic dimension and in the existing history of the matter, that there is a clash between Adonai Tzevaot and Ra-Man, that's your problem, because I testified to the truth, "IESUS CRISTUM FILE DEI OR WHATEVER NAME YOU WANT TO CALL HIM IS THE WORK OF RA-MAN," THIS QUESTION OF IESUS OR YESHUA HAS NO SUPPORT IN THE TANACH.
+
+---
+
+### Se você não acredita que esta acontecendo na dimensão ramonica e não existente da história da questão, que existe um Embate entre Adonai Tzevaot e Ra-Man, e problema seu, pois e dei testemunho da verdade, "IESUS CRISTUM FILE DEI OU QUALQUER NOME QUE VOCE QUEIRA CHAMAR É COISA DO RA-MAN", ESTA QUESTÃO DE IESUS OU YESUA NAO TEM RESPALDO NO TANACH.
+
+---
+
+
 ### The KING of KING Adonai Tzevaot Commander - The Daua Elevation Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/93727a8c-307f-4536-9452-5f37bfe3bded" />
