@@ -12,6 +12,8 @@
 
 <h3> The NASSCAR conventional electrical recharge protection fuse. </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e1452074-5aff-4b99-a44e-ad5623e84a71" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/19d7c181-2fbc-45d2-b560-d5de0e52bf12" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7509a946-f9ef-498e-9957-2b5fdb0fa09f" />
