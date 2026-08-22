@@ -1,6 +1,6 @@
 ----
 
-### DIG NOTE ATTENTION (THE CLEAN HANDS CRIME): The scheme involving Baphomet (Ra-Man) and his favored associates—and the associated issues of preferential treatment—operates as follows: the public official acts in strict compliance with the regulations governing his role but orchestrates a parallel situation to secure a personal advantage; to avoid detection, he exploits contradictions within that very situation.
+### IMPORTANT NOTE (THE "CLEAN HANDS" CRIME): The scheme involving Baphomet (Ra-Man/Ra-Amon/Ra-Zen/Ra-Zinho) and his trusted associates—as well as related issues of preferential treatment—operates as follows: the public official acts in strict compliance with the rules governing his role but orchestrates a parallel situation to gain a personal advantage; to avoid detection, he exploits contradictions inherent in that very situation.
 
 ----
 
