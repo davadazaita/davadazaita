@@ -1,6 +1,6 @@
 ----
 
-### ATTENTION: The Baphomet (Ra-Man) scheme regarding these matters works as follows: the public official acts with strict adherence to the regulations governing their role, yet they orchestrate a separate issue to gain an advantage in their own case; to avoid detection, they employ contradictions within that very matter.
+### ATTENTION: The Baphomet (Ra-Man) scheme related to these matters operates as follows: the public official acts in strict compliance with the rules governing their role but orchestrates a parallel situation to gain an advantage in their own case; to avoid detection, they exploit contradictions within that very situation.
 
 ----
 
