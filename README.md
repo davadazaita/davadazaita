@@ -1,5 +1,11 @@
 ### IMPORTANT NOTE: The KING of KING Adonai is the sovereign green force of this side of the universe that assumes no form whatsoever; it is like an energy live that thinks, speaks, and—in doing so—comes into existence, simultaneously existing and decreeing, far removed from being a vague or inert energy like that which powers machines.
 
+### IMPORTANT NOTE: By decree (TORAH) of Adonai is KING of KING of Green Force: The Daua Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
+
+---
+
+### IMPORTANT NOTE: By decree (TORAH) of Adonai, state ministers are appointed by the King, and the Senior Minister is designated as the Supreme Minister, whereas governors, mayors, and state secretaries—the vassals (Vassouras) of the people—are elected by the people.
+
 ---
  
 ### IMPORTANT NOTE: The Elevated Human—Davada Beni Elohim of the Green Universe(Right Side) — I am the opposite of the Extremist of Human Contradiction Ra-Man, from the Red Universe(Left Side).
@@ -11,14 +17,6 @@
 ### OBS: It is worth noting that the He-Man extractions continue to act on their own within the dimension and the existing reality of your issue.
 
 ---
-
-### IMPORTANT NOTE: By decree (TORAH) of Adonai is KING of KING of Green Force: The Daua Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
-
----
-
-### IMPORTANT NOTE: By decree (TORAH) of Adonai, state ministers are appointed by the King, and the Senior Minister is designated as the Supreme Minister, whereas governors, mayors, and state secretaries—the vassals (Vassouras) of the people—are elected by the people.
-
-----
 
 ### IMPORTANT NOTE (THE "CLEAN HANDS" CRIME): The scheme involving Satan Baphomet (Ra-Man) and his trusted associates—as well as related issues of preferential treatment—operates as follows: the public official acts in strict compliance with the regulations governing his role but orchestrates a parallel situation to secure personal gain; to avoid detection, he exploits contradictions inherent in that very situation, employing "parabolic language" when conveying directives to his chosen associates.
 
