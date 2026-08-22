@@ -1,143 +1,3 @@
- ## ATTENTION: We fully support every citizen having a registered and legally authorized firearm at home for self-defence; however, in countries with restrictions, we do not provide anything related to personal defence firearms.
-
----
-
-## EVOX EV-PRS: Small Businesses, Big businesses: Support Evolution Technologies
-
----
-
-<h3> The rechargeable liquid battery cylinder is manually inserted into the electric charging point at the front of the vehicle to power the NASCAR electric motor. </h3>
-
----
-
-<h3> The NASSCAR conventional electrical recharge protection fuse. </h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e1452074-5aff-4b99-a44e-ad5623e84a71" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/19d7c181-2fbc-45d2-b560-d5de0e52bf12" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7509a946-f9ef-498e-9957-2b5fdb0fa09f" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cae1d979-047a-41f9-a057-665f5c1e5bc1" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7a67e335-6671-42c3-ab97-eff7eafacda5" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a1660dc2-d997-4e92-9367-f8dd762d447f" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f753dc45-2f4b-4598-aa6d-029c5f82c6b2" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/024530d5-4124-40d9-812c-6cdd1e842b49" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ac4d337a-156d-4da2-a74d-b4029a1d5620" />
-
----
-
-<h3> clean unobstructed cockpit solar transition polymer - The Best Of F1 Pé de Chinelo </h3>
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c2e0e885-dfc7-40da-930d-e00ce0b2e384" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2bd226fe-88ab-4dc1-8dde-0fbd7a99b1f8" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea6405cc-2b8b-4762-a83c-7bc1736a5bdd" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/eea88abd-ba8e-4544-a99c-c501e0d34572" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ef150d9a-6938-4784-9bd5-542c564dc880" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/91eb48e4-c1a1-46de-b4e3-7853d290c0d1" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/25a8dba8-9cf9-473d-a811-428eec198e51" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f97d65be-514f-4374-8a8d-cd41c66515b2" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bd44324b-d1b0-4501-ad13-dd5d62590335" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f66e6e46-8614-4efb-84d7-a7388f16dab9" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bca86d23-71b6-4a9d-9a2a-e10925cca148" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ef309f4a-63dd-4752-a5f0-4992e6385733" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/070c7dd5-7a85-41aa-b918-495f110de509" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/17721d2f-586f-4fc7-9584-9ca26af6ac1b" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8732a47e-8d37-4285-a7c3-22d92280bace" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4b6297a4-734d-45b3-9d5a-9cdeadef7813" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5a4c4d95-0685-43ec-a32f-445942163f8b" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ae6c5b75-8918-4693-96c4-e8e71593b9a6" />
-
----
-
-## Complete worker PPE (overalls, boots, helmets, gloves, protective glasses)
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/16b2fc78-5b14-4b42-8196-8aab1d0b488d" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bcad33c7-f5bb-4866-ad59-34d305dbe941" />
-
---- 
-
-## KIT: Building 3D Molds On Polymers. Daua Team - Associated Publishers 2026
-
-<h3> The auto parts sector union uses Pistol Laser-MIG welding to join a polymer comparable to steel. </h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60d04b5b-6e1b-4c9b-b5b0-2f6e3ca6c97c" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9168400b-4794-48e8-b53c-2eba532e1911" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/42a75c7e-d186-4359-8879-9a298dfadaf1" />
-
-<h3> Scale model of the actual structure to be built </h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7fd7222c-7b6b-4e59-96fc-8d0de6db3f2f" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c874a266-3512-45c5-b19b-78420c55582d" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5400cb65-9522-4650-a5e4-c46b746e85e0" />
-
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/686ecbbf-8717-41c3-888c-15ea55bba2ce" />
-
----
-
-## Small example items built using 3D molds on polymer.
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/04d01402-5f21-4e65-ac7a-39bf873a7dca" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b727621e-f690-4f31-a0d5-3d52b58f5410" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/41ab1f9c-ce59-411f-8213-80cb586b66b0" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21158776-24fb-4652-a016-87bab8e3d999" />
-
----
-
-## The molds are made on 3D printers so that the car parts can be built.
-
----
-
-##  Setting Up Your First Car on Made in Garage
-
-<h3> KIT 3D-printed molds, polymer panels, and labeled storage boxes </h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/654e205c-4a48-43f1-a5ed-492e4b3b7198" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/deb32747-2bb2-4c30-ad0c-f72a05a3fb78" />
-
----
-
-<h3> ALL PACKAGES </h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b01d6d5b-0c60-42a4-b739-8742db1e7a15" />
-
-
 ----
 
 ## United States Of Arctic on Earth Planet (USA)
@@ -203,7 +63,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Daua Royal Federal University (DRFU) - Qualis AAA
+## Daua Royal Federal University (DRFU) 
 
 ### On United States Of Arctic (USA) the former Planet Earth, at the Arctic Border Control.
 
@@ -397,6 +257,150 @@ Here are some ideas to get you started:
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c146c601-7fe8-4355-ab24-794ac47f9d38" />
+
+## ATTENTION: We fully support every citizen having a registered and legally authorized firearm at home for self-defence; however, in countries with restrictions, we do not provide anything related to personal defence firearms.
+
+---
+
+## EVOX EV-PRS: Small Businesses, Big businesses: Support Evolution Technologies
+
+---
+
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3ab1aeb1-e000-474f-8b3d-41c6b336ccdd" />
+
+---
+
+<h3> The rechargeable liquid battery cylinder is manually inserted into the electric charging point at the front of the vehicle to power the NASCAR electric motor. </h3>
+
+---
+
+<h3> The NASSCAR conventional electrical recharge protection fuse. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/e1452074-5aff-4b99-a44e-ad5623e84a71" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/19d7c181-2fbc-45d2-b560-d5de0e52bf12" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7509a946-f9ef-498e-9957-2b5fdb0fa09f" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cae1d979-047a-41f9-a057-665f5c1e5bc1" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7a67e335-6671-42c3-ab97-eff7eafacda5" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a1660dc2-d997-4e92-9367-f8dd762d447f" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f753dc45-2f4b-4598-aa6d-029c5f82c6b2" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/024530d5-4124-40d9-812c-6cdd1e842b49" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ac4d337a-156d-4da2-a74d-b4029a1d5620" />
+
+---
+
+<h3> clean unobstructed cockpit solar transition polymer - The Best Of F1 Pé de Chinelo </h3>
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c2e0e885-dfc7-40da-930d-e00ce0b2e384" />
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2bd226fe-88ab-4dc1-8dde-0fbd7a99b1f8" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ea6405cc-2b8b-4762-a83c-7bc1736a5bdd" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/eea88abd-ba8e-4544-a99c-c501e0d34572" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ef150d9a-6938-4784-9bd5-542c564dc880" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/91eb48e4-c1a1-46de-b4e3-7853d290c0d1" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/25a8dba8-9cf9-473d-a811-428eec198e51" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f97d65be-514f-4374-8a8d-cd41c66515b2" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bd44324b-d1b0-4501-ad13-dd5d62590335" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f66e6e46-8614-4efb-84d7-a7388f16dab9" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bca86d23-71b6-4a9d-9a2a-e10925cca148" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ef309f4a-63dd-4752-a5f0-4992e6385733" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/070c7dd5-7a85-41aa-b918-495f110de509" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/17721d2f-586f-4fc7-9584-9ca26af6ac1b" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8732a47e-8d37-4285-a7c3-22d92280bace" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4b6297a4-734d-45b3-9d5a-9cdeadef7813" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5a4c4d95-0685-43ec-a32f-445942163f8b" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ae6c5b75-8918-4693-96c4-e8e71593b9a6" />
+
+---
+
+## Complete worker PPE (overalls, boots, helmets, gloves, protective glasses)
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/16b2fc78-5b14-4b42-8196-8aab1d0b488d" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bcad33c7-f5bb-4866-ad59-34d305dbe941" />
+
+--- 
+
+## KIT: Building 3D Molds On Polymers. Daua Team - Associated Publishers 2026
+
+<h3> The auto parts sector union uses Pistol Laser-MIG welding to join a polymer comparable to steel. </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60d04b5b-6e1b-4c9b-b5b0-2f6e3ca6c97c" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9168400b-4794-48e8-b53c-2eba532e1911" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/42a75c7e-d186-4359-8879-9a298dfadaf1" />
+
+<h3> Scale model of the actual structure to be built </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7fd7222c-7b6b-4e59-96fc-8d0de6db3f2f" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c874a266-3512-45c5-b19b-78420c55582d" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5400cb65-9522-4650-a5e4-c46b746e85e0" />
+
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/686ecbbf-8717-41c3-888c-15ea55bba2ce" />
+
+---
+
+## Small example items built using 3D molds on polymer.
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/04d01402-5f21-4e65-ac7a-39bf873a7dca" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b727621e-f690-4f31-a0d5-3d52b58f5410" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/41ab1f9c-ce59-411f-8213-80cb586b66b0" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/21158776-24fb-4652-a016-87bab8e3d999" />
+
+---
+
+## The molds are made on 3D printers so that the car parts can be built.
+
+---
+
+##  Setting Up Your First Car on Made in Garage
+
+<h3> KIT 3D-printed molds, polymer panels, and labeled storage boxes </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/654e205c-4a48-43f1-a5ed-492e4b3b7198" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/deb32747-2bb2-4c30-ad0c-f72a05a3fb78" />
+
+---
+
+<h3> ALL PACKAGES </h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b01d6d5b-0c60-42a4-b739-8742db1e7a15" />
 
 ---
 
