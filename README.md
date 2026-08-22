@@ -1,6 +1,6 @@
 ----
 
-### ATTENTION: The Baphomet (Ra-Man) scheme related to these matters operates as follows: the public official acts in strict compliance with the rules governing their role but orchestrates a parallel situation to gain an advantage in their own case; to avoid detection, they exploit contradictions within that very situation.
+### DIG – TAKE NOTE: ATTENTION, The scheme involving Baphomet (Ra-Man) and his favored associates—and the associated issues of preferential treatment—operates as follows: the public official acts in strict compliance with the regulations governing his role but orchestrates a parallel situation to secure a personal advantage; to avoid detection, he exploits contradictions within that very situation.
 
 ----
 
