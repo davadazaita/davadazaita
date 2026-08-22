@@ -1,8 +1,8 @@
-###  IMPORTANT NOTE: If you don't believe this is happening in the Ramonica dimension of Ra-Man, that there is a conflict between Adonai Tzevaot and Ra-Man, that's your problem, because I witnessed the truth: "IESUS CHRISTUS FILE DEI OR WHATEVER NAME YOU WANT TO USE FOR HIM IS THE WORK OF RA-MAN." THIS QUESTION OF IESUS OR YESHUA HAS NO BASIS IN THE TANAKH.
+###  IMPORTANT NOTE: If you don't believe this is happening in the Ramonica dimension of Ra-Man, that there is a conflict between Adonai Tzevaot and Ra-Man, that's your problem, because I witnessed the truth: "IESUS CHRISTUS FILE DEI OR WHATEVER NAME YOU WANT TO USE FOR HIM IS THE WORK OF RA-MAN." THIS QUESTION OF IESUS OR YESHUA HAS NO BASIS IN THE TANAKH. There are passages taken out of context to serve as a pretext to continue contradicting in favor of RA, which favored you in order to contradict Adonai Tzevaot, to continue favoring you and then, because you are also his opponent, send you to the Ramonic dimension so that you can burn as was destined for NATO and its BATACH.
 
 ---
 
-###  IMPORTANT NOTE: Se não acredita que isto está a acontecer na dimensão Ramonica de Ra-Man, que existe um conflito entre Adonai Tzevaot e o Ra-Man, esse é o seu problema, porque eu testemunhei a verdade: "IESUS CHRISTUS FILE DEI OU QUALQUER NOME QUE QUEIRAS USAR PARA ELE É OBRA DE RA-MAN". ESTA QUESTÃO DO IESUS OU YESHUA NÃO TEM FUNDAMENTAÇÃO NO TANAKH.
+###  IMPORTANT NOTE: Se não acredita que isto está a acontecer na dimensão Ramonica de Ra-Man, que existe um conflito entre Adonai Tzevaot e o Ra-Man, esse é o seu problema, porque eu testemunhei a verdade: "IESUS CHRISTUS FILE DEI OU QUALQUER NOME QUE QUEIRAS USAR PARA ELE É OBRA DE RA-MAN". ESTA QUESTÃO DO IESUS OU YESHUA NÃO TEM FUNDAMENTAÇÃO NO TANAKH. There are passages taken out of context to serve as a pretext to continue contradicting in favor of RA, which favored you in order to contradict Adonai Tzevaot, to continue favoring you and then, because you are also his opponent, send you to the Ramonic dimension so that you can burn as was destined for NATO and its BATACH.
 
 ---
 
