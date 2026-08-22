@@ -2,7 +2,7 @@
 
 ---
 
-###  IMPORTANT NOTE: Se não acredita que isto está a acontecer na dimensão Ramonica de Ra-Man, que existe um conflito entre Adonai Tzevaot e o Ra-Man, esse é o seu problema, porque eu testemunhei a verdade: "IESUS CRISTUM FILE DEI OU QUALQUER NOME QUE QUEIRAS USAR PARA ELE É OBRA DE RA-MAN". ESTA QUESTÃO DO IESUS OU YESHUA NÃO TEM FUNDAMENTAÇÃO NO TANAKH.
+###  IMPORTANT NOTE: Se não acredita que isto está a acontecer na dimensão Ramonica de Ra-Man, que existe um conflito entre Adonai Tzevaot e o Ra-Man, esse é o seu problema, porque eu testemunhei a verdade: "IESUS CHRISTUS FILE DEI OU QUALQUER NOME QUE QUEIRAS USAR PARA ELE É OBRA DE RA-MAN". ESTA QUESTÃO DO IESUS OU YESHUA NÃO TEM FUNDAMENTAÇÃO NO TANAKH.
 
 ---
 
