@@ -6,7 +6,7 @@
 
 ---
 
-### IMPORTANT NOTE: Initially, the fusion of the green side and the red side is a deadly metamorphosis born of the union with Nathanel Banach Elohim (The One Already Redeemed in Hell of Ra-Man)—who, in the past, accepted being contradicted by RA-MAN, the Baphomet of the Serpent.
+### IMPORTANT NOTE: Initially, the fusion of the green side and the red side is a deadly metamorphosis born of the union with Nathanel Banach Elohim (He Was Redeemed in the HA-Man's Hell)—who, in the past, accepted being contradicted by RA-MAN, the Baphomet of the Serpent.
 
 ---
 
