@@ -1,3 +1,5 @@
+### IMPORTANT NOTE: Under Adonai's decree (TORAH), state ministers are appointed by the King, whereas governors, mayors, and state secretaries—the people's vassals—are elected by the people.
+
 ----
 
 ### IMPORTANT NOTE (THE "CLEAN HANDS" CRIME): The scheme involving Satan Baphomet (Ra-Man) and his trusted associates—as well as related issues of preferential treatment—operates as follows: the public official acts in strict compliance with the regulations governing his role but orchestrates a parallel situation to secure personal gain; to avoid detection, he exploits contradictions inherent in that very situation, employing "parabolic language" when conveying directives to his chosen associates.
