@@ -1,4 +1,4 @@
-### IMPORTANT NOTE: By decree (TORAH) of Adonai, state ministers are appointed by the King, and the Senior Minister is designated as the Supreme Minister, whereas governors, mayors, and state secretaries—the vassals of the people—are elected by the people.
+### IMPORTANT NOTE: By decree (TORAH) of Adonai, state ministers are appointed by the King, and the Senior Minister is designated as the Supreme Minister, whereas governors, mayors, and state secretaries—the vassals (Vassouras) of the people—are elected by the people.
 
 ----
 
