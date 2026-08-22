@@ -8,6 +8,8 @@
 
 <h3> The rechargeable liquid battery cylinder is manually inserted into the electric charging point at the front of the vehicle to power the NASCAR electric motor. </h3>
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7509a946-f9ef-498e-9957-2b5fdb0fa09f" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cae1d979-047a-41f9-a057-665f5c1e5bc1" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7a67e335-6671-42c3-ab97-eff7eafacda5" />
