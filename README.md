@@ -20,7 +20,9 @@
 
 ### OBS1: It is important to remember that in Nato's conflict with Ra-Man, the only outcome he achieved was a draw—meaning he was captured, crucified, and burned on the planet Daua. His life force was sent to Ra-Man's Hell to be incinerated; however, because he possessed the "Torah of Remembrance," he managed to extinguish the flames, though he remains trapped in the world of Ha-Ma. 
 
-### OBS2: The contradiction lies in the "Sonic Blue vs Shadow (Sonic Black)" episode Sonic Prime.
+### OBS2: Follow the example of Evo Rizoma (Adam), Avraham (Abraham), and Sinson (Samson) who decided to act according to their Torah of Adonai to resolve the Ra-Man issue.
+
+### OBS3: The contradiction lies in the "Sonic Blue vs Shadow (Sonic Black)" episode Sonic Prime.
 
 ---
 
