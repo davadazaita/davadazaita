@@ -1,3 +1,7 @@
+### The Daua Forces are a defense force composed essentially of the ground guard, coast guard, and space guard.
+
+---
+
 ### IMPORTANT NOTE: By decree (TORAH) of Adonai, state ministers are appointed by the King, and the Senior Minister is designated as the Supreme Minister, whereas governors, mayors, and state secretaries—the vassals (Vassouras) of the people—are elected by the people.
 
 ----
