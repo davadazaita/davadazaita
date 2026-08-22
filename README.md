@@ -2,7 +2,7 @@
 
 ---
 
-### IMPORTANT NOTE: By decree (TORAH) of Adonai is KING of KING of Green Force: The Daua Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
+### IMPORTANT NOTE: By decree (TORAH) of Adonai is KING of KING of Green Force: The Daua Elevation Forces are a defense and peacekeeping force composed essentially of the ground guard, maritime guard, and space guard.
 
 ---
 
