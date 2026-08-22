@@ -2,6 +2,10 @@
 
 ---
 
+### IMPORTANT NOTE: A Torá não endossa nenhuma religião, pois é a constituição soberana sobre todas as outras. Adonai não estabeleceu nenhuma religião, nem o Tanach. Por exemplo: Judaísmo, Cristianismo, Islamismo, etc.
+
+---
+
 ###  IMPORTANT NOTE: The burning question is: what if everything I said is true? The same thing I told Nato and his wife, Batach. And when you reach Ra-man's infernal dimension, what will you do to extinguish the flame in your souls and get out of there??? Nato only managed to extinguish the flames in himself and his family, but remains trapped there. Stop and think about it. As the saying goes: Ra-man gives with one hand and takes away with both, and when he reaches the point of favoring you, he takes you to the infernal dimension to burn you, as he did with Nato and Batach, who accepted being contradicted in order to be favored by Ra.
 
 ---
