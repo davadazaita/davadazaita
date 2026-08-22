@@ -6,7 +6,7 @@
 
 ---
 
-### The fusion of green and red is a deadly metamorphosis born of the union with the *Nathanel Banach Elohim* (The Redeemed)—who, in the past, accepted being contradicted by RA-MAN, Baphomet.
+### The fusion of the green side and the red side is a deadly metamorphosis born of the union with Nathanel Banach Elohim (The Already Redeemed)—who, in the past, accepted being contradicted by RA-MAN, the Baphomet of the Serpent.
 
 ---
 
