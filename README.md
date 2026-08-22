@@ -2,7 +2,7 @@
 
 ---
 
-### IMPORTANT NOTE: On Green Universe's Davada Beni Elohim, I am the opposite of the Ra-Man of Red Universe's.
+### IMPORTANT NOTE: I, the Elevated Human—Davada Bene Elohim of the Green Universe—am the opposite of the Extremist Human Ra-Man of Contradiction, from the Red Universe.
 
 ---
 
